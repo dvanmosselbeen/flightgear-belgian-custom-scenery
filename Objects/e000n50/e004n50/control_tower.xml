@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+    <path>control_tower.ac</path>
+
+    <animation>
+        <type>range</type>
+        <object-name>Rail</object-name>
+        <min-m>0</min-m>
+        <max-m>700</max-m>
+    </animation>
+
+    <animation>
+        <type>range</type>
+        <object-name>RescueStair</object-name>
+        <min-m>0</min-m>
+        <max-m>1500</max-m>
+    </animation>
+
+     <animation>
+        <type>rotate</type>
+        <object-name>Radar</object-name>
+        <property>/sim/time/elapsed-sec</property>
+        <factor>-90.0</factor>
+        <center>
+            <x-m>2.23</x-m>
+            <y-m>0.34</y-m>
+            <z-m>69.07</z-m>
+        </center>
+        <axis>
+            <x>0</x>
+            <y>0</y>
+            <z>1</z>
+        </axis>
+    </animation>
+
+    <!-- 
+         Experimental lightmap effect
+         NOTE: needs to merge the two separate textures
+    -->
+    <!--
+    <animation>
+        <type>material</type>
+        <texture>control_tower-tower.png</texture>
+    </animation>
+    <effect>
+	<inherits-from>Effects/lightmap</inherits-from>
+	<parameters>
+	    <texture n="1">
+	        <image>control_tower-tower_lm.png</image>
+	    </texture>
+	</parameters>
+ 	<object-name>ControlTower</object-name> 
+    </effect>
+    -->
+
+</PropertyList>

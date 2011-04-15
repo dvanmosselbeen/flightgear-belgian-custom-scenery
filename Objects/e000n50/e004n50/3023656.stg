@@ -1,0 +1,9 @@
+#country: be
+#submitter: David Van Mosselbeen
+### Some generic stuff here and there
+#desc: Wind turbine of Colruyt Halle
+OBJECT_SHARED Models/Power/windturbine.xml 4.208284 50.72992 20.1806 108.0
+#desc: Some Church at Halle
+OBJECT_SHARED Models/Misc/eglise-ba.ac 4.243885 50.731151 29.5 90
+### END SHARED STUFF
+

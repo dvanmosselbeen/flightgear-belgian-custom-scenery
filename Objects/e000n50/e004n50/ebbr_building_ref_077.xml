@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+    <path>ebbr_building_ref_077.ac</path>
+
+     <nasal>
+          <load>
+               if (!contains(globals, "scenery")) globals["scenery"] = {};
+               if (!contains(scenery, "EBBR")) scenery["EBBR"] = {};
+               if (!contains(scenery.EBBR, "hangar")) scenery.EBBR["hangar"] =
+                 [nil,nil,nil,nil,nil,nil];
+               scenery.EBBR.hangar[0] =
+                 { door :
+                   [aircraft.door.new("/scenery/EBBR/hangar[0]/door[0]", 3*60)]
+                 };
+          </load>
+     </nasal>
+
+    <animation>
+        <type>translate</type>
+        <object-name>door-N1</object-name>
+        <property>/scenery/EBBR/hangar[0]/door[0]/position-norm</property>
+        <interpolation>
+            <entry><ind>0</ind><dep>0.0</dep></entry>
+            <entry><ind>0.2</ind><dep>-3.5</dep></entry>
+        </interpolation>
+        <axis>
+            <x>1</x>
+            <y>0</y>
+            <z>0</z>
+        </axis>
+    </animation>
+      
+    <animation>
+        <type>translate</type>
+        <object-name>door-N2</object-name>
+        <property>/scenery/EBBR/hangar[0]/door[0]/position-norm</property>
+        <interpolation>
+            <entry><ind>0</ind><dep>0.0</dep></entry>
+            <entry><ind>0.2</ind><dep>-7.5</dep></entry>
+        </interpolation>
+        <axis>
+            <x>1</x>
+            <y>0</y>
+            <z>0</z>
+        </axis>
+    </animation>
+
+    <animation>
+        <type>translate</type>
+        <object-name>door-N3</object-name>
+        <property>/scenery/EBBR/hangar[0]/door[0]/position-norm</property>
+        <interpolation>
+            <entry><ind>0</ind><dep>0.0</dep></entry>
+            <entry><ind>0.2</ind><dep>7.5</dep></entry>
+        </interpolation>
+        <axis>
+            <x>1</x>
+            <y>0</y>
+            <z>0</z>
+        </axis>
+    </animation>
+
+    <animation>
+        <type>translate</type>
+        <object-name>door-N4</object-name>
+        <property>/scenery/EBBR/hangar[0]/door[0]/position-norm</property>
+        <interpolation>
+            <entry><ind>0</ind><dep>0</dep></entry>
+            <entry><ind>0.2</ind><dep>3.5</dep></entry>
+        </interpolation>
+        <axis>
+            <x>1</x>
+            <y>0</y>
+            <z>0</z>
+        </axis>
+    </animation>
+
+    <animation>
+        <type>pick</type>
+        <object-name>door-N1</object-name>
+        <object-name>door-N2</object-name>
+        <object-name>door-N2</object-name>
+        <object-name>door-N3</object-name>
+        <visible>true</visible>
+        <action>
+            <name>click</name>
+            <button>0</button>
+            <repeatable>false</repeatable>
+            <binding>
+                <command>nasal</command>
+                <script>scenery.EBBR.hangar[0].door[0].toggle();</script>
+            </binding>
+        </action>
+    </animation>
+
+</PropertyList>
+

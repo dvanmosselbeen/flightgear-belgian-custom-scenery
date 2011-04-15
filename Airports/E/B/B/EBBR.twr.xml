@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PropertyList>
+  <tower>
+    <twr>
+      <!--lon>4.487229</lon -->
+      <!-- lat>50.898376</lat -->
+      <lon>4.50859800</lon>
+      <lat>50.90780800</lat>
+
+      <elev-m>121.92</elev-m>
+      <heading>25</heading>
+    </twr>
+  </tower>
+</PropertyList>
