@@ -1,7 +1,7 @@
 #country: be
 #submitter: David Van Mosselbeen
 # Atonium fix
-OBJECT_STATIC atomium.xml 4.341416 50.894894 60.39 0
+#OBJECT_STATIC atomium.xml 4.341416 50.894894 60.39 0
 
 #desc: Power cooling towers
 OBJECT_SHARED Models/Power/coolingtower.xml 4.426587 50.941477 20.1806 108.0
@@ -141,4 +141,4 @@ OBJECT_SHARED Models/Airport/apt-light.xml 4.460794 50.904449 26.4 0
 #OBJECT_STATIC ebbr_airport.ac 4.48464298 50.89355080 44.3243 104.0
 #desc: Rotonde
 OBJECT_STATIC ebbr_building_ref_037.ac 4.487720 50.894814 44.3243 -150.0
-OBJECT_STATIC old_control_tower.ac 4.485552 50.897063 44.3243 -66
+OBJECT_STATIC old_control_tower.ac 4.485552 50.897063 41 207
