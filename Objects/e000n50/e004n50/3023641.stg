@@ -1,0 +1,12 @@
+#country: be
+#submitter: David Van Mosselbeen
+# EBCI airport buildings
+OBJECT_STATIC ebci_building_ref_004b.ac 4.459061 50.459010 178 25
+OBJECT_STATIC ebci_building_ref_005.ac 4.459937 50.459241 178 115
+
+OBJECT_STATIC ebci_building_ref_007.ac 4.451741 50.457214 181 115
+OBJECT_STATIC ebci_building_ref_008.ac 4.449088 50.456404 181 115
+OBJECT_STATIC ebci_building_ref_009.ac 4.446973 50.455488 181 115
+
+OBJECT_STATIC ebci_building_ref_012.ac 4.470565 50.469357 175.5 115
+OBJECT_STATIC ebci_building_ref_013.ac 4.462700 50.466260 175.5 115

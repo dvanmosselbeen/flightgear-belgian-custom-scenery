@@ -136,9 +136,44 @@ OBJECT_SHARED Models/Airport/apt-light.xml 4.458246 50.903713 26.4 0
 OBJECT_SHARED Models/Airport/apt-light.xml 4.459701 50.904133 26.4 0
 OBJECT_SHARED Models/Airport/apt-light.xml 4.460794 50.904449 26.4 0
 
-
-#desc: Temp terminal
-#OBJECT_STATIC ebbr_airport.ac 4.48464298 50.89355080 44.3243 104.0
 #desc: Rotonde
 OBJECT_STATIC ebbr_building_ref_037.ac 4.487720 50.894814 44.3243 -150.0
 OBJECT_STATIC old_control_tower.ac 4.485552 50.897063 41 207
+
+## EBGB airport
+OBJECT_STATIC ebgb_control_tower.ac 4.395874 50.948297 17 0
+OBJECT_STATIC ebgb_building_ref_001.ac 4.395328 50.945498 17 0
+OBJECT_STATIC ebgb_building_ref_002.ac 4.395474 50.946169 16.5 90
+# first cylinder (ref 003)
+OBJECT_STATIC ebgb_building_ref_004.ac 4.393997 50.945847 17 0
+# second sylinder (ref 004)
+OBJECT_STATIC ebgb_building_ref_004.ac 4.394115 50.944947 17 0
+# Building ref 005 (Gaz pipes?)
+#OBJECT_SHARED Models/Airport/helipad_circle.xml 4.395190 50.948320 17 0
+OBJECT_STATIC ebgb_building_ref_008.ac 4.390769 50.943290 19 0
+OBJECT_STATIC ebgb_building_ref_009.ac 4.391282 50.943483 19 90
+OBJECT_STATIC ebgb_building_ref_010.ac 4.393325 50.943873 17 0
+OBJECT_STATIC ebgb_building_ref_011.ac 4.393473 50.944015 17 0
+OBJECT_STATIC ebgb_building_ref_012.ac 4.393655 50.944383 17 0
+OBJECT_STATIC ebgb_building_ref_013.xml 4.395111 50.944900 17 0
+# Some bridge
+OBJECT_STATIC ebgb_verbrandebrug.ac 4.413391 50.947783 17 115
+
+# Total fuel stockage
+OBJECT_STATIC ebgb_total_reserve.ac 4.405266 50.905030 23 0
+
+# A few static decor aircrafts
+OBJECT_SHARED Models/Aircraft/Cessna150.xml 4.393570 50.945213 18.3 50
+OBJECT_SHARED Models/Aircraft/Cessna172.xml 4.393908 50.945332 18 15
+OBJECT_SHARED Models/Aircraft/D112.xml 4.390349 50.943191 19 90
+OBJECT_SHARED Models/Aircraft/D112.xml 4.390273 50.943301 19 90
+OBJECT_SHARED Models/Aircraft/Cessna150.xml 4.394384 50.946604 17 270
+OBJECT_SHARED Models/Aircraft/DR221.xml 4.394361 50.946838 17 270
+OBJECT_SHARED Models/Aircraft/DR400.xml 4.394391 50.947027 17 270
+OBJECT_SHARED Models/Aircraft/HR200.xml 4.394421 50.947232 17 270
+OBJECT_SHARED Models/Aircraft/MS880_rallye.xml 4.394564 50.944718 17 250
+OBJECT_SHARED Models/Aircraft/R3000.xml 4.393630 50.944736 19 145
+
+OBJECT_SHARED Models/Power/windturbine.xml 4.371777 50.996787 10 90
+OBJECT_SHARED Models/Power/windturbine.xml 4.373179 50.995555 10 90
+OBJECT_SHARED Models/Power/windturbine.xml 4.374515 50.994373 10 90

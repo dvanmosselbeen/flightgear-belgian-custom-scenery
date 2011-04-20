@@ -2,28 +2,28 @@
 
 <PropertyList>
 
-    <path>ebbr_building_ref_077.ac</path>
+    <path>ebgb_building_ref_013.ac</path>
 
      <nasal>
           <load>
                if (!contains(globals, "scenery")) globals["scenery"] = {};
-               if (!contains(scenery, "EBBR")) scenery["EBBR"] = {};
-               if (!contains(scenery.EBBR, "hangar")) scenery.EBBR["hangar"] =
+               if (!contains(scenery, "EBGB")) scenery["EBGB"] = {};
+               if (!contains(scenery.EBGB, "hangar")) scenery.EBGB["hangar"] =
                  [nil,nil,nil,nil,nil,nil];
-               scenery.EBBR.hangar[0] =
+               scenery.EBGB.hangar[0] =
                  { door :
-                   [aircraft.door.new("/scenery/EBBR/hangar[0]/door[0]", 3*60)]
+                   [aircraft.door.new("/scenery/EBGB/hangar[0]/door[0]", 3*60)]
                  };
           </load>
      </nasal>
 
     <animation>
         <type>translate</type>
-        <object-name>door-N1</object-name>
-        <property>/scenery/EBBR/hangar[0]/door[0]/position-norm</property>
+        <object-name>DoorL1</object-name>
+        <property>/scenery/EBGB/hangar[0]/door[0]/position-norm</property>
         <interpolation>
             <entry><ind>0</ind><dep>0.0</dep></entry>
-            <entry><ind>0.2</ind><dep>-3.5</dep></entry>
+            <entry><ind>0.2</ind><dep>-2.921</dep></entry>
         </interpolation>
         <axis>
             <x>1</x>
@@ -34,11 +34,11 @@
       
     <animation>
         <type>translate</type>
-        <object-name>door-N2</object-name>
-        <property>/scenery/EBBR/hangar[0]/door[0]/position-norm</property>
+        <object-name>DoorL2</object-name>
+        <property>/scenery/EBGB/hangar[0]/door[0]/position-norm</property>
         <interpolation>
             <entry><ind>0</ind><dep>0.0</dep></entry>
-            <entry><ind>0.2</ind><dep>-7.5</dep></entry>
+            <entry><ind>0.2</ind><dep>-5.842</dep></entry>
         </interpolation>
         <axis>
             <x>1</x>
@@ -49,11 +49,26 @@
 
     <animation>
         <type>translate</type>
-        <object-name>door-N3</object-name>
-        <property>/scenery/EBBR/hangar[0]/door[0]/position-norm</property>
+        <object-name>DoorR2</object-name>
+        <property>/scenery/EBGB/hangar[0]/door[0]/position-norm</property>
         <interpolation>
             <entry><ind>0</ind><dep>0.0</dep></entry>
-            <entry><ind>0.2</ind><dep>7.5</dep></entry>
+            <entry><ind>0.2</ind><dep>5.842</dep></entry>
+        </interpolation>
+        <axis>
+            <x>1</x>
+            <y>0</y>
+            <z>0</z>
+        </axis>
+    </animation>
+      
+    <animation>
+        <type>translate</type>
+        <object-name>DoorR1</object-name>
+        <property>/scenery/EBGB/hangar[0]/door[0]/position-norm</property>
+        <interpolation>
+            <entry><ind>0</ind><dep>0.0</dep></entry>
+            <entry><ind>0.2</ind><dep>2.921</dep></entry>
         </interpolation>
         <axis>
             <x>1</x>
@@ -62,27 +77,13 @@
         </axis>
     </animation>
 
-    <animation>
-        <type>translate</type>
-        <object-name>door-N4</object-name>
-        <property>/scenery/EBBR/hangar[0]/door[0]/position-norm</property>
-        <interpolation>
-            <entry><ind>0</ind><dep>0</dep></entry>
-            <entry><ind>0.2</ind><dep>3.5</dep></entry>
-        </interpolation>
-        <axis>
-            <x>1</x>
-            <y>0</y>
-            <z>0</z>
-        </axis>
-    </animation>
 
     <animation>
         <type>pick</type>
-        <object-name>door-N1</object-name>
-        <object-name>door-N2</object-name>
-        <object-name>door-N3</object-name>
-        <object-name>door-N4</object-name>
+        <object-name>DoorL1</object-name>
+        <object-name>DoorL2</object-name>
+        <object-name>DoorR1</object-name>
+        <object-name>DoorR2</object-name>
         <visible>true</visible>
         <action>
             <name>click</name>
@@ -90,7 +91,7 @@
             <repeatable>false</repeatable>
             <binding>
                 <command>nasal</command>
-                <script>scenery.EBBR.hangar[0].door[0].toggle();</script>
+                <script>scenery.EBGB.hangar[0].door[0].toggle();</script>
             </binding>
         </action>
     </animation>
