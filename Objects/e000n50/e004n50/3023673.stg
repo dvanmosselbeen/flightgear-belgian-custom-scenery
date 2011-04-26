@@ -1,45 +1,89 @@
 #country: be
 #submitter: David Van Mosselbeen
+
+### Heyzel
 # Atonium fix
-#OBJECT_STATIC atomium.xml 4.341416 50.894894 60.39 0
+OBJECT_STATIC atomium.xml 4.341416 50.894894 60.39 0
+#desc: Stade Roi Baudouin
+OBJECT_STATIC stade_roi_baudouin.ac 4.333975 50.895665 60 40
+OBJECT_STATIC terrain_de_foot_generic.ac 4.331160 50.896330 57 40
+OBJECT_STATIC terrain_de_foot_generic.ac 4.330324 50.895885 56 40
+OBJECT_STATIC terrain_de_foot_generic.ac 4.338031 50.892636 47 40
+
+#desc: Palais de Centenaire
+OBJECT_STATIC palais_du_heysel_1.ac 4.333595 50.898481 73 120
+OBJECT_STATIC palais_du_heysel_2.ac 4.336438 50.897871 73 120
+OBJECT_STATIC palais_du_heysel_3.ac 4.334831 50.898741 73 120
+OBJECT_STATIC palais_du_heysel_4.ac 4.335903 50.899105 73 120
+OBJECT_STATIC palais_du_heysel_5.ac 4.337091 50.899650 73 120
+OBJECT_STATIC palais_du_heysel_6.ac 4.338374 50.900084 73 120
+OBJECT_STATIC palais_du_heysel_7.ac 4.339482 50.900475 73 120
+#OBJECT_STATIC palais_du_heysel_8.ac 4.337091 50.899650 73 120
+#OBJECT_STATIC palais_du_heysel_9.ac 4.337091 50.899650 73 120
+OBJECT_STATIC palais_du_heysel_10.ac 4.339935 50.899093 73 120
+OBJECT_STATIC palais_du_heysel_11.ac 4.340568 50.900900 73 120
+OBJECT_STATIC palais_du_heysel_12.ac 4.342198 50.900948 73 120
+OBJECT_STATIC trade_mart.ac 4.342582 50.897659 73 90
+
+#desc: Grand Serment Royal Des Archers De St Sebastien
+OBJECT_STATIC grand_serment_royal_des_archers_de_st_sebastien.ac 4.336331 50.892787 47 310
+OBJECT_STATIC heysel_planetarium.ac 4.337312 50.893421 50 40
+#desc: Palais Royal de Laeken
+OBJECT_STATIC palais_royal_de_laeken.ac 4.360010 50.886303 52 120
+###
+
+#desc: Pont de Vilvoorde
+# Guides
+OBJECT_STATIC guide.ac 4.429868 50.907531 43 0
+OBJECT_STATIC guide.ac 4.429331 50.908595 43 0
+OBJECT_STATIC guide.ac 4.428365 50.909752 43 0
+OBJECT_STATIC guide.ac 4.427072 50.910770 43 0
+OBJECT_STATIC guide.ac 4.425349 50.911602 43 0
+OBJECT_STATIC guide.ac 4.423307 50.912447 43 0
+OBJECT_STATIC guide.ac 4.421291 50.913212 43 0
+OBJECT_STATIC guide.ac 4.419056 50.913776 43 0
+OBJECT_STATIC guide.ac 4.416625 50.913965 43 0
+OBJECT_STATIC guide.ac 4.413094 50.913588 43 0
+OBJECT_STATIC guide.ac 4.410146 50.912914 43 0
+OBJECT_STATIC guide.ac 4.407211 50.912337 43 0
 
 #desc: Power cooling towers
 OBJECT_SHARED Models/Power/coolingtower.xml 4.426587 50.941477 20.1806 108.0
 OBJECT_SHARED Models/Power/coolingtower.xml 4.427885 50.941842 20.1806 108.0
 #desc: Mistral (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.320620 50.893143 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.320620 50.893143 32.1806 108.0
 #desc: Magniolas (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.322026 50.893501 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.322026 50.893501 32.1806 108.0
 #desc: Les Mouettes (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.323442 50.892986 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.323442 50.892986 32.1806 108.0
 #desc: Résidence du Soleil (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.302553 50.875038 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_green_light.xml 4.302553 50.875038 32.1806 108.0
 #desc: Aurore 7 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.306930 50.875038 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.306930 50.875038 32.1806 108.0
 #desc: Résidence Jupiter-Mercure (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.358300 50.900951 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.358300 50.900951 32.1806 108.0
 #desc: Résidence Orion-Sirius (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.358300 50.900951 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.358300 50.900951 32.1806 108.0
 #desc: Avenue Van Overbeke 247 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.304527 50.877773 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.304527 50.877773 32.1806 108.0
 #desc: Avenue Van Overbeke 245 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.305149 50.876919 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.305149 50.876919 32.1806 108.0
 #desc: Avenue Van Overbeke 243 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.306093 50.876228 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.306093 50.876228 32.1806 108.0
 #desc: Résidence Parc Albert 1 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.306769 50.877586 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.306769 50.877586 32.1806 108.0
 #desc: Cité Modele Immeuble 3 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.323421 50.895161 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.323421 50.895161 32.1806 108.0
 #desc: Cité Modele Immeuble 2 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.323581 50.896034 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.323581 50.896034 32.1806 108.0
 #desc: Cité Modele Immeuble 1 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.324898 50.895733 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.324898 50.895733 32.1806 108.0
 #desc: Socrate-Platon (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.353483 50.899231 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.353483 50.899231 32.1806 108.0
 #desc: Rue de Bon Pasteur 55 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.401881 50.879890 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.401881 50.879890 32.1806 108.0
 #desc: Solvin Headquarters (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.399348 50.902931 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_green_light.xml 4.399348 50.902931 32.1806 108.0
 
 ### Some generic stuff here and there
 # A few firetrucs at the caserne
