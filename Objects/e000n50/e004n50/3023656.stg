@@ -3,7 +3,40 @@
 ### Some generic stuff here and there
 #desc: Wind turbine of Colruyt Halle
 OBJECT_SHARED Models/Power/windturbine.xml 4.208284 50.72992 20.1806 108.0
+# desc: Hangars et magasin Colruyt 1
+OBJECT_STATIC colruyt_halle.ac 4.207403 50.728132 60 0
+# desc: Hangars et magasin Colruyt 2
+OBJECT_STATIC colruyt_halle_2.ac 4.209612 50.728307 60 0
+# desc: Hangars et magasin Colruyt 3
+OBJECT_STATIC colruyt_halle.ac 4.207403 50.728132 60 0
+# desc: Hangars et magasin Colruyt 4
+OBJECT_STATIC colruyt_halle.ac 4.215883 50.726846 60 0
+# desc: Hangars et magasin Colruyt 5
+OBJECT_STATIC colruyt_halle.ac 4.214544 50.726540 60 0
+# desc: Hangars et magasin Colruyt 6
+OBJECT_STATIC colruyt_halle.ac 4.214025 50.726841 60 0
+# desc: Hangars et magasin Colruyt 7
+OBJECT_STATIC colruyt_halle.ac 4.213295 50.726847 60 0
+# desc: Hangars et magasin Colruyt 8
+OBJECT_STATIC colruyt_halle_8.ac 4.212522 50.726860 60 0
+# desc: Hangars et magasin Colruyt 9
+OBJECT_STATIC colruyt_halle_9.ac 4.211684 50.726922 60 0
+# desc: Hangars et magasin Colruyt 10
+OBJECT_STATIC colruyt_halle.ac 4.211187 50.726780 60 0
+# desc: Hangars et magasin Colruyt 11
+OBJECT_STATIC colruyt_halle.ac 4.210590 50.726686 60 0
+# desc: Hangars et magasin Colruyt 12
+OBJECT_STATIC colruyt_halle.ac 4.209934 50.726662 60 0
+# desc: Hangars et magasin Colruyt 13
+OBJECT_STATIC colruyt_halle_13.ac 4.209020 50.726397 60 0
+# desc: Hangars et magasin Colruyt 14
+OBJECT_STATIC colruyt_halle.ac 4.208209 50.726250 60 0
+# desc: Hangars et magasin Colruyt 15
+OBJECT_STATIC colruyt_halle_15.ac 4.206771 50.726116 60 0
+
 #desc: Some Church at Halle
 OBJECT_SHARED Models/Misc/eglise-ba.ac 4.243885 50.731151 29.5 90
+#desc: Garre de Halle
+OBJECT_STATIC garre_halle.ac 4.240135 50.733543 36 0
 ### END SHARED STUFF
 

@@ -115,7 +115,6 @@ OBJECT_SHARED Models/Airport/helipad_circle.xml 4.494723 50.914541 24.7 300.0
 OBJECT_SHARED Models/Airport/helipad_circle.xml 4.48002932 50.90867336 31.5247 300.0
 
 ### Generic aircrafts parked as decoration
-
 OBJECT_SHARED Models/Aircraft/737virgin.xml 4.48895768 50.90401473 35.3143 28.0
 OBJECT_SHARED Models/Aircraft/737virgin.xml 4.48828102 50.90375499 35.2533 32.0
 OBJECT_SHARED Models/Aircraft/A320_services-ba.ac 4.48664963 50.90332334 35.7527 120.0
@@ -221,3 +220,10 @@ OBJECT_SHARED Models/Aircraft/R3000.xml 4.393630 50.944736 19 145
 OBJECT_SHARED Models/Power/windturbine.xml 4.371777 50.996787 10 90
 OBJECT_SHARED Models/Power/windturbine.xml 4.373179 50.995555 10 90
 OBJECT_SHARED Models/Power/windturbine.xml 4.374515 50.994373 10 90
+
+#desc: Stib A
+OBJECT_STATIC stib_haren.ac 4.415047 50.885138 39 0
+#desc: Stib B
+OBJECT_STATIC stib_haren.ac 4.414081 50.884067 39 0
+#desc: Stib C
+OBJECT_STATIC stib_haren.ac 4.413152 50.883070 39 0
