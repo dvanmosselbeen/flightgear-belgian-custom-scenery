@@ -59,11 +59,11 @@ OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.323442 5
 #desc: Résidence du Soleil (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_green_light.xml 4.302553 50.875038 32.1806 108.0
 #desc: Aurore 7 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.306930 50.875038 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.307077 50.875543 32.1806 108.0
 #desc: Résidence Jupiter-Mercure (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.358300 50.900951 32.1806 108.0
 #desc: Résidence Orion-Sirius (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.358300 50.900951 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.358590 50.900314 32.1806 108.0
 #desc: Avenue Van Overbeke 247 (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.304527 50.877773 32.1806 108.0
 #desc: Avenue Van Overbeke 245 (Generic)
@@ -227,3 +227,12 @@ OBJECT_STATIC stib_haren.ac 4.415047 50.885138 39 0
 OBJECT_STATIC stib_haren.ac 4.414081 50.884067 39 0
 #desc: Stib C
 OBJECT_STATIC stib_haren.ac 4.413152 50.883070 39 0
+
+###
+#Terrains de foot
+###
+OBJECT_STATIC terrain_de_foot_generic.ac 4.398705 50.880428 32 0
+OBJECT_STATIC terrain_de_foot_generic.ac 4.400847 50.880917 32 0
+OBJECT_STATIC terrain_de_foot_generic.ac 4.421254 50.891852 34 0
+OBJECT_STATIC terrain_de_foot_generic.ac 4.433574 50.890286 42 0
+
