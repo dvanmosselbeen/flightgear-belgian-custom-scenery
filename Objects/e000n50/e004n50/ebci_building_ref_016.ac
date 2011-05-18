@@ -1,10 +1,12 @@
 AC3Db
 MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
-MATERIAL "Material" rgb 0.8 0.8 0.8 amb 0.5 0.5 0.5 emis 0 0 0 spec 1 1 1 shi 32 trans 0
 OBJECT world
 kids 1
-OBJECT poly
+OBJECT group
 name "Cube"
+kids 2
+OBJECT poly
+name "Cube_0"
 data 8
 Cube.001
 crease 30.000000
@@ -19,59 +21,75 @@ numvert 10
 -7.499999 4 -6.249856
 7.5 6 3e-06
 -7.500001 6 -1e-06
-numsurf 8
-SURF 0x20
-mat 1
+numsurf 6
+SURF 0x00
+mat 0
 refs 4
-0 0 0
-4 0 0
-5 0 0
-1 0 0
-SURF 0x20
-mat 1
+0 0.5625 0.5625
+4 0.9375 0.5625
+5 0.9375 0.9375
+1 0.5625 0.9375
+SURF 0x00
+mat 0
 refs 4
-1 0 0
-5 0 0
-6 0 0
-2 0 0
-SURF 0x20
-mat 1
+1 0.5625 0.5625
+5 0.9375 0.5625
+6 0.9375 0.9375
+2 0.5625 0.9375
+SURF 0x00
+mat 0
 refs 4
-2 0 0
-6 0 0
-7 0 0
-3 0 0
-SURF 0x20
-mat 1
+2 0.5625 0.5625
+6 0.9375 0.5625
+7 0.9375 0.9375
+3 0.5625 0.9375
+SURF 0x00
+mat 0
 refs 4
-4 0 0
-0 0 0
-3 0 0
-7 0 0
-SURF 0x20
-mat 1
-refs 4
-4 0 0
-7 0 0
-9 0 0
-8 0 0
-SURF 0x20
-mat 1
+4 0.5625 0.5625
+0 0.9375 0.5625
+3 0.9375 0.9375
+7 0.5625 0.9375
+SURF 0x00
+mat 0
 refs 3
-7 0 0
-6 0 0
-9 0 0
-SURF 0x20
-mat 1
-refs 4
-6 0 0
-5 0 0
-8 0 0
-9 0 0
-SURF 0x20
-mat 1
+7 0.5625 0.5625
+6 0.9375 0.5625
+9 0.9375 0.9375
+SURF 0x00
+mat 0
 refs 3
-5 0 0
-4 0 0
-8 0 0
+5 0.5625 0.5625
+4 0.9375 0.5625
+8 0.9375 0.9375
+kids 0
+OBJECT poly
+name "Cube_1"
+data 8
+Cube.001
+texture "ebci_building_ref_016.png"
+texrep 1 1
+crease 30.000000
+numvert 6
+7.500004 4 -6.249853
+7.499996 4 6.249859
+-7.500003 4 6.249853
+-7.499999 4 -6.249856
+7.5 6 3e-06
+-7.500001 6 -1e-06
+numsurf 2
+SURF 0x00
+mat 0
+refs 4
+0 0.5625 0.0625
+3 0.9375 0.0625
+5 0.9375 0.4375
+4 0.5625 0.4375
+SURF 0x00
+mat 0
+refs 4
+2 0.5625 0.0625
+1 0.9375 0.0625
+4 0.9375 0.4375
+5 0.5625 0.4375
 kids 0
