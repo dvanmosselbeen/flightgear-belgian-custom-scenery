@@ -1,0 +1,30 @@
+#country: be
+#submitter: David Van Mosselbeen
+# EBOS airport buildings
+OBJECT_STATIC ebos_building_ref_001.ac 2.852034 51.198742 1 123
+OBJECT_STATIC ebos_building_ref_002.ac 2.852931 51.199121 1 123
+OBJECT_STATIC ebos_building_ref_003.ac 2.853765 51.199481 1 123
+
+OBJECT_STATIC ebos_building_ref_007.ac 2.856420 51.200486 3.4 123
+OBJECT_STATIC ebos_building_ref_008.ac 2.856758 51.200760 3.4 123
+OBJECT_STATIC ebos_building_ref_009.ac 2.858512 51.201375 3.8 123
+OBJECT_STATIC ebos_building_ref_010.ac 2.865488 51.202883 4.5 165
+OBJECT_STATIC ebos_building_ref_011.ac 2.865969 51.202728 3.8 0
+OBJECT_STATIC ebos_building_ref_012.ac 2.866951 51.203752 3.8 100
+OBJECT_STATIC ebos_building_ref_013.ac 2.867824 51.203846 3.8 100
+OBJECT_STATIC ebos_building_ref_014.ac 2.869866 51.204221 3.8 100
+
+OBJECT_STATIC ebos_building_ref_016.ac 2.871126 51.204322 4.8 100
+OBJECT_STATIC ebos_building_ref_017.ac 2.873440 51.204630 4.8 100
+OBJECT_STATIC ebos_building_ref_018.ac 2.875167 51.204881 4.8 100
+OBJECT_STATIC ebos_building_ref_019.ac 2.880641 51.204089 1.8 150
+
+OBJECT_STATIC ebos_building_ref_021.ac 2.879887 51.204553 1.8 50
+OBJECT_STATIC ebos_building_ref_022.ac 2.879903 51.204767 0.5 50
+OBJECT_STATIC ebos_building_ref_023.ac 2.880461 51.204599 0.5 50
+OBJECT_STATIC ebos_building_ref_024.ac 2.897977 51.199360 0.5 80
+OBJECT_STATIC ebos_building_ref_025.ac 2.899133 51.199709 3.8 170
+OBJECT_STATIC ebos_building_ref_026.ac 2.899445 51.199771 3.8 180
+OBJECT_STATIC ebos_building_ref_027.ac 2.879854 51.199517 3.8 100
+OBJECT_STATIC ebos_building_ref_028.ac 2.879544 51.199479 3.8 100
+
