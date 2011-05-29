@@ -1,0 +1,25 @@
+AC3Db
+MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "Cube"
+data 8
+Cube.001
+texture "ebfn_helipad_001.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+25.000011 0 -31.999985
+24.999985 0 32.000019
+-25.00001 0 31.999989
+-24.999996 0 -32
+numsurf 1
+SURF 0x00
+mat 0
+refs 4
+0 0.77734375 0.9921875
+3 0.01171875 0.9921875
+2 0.01171875 0.0078125
+1 0.77734375 0.0078125
+kids 0
