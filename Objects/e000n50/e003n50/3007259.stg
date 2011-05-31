@@ -1,0 +1,6 @@
+#country: be
+#submitter: David Van Mosselbeen
+# EBTY (Saint-Ghislain PRIV) airport buildings
+OBJECT_STATIC ebsg_building_ref_001.ac 3.819483 50.458490 20 90
+OBJECT_STATIC ebsg_building_ref_002.ac 3.820935 50.458680 20 90
+
