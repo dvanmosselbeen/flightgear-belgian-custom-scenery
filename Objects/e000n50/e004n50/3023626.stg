@@ -1,0 +1,117 @@
+#country: be
+#submitter: David Van Mosselbeen
+# EBFS (Florennes - MIL) airport buildings
+OBJECT_STATIC ebfs_building_ref_001.ac 4.634485 50.244602 276.5 110
+OBJECT_STATIC ebfs_building_ref_002.ac 4.634964 50.244386 274 110
+OBJECT_STATIC ebfs_building_ref_003.ac 4.635576 50.244549 274 110
+OBJECT_STATIC ebfs_building_ref_004.ac 4.636238 50.244734 274 110
+OBJECT_STATIC ebfs_building_ref_005.ac 4.636768 50.244879 274 110
+OBJECT_STATIC ebfs_building_ref_006.ac 4.637817 50.244717 274 90
+OBJECT_STATIC ebfs_building_ref_007.ac 4.637750 50.245179 274 110
+OBJECT_STATIC ebfs_building_ref_008.ac 4.638233 50.245153 274 90
+OBJECT_STATIC ebfs_building_ref_009.ac 4.638712 50.245021 274 90
+OBJECT_STATIC ebfs_building_ref_010.ac 4.638862 50.245509 274 110
+OBJECT_STATIC ebfs_building_ref_011.ac 4.639151 50.245662 274 110
+OBJECT_STATIC ebfs_building_ref_012.ac 4.639636 50.245853 274 110
+OBJECT_STATIC ebfs_building_ref_013.ac 4.639186 50.244688 274 90
+OBJECT_STATIC ebfs_building_ref_014.ac 4.640332 50.244799 274 90
+OBJECT_STATIC ebfs_building_ref_015.ac 4.646022 50.245900 276 110
+OBJECT_STATIC ebfs_building_ref_015b.ac 4.646736 50.246335 276 110
+OBJECT_STATIC ebfs_building_ref_016.ac 4.660835 50.247138 272 110
+OBJECT_STATIC ebfs_building_ref_017.ac 4.660304 50.242679 274 110
+OBJECT_STATIC ebfs_building_ref_018.ac 4.659685 50.242568 274 110
+#desc: 19
+OBJECT_STATIC ebfs_building_ref_018.ac 4.659195 50.242507 274 110
+#desc: 20
+OBJECT_STATIC ebfs_building_ref_018.ac 4.659387 50.241930 273 110
+#desc: 21
+OBJECT_STATIC ebfs_building_ref_018.ac 4.659880 50.241992 272.5 110
+#desc: 22
+OBJECT_STATIC ebfs_building_ref_018.ac 4.661814 50.241678 271 110
+
+OBJECT_STATIC ebfs_building_ref_023.ac 4.662447 50.242138 271 110
+OBJECT_STATIC ebfs_building_ref_024.ac 4.663370 50.242171 271 110
+
+#desc: ref 025
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.660260 50.238257 276 0
+#desc: ref 026
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.662613 50.238007 277 0
+#desc: ref 027
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.660592 50.237411 278.5 0
+#desc: ref 028
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.660239 50.236568 281.5 0
+#desc: ref 029
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.658812 50.236724 281 0
+#desc: ref 030
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.658328 50.237570 278 0
+#desc: ref 031
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.656073 50.237291 278 0
+#desc: ref 032
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.654372 50.236978 279 0
+#desc: ref 033
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.657001 50.236501 280 0
+#desc: ref 034
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.654898 50.236102 281 0
+#desc: ref 035
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.657131 50.235501 285 0
+#desc: ref 036
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.655420 50.235208 286 0
+#desc: ref 036b
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.653991 50.234521 288 0
+
+OBJECT_STATIC ebfs_building_ref_037.ac 4.662985 50.237193 278 110
+OBJECT_STATIC ebfs_building_ref_038.ac 4.662832 50.236616 278 110
+OBJECT_STATIC ebfs_building_ref_039.ac 4.663465 50.236755 278 20
+OBJECT_STATIC ebfs_building_ref_040.ac 4.660608 50.234858 283.5 110
+OBJECT_STATIC ebfs_building_ref_041.ac 4.660620 50.233897 283.5 110
+OBJECT_STATIC ebfs_building_ref_042.ac 4.658916 50.235765 284.5 110
+OBJECT_STATIC ebfs_building_ref_043.ac 4.657641 50.234135 288 110
+OBJECT_STATIC ebfs_building_ref_044.ac 4.657549 50.234381 287.5 110
+OBJECT_STATIC ebfs_building_ref_045.ac 4.656544 50.233907 289 110
+OBJECT_STATIC ebfs_building_ref_046.ac 4.655271 50.234387 292 110
+OBJECT_STATIC ebfs_building_ref_047.ac 4.654034 50.233527 292 110
+OBJECT_STATIC ebfs_building_ref_048.ac 4.653270 50.233456 291.5 110
+OBJECT_STATIC ebfs_building_ref_049.ac 4.651418 50.233379 291.5 110
+OBJECT_STATIC ebfs_building_ref_050.ac 4.650652 50.232844 297 150 
+OBJECT_STATIC ebfs_building_ref_051.ac 4.645343 50.232289 297 90
+OBJECT_STATIC ebfs_building_ref_052.ac 4.651181 50.234997 287.5 110
+OBJECT_STATIC ebfs_building_ref_053.ac 4.644856 50.234961 285 110
+OBJECT_STATIC ebfs_building_ref_054.ac 4.642771 50.235669 279 90
+
+#desc: ref 055
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.640531 50.235107 278 0
+#desc: ref 056
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.639315 50.235144 277 0
+#desc: ref 057
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.637008 50.234345 277.5 0
+#desc: ref 058
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.634124 50.234622 273 0
+#desc: ref 059
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.635001 50.234042 276.5 0
+#desc: ref 060
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.636087 50.233352 281 0
+#desc: ref 061
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.634730 50.233253 279 0
+
+#desc: ref 063
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.633510 50.231538 283 0
+#desc: ref 064
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.633217 50.230194 284.5 0
+#desc: ref 065
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.631657 50.230590 282 0
+#desc: ref 066
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.631754 50.229747 283 0
+#desc: ref 067
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.630190 50.229986 281 0
+#desc: ref 068
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.629004 50.229445 279.5 0
+
+OBJECT_STATIC ebfs_building_ref_069.ac 4.635468 50.231115 286 90
+OBJECT_STATIC ebfs_building_ref_070.ac 4.636098 50.230960 287 90
+OBJECT_STATIC ebfs_building_ref_071.ac 4.635576 50.230408 286.5 90
+
+#desc: ref 072
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.636765 50.229943 287.5 0
+#desc: ref 073
+OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.636398 50.229147 288 0
+
