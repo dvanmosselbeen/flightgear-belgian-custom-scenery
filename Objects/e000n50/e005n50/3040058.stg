@@ -1,0 +1,61 @@
+#country: be
+#submitter: David Van Mosselbeen
+# EBSL (.) airport buildings
+#desc: EBSL building ref 001
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.577906 50.945212 94 122
+#desc: EBSL building ref 002
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.579510 50.945862 94.2 122
+#desc: EBSL building ref 003
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.581084 50.946499 94.4 122
+#desc: EBSL building ref 004
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.582665 50.947139 94.4 122
+#desc: EBSL building ref 005
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.584233 50.947794 94.5 122
+#desc: EBSL building ref 006
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.585836 50.948454 94.5 122
+#desc: EBSL building ref 007
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.588623 50.949731 95 0
+#desc: EBSL building ref 008
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.585883 50.950316 94.9 0
+#desc: EBSL building ref 009
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.584729 50.951274 95 0
+#desc: EBSL building ref 010
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.583539 50.952199 95 0
+#desc: EBSL building ref 011
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.582403 50.953143 95.4 0
+#desc: EBSL building ref 012
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.579203 50.954440 95 0
+#desc: EBSL building ref 013
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.579967 50.954961 95.5 0
+#desc: EBSL building ref 014
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.577523 50.955702 95.3 0
+#desc: EBSL building ref 015
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.577457 50.956683 96.7 0
+#desc: EBSL building ref 016
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.578132 50.958375 98.5 0
+#desc: EBSL building ref 017
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.580310 50.958052 98 0
+#desc: EBSL building ref 018
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.579742 50.957461 98 0
+#desc: EBSL building ref 019
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.582475 50.957225 97.7 0
+#desc: EBSL building ref 020
+OBJECT_STATIC ebsl_generic_hangar_001.ac 5.581667 50.956735 98 0
+
+
+#desc: EBSL building ref 021
+OBJECT_STATIC ebsl_generic_hangar_002.ac 5.576844 50.946334 93.7 122
+#desc: EBSL building ref 022
+OBJECT_STATIC ebsl_generic_hangar_002.ac 5.576262 50.946906 93.7 122
+#desc: EBSL building ref 023
+OBJECT_STATIC ebsl_generic_hangar_002.ac 5.577404 50.947379 94 122
+#desc: EBSL building ref 024
+OBJECT_STATIC ebsl_generic_hangar_002.ac 5.577974 50.946796 94 122
+#desc: EBSL building ref 025
+OBJECT_STATIC ebsl_generic_hangar_002.ac 5.579090 50.947248 94 122
+#desc: EBSL building ref 026
+OBJECT_STATIC ebsl_generic_hangar_002.ac 5.578503 50.947808 94 122
+#desc: EBSL building ref 027
+OBJECT_STATIC ebsl_generic_hangar_002.ac 5.579617 50.948270 94 122
+#desc: EBSL building ref 028
+OBJECT_STATIC ebsl_generic_hangar_002.ac 5.580193 50.947688 94 122
