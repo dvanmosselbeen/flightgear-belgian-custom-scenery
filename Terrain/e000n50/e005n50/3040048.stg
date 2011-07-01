@@ -1,0 +1,5 @@
+OBJECT_BASE 3040048.btg
+OBJECT EBST.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.180835 50.783878 70.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.203554 50.789715 69.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.209429 50.793644 63.0 0.00

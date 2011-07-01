@@ -1,0 +1,5 @@
+OBJECT_BASE 3007240.btg
+OBJECT LFQI.btg
+OBJECT_SHARED Models/Airport/beacon.xml 3.154412 50.223413 72.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 3.136010 50.223349 62.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 3.172470 50.220331 74.5 0.00
