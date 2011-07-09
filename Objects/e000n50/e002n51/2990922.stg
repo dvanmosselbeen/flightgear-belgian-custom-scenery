@@ -1,0 +1,7 @@
+#country: be
+#submitter: David Van Mosselbeen
+#des: Some boats at near the coast
+OBJECT_SHARED Models/Maritime/Civilian/CruiseShip.xml 2.59845082 51.23906109 -5 180
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower.xml 2.69875731 51.18793860 -3 90
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderSail.xml 2.73852118 51.19263050 -3 30
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderSail.xml 2.71546325 51.18113516 -3 0

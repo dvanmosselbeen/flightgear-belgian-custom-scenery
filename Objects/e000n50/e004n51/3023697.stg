@@ -1,0 +1,8 @@
+#country: be
+#submitter: David Van Mosselbeen
+# Antwerpen (Belgium)
+OBJECT_SHARED Models/Power/coolingtower.xml 4.262041 51.324648 11 0
+OBJECT_SHARED Models/Power/coolingtower.xml 4.261287 51.326371 11 0
+
+#desc: Tanker boat
+OBJECT_SHARED Models/Maritime/Civilian/ContainerShip.xml 4.307120 51.265407 -3.2 0
