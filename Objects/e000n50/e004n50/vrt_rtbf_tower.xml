@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+    <path>vrt_rtbf_tower.ac</path>
+
+    <animation>
+        <type>range</type>
+        <object-name>Antenne</object-name>
+        <min-m>0</min-m>
+        <max-m>2000</max-m>
+    </animation>
+
+    <animation>
+        <type>range</type>
+        <object-name>ParableTower</object-name>
+        <min-m>0</min-m>
+        <max-m>3000</max-m>
+    </animation>
+
+    <animation>
+        <type>range</type>
+        <object-name>ParableGround</object-name>
+        <object-name>Pipes</object-name>
+        <min-m>0</min-m>
+        <max-m>4000</max-m>
+    </animation>
+
+</PropertyList>

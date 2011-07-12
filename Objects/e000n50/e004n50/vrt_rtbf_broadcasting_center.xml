@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+    <path>vrt_rtbf_broadcasting_center.ac</path>
+    <texture>vrt_rtbf_broadcasting_windows.png</texture>
+
+    <animation>
+        <type>range</type>
+        <object-name>Rail1</object-name>
+        <object-name>Rail2</object-name>
+        <min-m>0</min-m>
+        <max-m>2000</max-m>
+    </animation>
+
+</PropertyList>
