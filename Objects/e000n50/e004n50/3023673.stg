@@ -235,11 +235,11 @@ OBJECT_SHARED Models/Power/windturbine.xml 4.373179 50.995555 10 90
 OBJECT_SHARED Models/Power/windturbine.xml 4.374515 50.994373 10 90
 
 #desc: Stib A
-OBJECT_STATIC stib_haren.ac 4.415047 50.885138 39 0
+OBJECT_STATIC stib_haren.xml 4.415047 50.885138 39 0
 #desc: Stib B
-OBJECT_STATIC stib_haren.ac 4.414081 50.884067 39 0
+OBJECT_STATIC stib_haren.xml 4.414081 50.884067 39 0
 #desc: Stib C
-OBJECT_STATIC stib_haren.ac 4.413152 50.883070 39 0
+OBJECT_STATIC stib_haren.xml 4.413152 50.883070 39 0
 
 ###
 #Terrains de foot

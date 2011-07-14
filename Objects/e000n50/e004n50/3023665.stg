@@ -799,7 +799,7 @@ OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_green_dark.xml 4.356
 #desc: World Trade Center 1 (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_green_dark.xml 4.357495 50.862015 32.1806 108.0
 #desc: IT Tower (Generic)
-OBJECT_STATIC it_tower.ac 4.372408 50.817150 105 0
+OBJECT_STATIC it_tower.ac 4.372408 50.817150 82 290
 #desc: Manhattan Center (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.357495 50.856030 32.1806 108.0
 #desc: Covent Garden B (Generic)
@@ -807,7 +807,7 @@ OBJECT_STATIC covent_garden.ac 4.360585 50.856167 32.1806 50
 #desc: Brusilia (Generic)
 OBJECT_STATIC brusilia.ac 4.379554 50.864635 35 108.0
 #desc: Hilton Hotel (Generic)
-OBJECT_STATIC hilton_hotel.ac 4.357216 50.837315 72 0
+OBJECT_STATIC hilton_hotel.xml 4.357216 50.837315 63 0
 #desc: Zenith Tower (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.359416 50.864483 32.1806 108.0
 #desc: Bastion Tower (Generic)
@@ -815,7 +815,7 @@ OBJECT_STATIC bastion_tower.xml 4.362935 50.838287 77.77 0
 #desc: Blue Tower (Generic)
 OBJECT_STATIC blue_tower.xml 4.368986 50.823162 81 45
 #desc: Tour Sablon (Generic)
-OBJECT_STATIC tour_sablon.ac 4.352496 50.841160 45 0
+OBJECT_STATIC tour_sablon.xml 4.352496 50.841160 45 0
 #desc: Elipse Building (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.359437 50.862980 32.1806 108.0
 #desc: Avenue Marius Renard 27 (Generic)
