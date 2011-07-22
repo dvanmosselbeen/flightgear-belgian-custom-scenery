@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+    <path>dexia_tower.ac</path>
+
+    <!-- Add some clouds glass effect require fgfs/fgdata/Effects/reflect.eff to be copied to the scenery where the stg belongs too. Is kinda resource intensief btw
+    <effect>
+       <inherits-from>reflect</inherits-from>
+       <object-name>Shape1</object-name>
+    </effect>
+    -->
+</PropertyList>

@@ -26,15 +26,77 @@ OBJECT_STATIC control_tower.xml 4.50859800 50.90780800 31.1806 180
 #desc: Terminal 1
 OBJECT_STATIC ebbr_terminal_1.ac 4.483730 50.899085 38.1806 205
 #desc: Terminal 2
-OBJECT_STATIC ebbr_terminal_2.ac 4.481877 50.902323 34.4 205
+OBJECT_STATIC ebbr_terminal_2.ac 4.481877 50.902323 36 204
+#desc: Terminal 2 jetways
+#OBJECT_STATIC guide.ac 4.489866 50.904309 34.9 27
+#OBJECT_SHARED Models/Airport/Jetway/AutoGate.xml 4.489866 50.904309 34.9 27
+#OBJECT_SHARED Models/Airport/Jetway/AutoGate.xml 4.489288 50.904170 34.9 27
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.489850 50.904339 34.9 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.489293 50.904179 34.9 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.488733 50.904019 34.9 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.488175 50.903856 34.9 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.487613 50.903697 34.9 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.486806 50.903461 34.9 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.486246 50.903300 34.9 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.485687 50.903139 34.9 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.485126 50.902976 34.9 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.484567 50.902816 34.9 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.484009 50.902655 34.9 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.483449 50.902493 34.9 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.482890 50.902331 34.9 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.482328 50.902170 34.9 117
+
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.490121 50.904881 34.9 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.489509 50.904705 34.9 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.489011 50.904560 34.9 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.488453 50.904398 34.9 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.487898 50.904240 34.9 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.487333 50.904076 34.9 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.486529 50.903846 34.9 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.485968 50.903682 34.9 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.485405 50.903518 34.9 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.484844 50.903356 34.9 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.484289 50.903198 34.9 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.483729 50.903035 34.9 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.483169 50.902873 34.9 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.482605 50.902710 34.9 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.482044 50.902549 34.9 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.481487 50.902386 34.9 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.480929 50.902228 34.9 297
+
+#desc: Terminal 1 jetways
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.492276 50.901693 37.4 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.491745 50.901542 37.4 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.491215 50.901389 37.4 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.490688 50.901239 37.4 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.490159 50.901085 37.4 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.489629 50.900931 37.4 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.489106 50.900780 37.4 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.486989 50.900165 37.4 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.486461 50.900011 37.4 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.485931 50.899860 37.4 297
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.485406 50.899707 37.4 297
+
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.491401 50.901136 38 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.490341 50.900830 38 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.489813 50.900680 38 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.489284 50.900528 38 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.488757 50.900374 38 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.488226 50.900223 38 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.487699 50.900072 38 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.487173 50.899917 38 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.486646 50.899766 38 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.486118 50.899613 38 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.485587 50.899460 38 117
+OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.484534 50.899151 38 117
 
 # Admin buildings around the control tower
-OBJECT_STATIC ebbr_building_ref_002.ac 4.509442 50.906339 32.18016 89
-OBJECT_STATIC ebbr_building_ref_003.ac 4.509546 50.904658 37.18016 89
-OBJECT_STATIC ebbr_building_ref_004.ac 4.508316 50.904140 39.18016 89
-OBJECT_STATIC ebbr_building_ref_005.ac 4.506966 50.903589 42.18016 136
-OBJECT_STATIC ebbr_building_ref_006.ac 4.509958 50.903660 38.8 90
-OBJECT_STATIC ebbr_building_ref_007.ac 4.505305 50.900026 39.3 90
+OBJECT_STATIC ebbr_building_ref_002.ac 4.509442 50.906339 36 89
+OBJECT_STATIC ebbr_building_ref_003.ac 4.509546 50.904658 36 89
+OBJECT_STATIC ebbr_building_ref_004.ac 4.508316 50.904140 36.5 89
+OBJECT_STATIC ebbr_building_ref_005.ac 4.506966 50.903589 37.5 136
+OBJECT_STATIC ebbr_building_ref_006.ac 4.509958 50.903660 36.8 90
+OBJECT_STATIC ebbr_building_ref_007.ac 4.505305 50.900026 36.3 90
 # Need to do ref 008
 OBJECT_STATIC ebbr_building_ref_009.ac 4.510786 50.898768 40.18016 90
 OBJECT_STATIC ebbr_building_ref_010.ac 4.508647 50.900209 40.18016 90

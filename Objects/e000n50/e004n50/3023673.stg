@@ -11,41 +11,41 @@ OBJECT_STATIC terrain_de_foot_generic.ac 4.330324 50.895885 56 40
 OBJECT_STATIC terrain_de_foot_generic.ac 4.338031 50.892636 47 40
 
 #desc: Palais de Centenaire
-OBJECT_STATIC palais_du_heysel_1.ac 4.333595 50.898481 73 120
+#OBJECT_STATIC palais_du_heysel_1.ac 4.333595 50.898481 73 120
 OBJECT_STATIC palais_du_heysel_2.ac 4.336438 50.897871 73 120
-OBJECT_STATIC palais_du_heysel_3.ac 4.334831 50.898741 73 120
-OBJECT_STATIC palais_du_heysel_4.ac 4.335903 50.899105 73 120
-OBJECT_STATIC palais_du_heysel_5.ac 4.337091 50.899650 73 120
-OBJECT_STATIC palais_du_heysel_6.ac 4.338374 50.900084 73 120
-OBJECT_STATIC palais_du_heysel_7.ac 4.339482 50.900475 73 120
+#OBJECT_STATIC palais_du_heysel_3.ac 4.334831 50.898741 73 120
+#OBJECT_STATIC palais_du_heysel_4.ac 4.335903 50.899105 73 120
+OBJECT_STATIC palais_du_heysel_5.ac 4.337091 50.899650 73.2 120
+#OBJECT_STATIC palais_du_heysel_6.ac 4.338374 50.900084 73 120
+#OBJECT_STATIC palais_du_heysel_7.ac 4.339482 50.900475 73 120
 #OBJECT_STATIC palais_du_heysel_8.ac 4.337091 50.899650 73 120
 #OBJECT_STATIC palais_du_heysel_9.ac 4.337091 50.899650 73 120
 OBJECT_STATIC palais_du_heysel_10.ac 4.339935 50.899093 73 120
-OBJECT_STATIC palais_du_heysel_11.ac 4.340568 50.900900 73 120
-OBJECT_STATIC palais_du_heysel_12.ac 4.342198 50.900948 73 120
-OBJECT_STATIC trade_mart.ac 4.342582 50.897659 73 90
+#OBJECT_STATIC palais_du_heysel_11.ac 4.340568 50.900900 73 120
+#OBJECT_STATIC palais_du_heysel_12.ac 4.342198 50.900948 73 120
+OBJECT_STATIC trade_mart.ac 4.342582 50.897659 55 90
 
 #desc: Grand Serment Royal Des Archers De St Sebastien
-OBJECT_STATIC grand_serment_royal_des_archers_de_st_sebastien.ac 4.336331 50.892787 47 310
-OBJECT_STATIC heysel_planetarium.ac 4.337312 50.893421 50 40
+OBJECT_STATIC grand_serment_royal_des_archers_de_st_sebastien.ac 4.336331 50.892787 59.41 310
+OBJECT_STATIC heysel_planetarium.ac 4.337312 50.893421 58.93 40
 #desc: Palais Royal de Laeken
 OBJECT_STATIC palais_royal_de_laeken.ac 4.360010 50.886303 52 120
 ###
 
 #desc: Pont de Vilvoorde
 # Guides
-OBJECT_STATIC guide.ac 4.429868 50.907531 43 0
-OBJECT_STATIC guide.ac 4.429331 50.908595 43 0
-OBJECT_STATIC guide.ac 4.428365 50.909752 43 0
-OBJECT_STATIC guide.ac 4.427072 50.910770 43 0
-OBJECT_STATIC guide.ac 4.425349 50.911602 43 0
-OBJECT_STATIC guide.ac 4.423307 50.912447 43 0
-OBJECT_STATIC guide.ac 4.421291 50.913212 43 0
-OBJECT_STATIC guide.ac 4.419056 50.913776 43 0
-OBJECT_STATIC guide.ac 4.416625 50.913965 43 0
-OBJECT_STATIC guide.ac 4.413094 50.913588 43 0
-OBJECT_STATIC guide.ac 4.410146 50.912914 43 0
-OBJECT_STATIC guide.ac 4.407211 50.912337 43 0
+#OBJECT_STATIC guide.ac 4.429868 50.907531 43 0
+#OBJECT_STATIC guide.ac 4.429331 50.908595 43 0
+#OBJECT_STATIC guide.ac 4.428365 50.909752 43 0
+#OBJECT_STATIC guide.ac 4.427072 50.910770 43 0
+#OBJECT_STATIC guide.ac 4.425349 50.911602 43 0
+#OBJECT_STATIC guide.ac 4.423307 50.912447 43 0
+#OBJECT_STATIC guide.ac 4.421291 50.913212 43 0
+#OBJECT_STATIC guide.ac 4.419056 50.913776 43 0
+#OBJECT_STATIC guide.ac 4.416625 50.913965 43 0
+#OBJECT_STATIC guide.ac 4.413094 50.913588 43 0
+#OBJECT_STATIC guide.ac 4.410146 50.912914 43 0
+#OBJECT_STATIC guide.ac 4.407211 50.912337 43 0
 
 #desc: Power cooling towers
 OBJECT_SHARED Models/Power/coolingtower.xml 4.426587 50.941477 20.1806 108.0
@@ -114,10 +114,10 @@ OBJECT_SHARED Models/Airport/helipad_circle.xml 4.494723 50.914541 24.7 300.0
 
 OBJECT_SHARED Models/Airport/helipad_circle.xml 4.48002932 50.90867336 31.5247 300.0
 
-### Generic aircrafts parked as decoration
-OBJECT_SHARED Models/Aircraft/737virgin.xml 4.48895768 50.90401473 35.3143 28.0
-OBJECT_SHARED Models/Aircraft/737virgin.xml 4.48828102 50.90375499 35.2533 32.0
-OBJECT_SHARED Models/Aircraft/A320_services-ba.ac 4.48664963 50.90332334 35.7527 120.0
+### Generic aircrafts parked at Terminal 2
+#OBJECT_SHARED Models/Aircraft/737virgin.xml 4.48895768 50.90401473 35.3143 28.0
+#OBJECT_SHARED Models/Aircraft/737virgin.xml 4.48828102 50.90375499 35.2533 32.0
+#OBJECT_SHARED Models/Aircraft/A320_services-ba.ac 4.48664963 50.90332334 35.7527 120.0
 
 OBJECT_SHARED Models/Aircraft/HH-60-lowpoly.xml 4.497533 50.914780 24.7 30
 OBJECT_SHARED Models/Aircraft/superfrelon.xml 4.496960 50.914595 24.7 30
@@ -156,15 +156,15 @@ OBJECT_STATIC ebbr_road_light.xml 4.494369 50.906271 26.4 0
 OBJECT_STATIC ebbr_road_light.xml 4.494325 50.906427 26.4 0
 
 ## Apron 1 Airport big lights
-OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.490588 50.905099 26.4 290
-OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.489326 50.904735 26.4 290
-OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.488289 50.904418 26.4 290
-OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.486857 50.904066 26.4 290
-OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.485768 50.903718 26.4 290
-OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.484635 50.903361 26.4 290
-OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.483530 50.903050 26.4 290
-OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.482331 50.902733 26.4 290
-OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.481222 50.902427 26.4 290
+#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.490588 50.905099 26.4 290
+#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.489326 50.904735 26.4 290
+#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.488289 50.904418 26.4 290
+#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.486857 50.904066 26.4 290
+#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.485768 50.903718 26.4 290
+#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.484635 50.903361 26.4 290
+#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.483530 50.903050 26.4 290
+#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.482331 50.902733 26.4 290
+#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.481222 50.902427 26.4 290
 
 ## Apron 9 Big lights
 OBJECT_SHARED Models/Airport/apt-light.xml 4.450929 50.901249 26.4 0

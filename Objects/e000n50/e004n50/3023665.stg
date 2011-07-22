@@ -8,9 +8,9 @@ OBJECT_SHARED Models/Misc/eglise-ba.ac 4.331971 50.860347 29.5 90
 
 #desc: Carrefour Hyper Berchem St Agathe
 OBJECT_STATIC carrefour_hyper_berchem_st_agathe.ac 4.291864 50.872232 40 0
-OBJECT_STATIC cora_anderlecht.ac 4.280617 50.819210 40 0
-OBJECT_STATIC ikea_anderlecht.ac 4.291176 50.810792 40 0
-OBJECT_STATIC brico_plan_it_anderlecht.ac 4.289515 50.817077 80 0
+OBJECT_STATIC cora_anderlecht.ac 4.280617 50.819210 30 0
+OBJECT_STATIC ikea_anderlecht.ac 4.291176 50.810792 28.27 0
+OBJECT_STATIC brico_plan_it_anderlecht.ac 4.289515 50.817077 30 0
 
 #desc: Basiliek van Koekelberg
 OBJECT_STATIC basiliek_koekelberg.ac 4.317221 50.867035 65 65
@@ -783,10 +783,11 @@ OBJECT_STATIC terrain_de_foot_generic.ac 4.325579 50.861027 45 108.0
 OBJECT_STATIC cathedral_of_saints_michael_and_cudule.ac 4.359798 50.847761 42 0
 
 OBJECT_STATIC tour_du_midi.ac 4.336815 50.837849 23.5 108.0
-OBJECT_STATIC tour_finances.ac 4.364104 50.852875 32.1806 70
-OBJECT_STATIC dexia_tower.ac 4.359330 50.856415 32.1806 60
+OBJECT_STATIC tour_finances.ac 4.364104 50.852875 32.1806 65
+OBJECT_STATIC dexia_tower.xml 4.359330 50.856415 32.1806 60
 OBJECT_STATIC belgacom_towers.ac 4.358268 50.860058 32.1806 60
 #desc: FIXME Missing Madou tower
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.369983 50.849423 58 60
 #desc: FIXME North Galaxy Tower A & B (and middle bloc) should be one object?!
 OBJECT_STATIC north_galaxy_tower_a_and_b.ac 4.359083 50.861725 24.2 60
 OBJECT_STATIC north_galaxy_tower_a_and_b.ac 4.359137 50.861027 24.2 150
@@ -803,7 +804,7 @@ OBJECT_STATIC wtc.ac 4.357095 50.861845 17.5 60
 #desc: IT Tower (Generic)
 OBJECT_STATIC it_tower.ac 4.372408 50.817150 82 290
 #desc: Manhattan Center (Generic)
-OBJECT_STATIC manhattan_center.ac 4.357495 50.856030 32.1806 60
+OBJECT_STATIC manhattan_center.ac 4.357495 50.856030 32.1806 65
 #desc: Covent Garden B (Generic)
 OBJECT_STATIC covent_garden.ac 4.360585 50.856167 32.1806 50
 #desc: Brusilia (Generic)
@@ -829,13 +830,13 @@ OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.361
 #desc: TBR-building (Generic)
 OBJECT_STATIC tbr_building.ac 4.358070 50.863271 22 60
 #desc: Euroclean Operation Center (Generic)
-OBJECT_STATIC euroclear_operation_centre.ac 4.356261 50.856476 32.1806 60
+OBJECT_STATIC euroclear_operation_centre.ac 4.356261 50.856476 32.1806 65
 #desc: Résidence Nord (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.360650 50.862198 32.1806 108.0
 #desc: Résidence Aigle (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.370863 50.850212 32.1806 108.0
 #desc: Victoria Regina Tower (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.363568 50.855656 32.1806 108.0
+OBJECT_STATIC victoria_regina_tower.ac 4.363568 50.855656 38.19 0
 #desc: Résidence La Palmeraie (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.305589 50.855289 32.1806 108.0
 #desc: Résidence Orchidee (Generic)
@@ -877,7 +878,7 @@ OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.340887 5
 #desc: Dexia Bank (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.362431 50.853271 32.1806 108.0
 #desc: View Building (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.369930 50.842903 32.1806 108.0
+OBJECT_STATIC view_building.ac 4.369930 50.842903 71 0
 #desc: Residence Rue des Goujons 5 (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.322573 50.834324 32.1806 108.0
 #desc: Berlaymont (Generic)
@@ -903,7 +904,7 @@ OBJECT_STATIC axa_belgium_b.ac 4.424906 50.801630 67 45
 #desc: Avenue Docteur Lemoine (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.283960 50.826996 32.1806 108.0
 #desc: Galilee Building and P&V assurance
-OBJECT_STATIC galilee_building.ac 4.367720 50.853191 51.9 20
+OBJECT_STATIC galilee_building.ac 4.367720 50.853191 51.9 65
 #desc: H Frick place building
 OBJECT_STATIC h_frick_place_building.ac 4.369000 50.852178 54.8 110
 OBJECT_STATIC h_frick_place_garden_house.ac 4.368768 50.852459 54.8 20
@@ -946,7 +947,7 @@ OBJECT_STATIC av_de_l_heliport.ac 4.356811 50.863664 16.7 240
 #desc: Avenue de l'Heliport f (Generic)
 OBJECT_STATIC av_de_l_heliport.ac 4.356397 50.863116 16.7 240
 #desc: Hôpital Erasme
-OBJECT_STATIC hopital_erasmus.ac 4.265571 50.813408 37 102
+OBJECT_STATIC hopital_erasmus.ac 4.265571 50.813408 40.6 102
 #desc: Helipad at hospital Erasmus (Should be a helipad with a big cross inside)
 OBJECT_SHARED Models/Airport/helipad_circle.xml 4.261441 50.812974 37 0
 #desc: Léopold
@@ -1003,4 +1004,21 @@ OBJECT_STATIC council_of_the_european_union_justus_lipsius_building.ac 4.382216 
 
 #desc: Crane
 OBJECT_STATIC crane.ac 4.381741 50.840750 59 0
+
+#desc: Rogier Pyramid
+OBJECT_STATIC rogier_pyramid.ac 4.358869 50.855562 33 65
+#desc: City 2
+OBJECT_STATIC city2.ac 4.358901 50.854623 32 65
+#desc: ING Bruxelles Marnix
+OBJECT_STATIC ing_bruxelles_marnix.ac 4.366134 50.839356 76 20
+#desc: Place du Trone 4
+OBJECT_STATIC place_du_trone_4.ac 4.365508 50.841191 72 60
+
+#desc: Tour & Taxi
+OBJECT_STATIC tour_and_taxi_circus.ac 4.343210 50.865232 22 60
+OBJECT_STATIC tour_and_taxi_gate_building.ac 4.343088 50.864557 22.4 60
+OBJECT_STATIC tour_and_taxi_hangar1.ac 4.345497 50.865223 19.6 60
+OBJECT_STATIC tour_and_taxi_building1.ac 4.345723 50.863851 19.3 60
+OBJECT_STATIC tour_and_taxi_building2.ac 4.347295 50.863272 18.5 60
+OBJECT_STATIC tour_and_taxi_building3.ac 4.348530 50.864256 17 60
 
