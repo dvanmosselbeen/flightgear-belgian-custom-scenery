@@ -1,7 +1,7 @@
 AC3Db
 MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
 OBJECT world
-kids 9
+kids 11
 OBJECT poly
 name "Cube"
 data 8
@@ -2249,4 +2249,46 @@ refs 4
 12 0.21875 0.03125
 14 0.21875 0.21875
 15 0.03125 0.21875
+kids 0
+OBJECT poly
+name "Plane"
+data 5
+Plane
+texture "dhl_logo.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+19.452877 10.136781 -56.097652
+19.452877 5.863219 -56.097652
+36.547123 5.86322 -56.097652
+36.547119 10.136781 -56.097652
+numsurf 1
+SURF 0x00
+mat 0
+refs 4
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.703125
+1 1.0 0.703125
+kids 0
+OBJECT poly
+name "Plane.001"
+data 9
+Plane.002
+texture "dhl_logo.png"
+texrep 1 1
+crease 30.000000
+numvert 4
+-46.563427 10.136781 -56.097652
+-46.563427 5.863219 -56.097652
+-29.469179 5.86322 -56.097652
+-29.469183 10.136781 -56.097652
+numsurf 1
+SURF 0x00
+mat 0
+refs 4
+0 1.0 1.0
+3 0.0 1.0
+2 0.0 0.703125
+1 1.0 0.703125
 kids 0
