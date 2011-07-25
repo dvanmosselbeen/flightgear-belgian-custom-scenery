@@ -1,0 +1,7 @@
+#country: be
+#submitter: David Van Mosselbeen
+
+#desc: Centrale nucléaire de Tihange (Huy)
+OBJECT_SHARED Models/Power/coolingtower.xml 5.267074 50.533609 69 00
+OBJECT_SHARED Models/Power/coolingtower.xml 5.275236 50.532370 76 00
+OBJECT_SHARED Models/Power/coolingtower.xml 5.279147 50.533053 73 00

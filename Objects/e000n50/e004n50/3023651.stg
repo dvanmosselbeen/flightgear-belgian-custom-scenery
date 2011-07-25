@@ -1,0 +1,12 @@
+#country: be
+#submitter: David Van Mosselbeen
+
+#desc: Les eoliennes de Perwez
+OBJECT_SHARED Models/Power/windturbine.xml 4.788210 50.608470 162 0
+OBJECT_SHARED Models/Power/windturbine.xml 4.791492 50.606286 158 0
+OBJECT_SHARED Models/Power/windturbine.xml 4.794601 50.604103 161 0
+OBJECT_SHARED Models/Power/windturbine.xml 4.800409 50.603728 160 0
+OBJECT_SHARED Models/Power/windturbine.xml 4.801066 50.608773 156 0
+OBJECT_SHARED Models/Power/windturbine.xml 4.797349 50.611401 160 0
+OBJECT_SHARED Models/Power/windturbine.xml 4.792129 50.614137 156 0
+OBJECT_SHARED Models/Power/windturbine.xml 4.787416 50.616484 156 0
