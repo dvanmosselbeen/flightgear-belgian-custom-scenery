@@ -107,10 +107,12 @@ OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.494165 50.906675 32.8 1
 OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493310 50.905800 33.5 45
 
 ### Helipads
-OBJECT_SHARED Models/Airport/helipad_circle.xml 4.49569 50.914913 24.7 300.0
-OBJECT_SHARED Models/Airport/helipad_circle.xml 4.495263 50.914746 24.7 300.0
-OBJECT_SHARED Models/Airport/helipad_circle.xml 4.495002 50.914656 24.6 300.0
-OBJECT_SHARED Models/Airport/helipad_circle.xml 4.494723 50.914541 24.7 300.0
+OBJECT_SHARED Models/Airport/helipad_circle.xml 4.49569 50.914913 24.7 300
+OBJECT_SHARED Models/Airport/helipad_circle.xml 4.495263 50.914746 24.7 300
+OBJECT_SHARED Models/Airport/helipad_circle.xml 4.495002 50.914656 24.6 300
+OBJECT_SHARED Models/Airport/helipad_circle.xml 4.494723 50.914541 24.75 300
+#desc: Heli trolley
+OBJECT_STATIC heli_trolley.ac 4.495198 50.914039 25 210
 
 OBJECT_SHARED Models/Airport/helipad_circle.xml 4.48002932 50.90867336 31.5247 300.0
 
