@@ -3,7 +3,7 @@ MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 
 MATERIAL "Light" rgb 0.924318 0.967828 0.60619 amb 0.5 0.5 0.5 emis 0 0 0 spec 0.93908 0.943418 0.752101 shi 32 trans 0
 MATERIAL "Metal" rgb 0.56 0.56 0.56 amb 0.5 0.5 0.5 emis 0 0 0 spec 0.7 0.7 0.7 shi 32 trans 0
 OBJECT world
-kids 5
+kids 3
 OBJECT poly
 name "Light"
 data 8
@@ -15,7 +15,7 @@ numvert 4
 -0.090248 11.846327 0.03098
 0.090248 11.846327 0.03098
 numsurf 1
-SURF 0x20
+SURF 0x00
 mat 1
 refs 4
 0 0 0
@@ -46,148 +46,97 @@ numvert 16
 0.090248 11.97601 0.387282
 -0.090248 11.97601 0.387282
 numsurf 13
-SURF 0x20
+SURF 0x00
 mat 2
 refs 4
 0 0 0
 1 0 0
 2 0 0
 3 0 0
-SURF 0x20
+SURF 0x00
 mat 2
 refs 4
 4 0 0
 7 0 0
 6 0 0
 5 0 0
-SURF 0x20
+SURF 0x00
 mat 2
 refs 4
 0 0 0
 4 0 0
 5 0 0
 1 0 0
-SURF 0x20
+SURF 0x00
 mat 2
 refs 4
 2 0 0
 6 0 0
 7 0 0
 3 0 0
-SURF 0x20
+SURF 0x00
 mat 2
 refs 4
 4 0 0
 0 0 0
 3 0 0
 7 0 0
-SURF 0x20
+SURF 0x00
 mat 2
 refs 4
 6 0 0
 2 0 0
 8 0 0
 9 0 0
-SURF 0x20
+SURF 0x00
 mat 2
 refs 4
 1 0 0
 5 0 0
 11 0 0
 10 0 0
-SURF 0x20
+SURF 0x00
 mat 2
 refs 4
 5 0 0
 6 0 0
 9 0 0
 11 0 0
-SURF 0x20
+SURF 0x00
 mat 2
 refs 4
 2 0 0
 1 0 0
 10 0 0
 8 0 0
-SURF 0x20
+SURF 0x00
 mat 2
 refs 4
 8 0 0
 10 0 0
 12 0 0
 13 0 0
-SURF 0x20
+SURF 0x00
 mat 2
 refs 4
 11 0 0
 9 0 0
 15 0 0
 14 0 0
-SURF 0x20
+SURF 0x00
 mat 2
 refs 4
 10 0 0
 11 0 0
 14 0 0
 12 0 0
-SURF 0x20
+SURF 0x00
 mat 2
 refs 4
 9 0 0
 8 0 0
 13 0 0
 15 0 0
-kids 0
-OBJECT poly
-name "LightBulbLR"
-data 4
-Cube
-crease 30.000000
-numvert 8
-0.1 11.90544 -0.00162
-0.1 11.830265 0.025742
--0.1 11.830265 0.025742
--0.1 11.90544 -0.00162
-0.1 12.042248 0.374258
-0.1 11.967072 0.401619
--0.1 11.967072 0.401619
--0.1 12.042248 0.374258
-numsurf 5
-SURF 0x20
-mat 2
-refs 4
-0 0 0
-1 0 0
-2 0 0
-3 0 0
-SURF 0x20
-mat 2
-refs 4
-4 0 0
-7 0 0
-6 0 0
-5 0 0
-SURF 0x20
-mat 2
-refs 4
-0 0 0
-4 0 0
-5 0 0
-1 0 0
-SURF 0x20
-mat 2
-refs 4
-2 0 0
-6 0 0
-7 0 0
-3 0 0
-SURF 0x20
-mat 2
-refs 4
-4 0 0
-0 0 0
-3 0 0
-7 0 0
 kids 0
 OBJECT poly
 name "PilarHR"
@@ -217,192 +166,134 @@ numvert 21
 0.007822 12 -0.049385
 0 12.02 0
 numsurf 20
-SURF 0x30
+SURF 0x10
 mat 2
 refs 3
 20 0 0
 11 0 0
 10 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 3
 20 0 0
 12 0 0
 11 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 3
 20 0 0
 13 0 0
 12 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 3
 20 0 0
 14 0 0
 13 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 3
 20 0 0
 15 0 0
 14 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 3
 20 0 0
 16 0 0
 15 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 3
 20 0 0
 17 0 0
 16 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 3
 20 0 0
 18 0 0
 17 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 3
 20 0 0
 19 0 0
 18 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 3
 20 0 0
 10 0 0
 19 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 4
 0 0 0
 10 0 0
 11 0 0
 1 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 4
 1 0 0
 11 0 0
 12 0 0
 2 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 4
 2 0 0
 12 0 0
 13 0 0
 3 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 4
 3 0 0
 13 0 0
 14 0 0
 4 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 4
 4 0 0
 14 0 0
 15 0 0
 5 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 4
 5 0 0
 15 0 0
 16 0 0
 6 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 4
 6 0 0
 16 0 0
 17 0 0
 7 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 4
 7 0 0
 17 0 0
 18 0 0
 8 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 4
 8 0 0
 18 0 0
 19 0 0
 9 0 0
-SURF 0x30
+SURF 0x10
 mat 2
 refs 4
 10 0 0
 0 0 0
 9 0 0
 19 0 0
-kids 0
-OBJECT poly
-name "PilarLR"
-data 8
-Cube.003
-crease 30.000000
-numvert 8
-0.049911 12 -0.049911
-0.049911 0 -0.049911
--0.049911 0 -0.049911
--0.049911 12 -0.049911
-0.049911 12.000001 0.049911
-0.049911 0 0.049911
--0.049911 0 0.049911
--0.049911 12.000001 0.049911
-numsurf 6
-SURF 0x20
-mat 2
-refs 4
-0 0 0
-1 0 0
-2 0 0
-3 0 0
-SURF 0x20
-mat 2
-refs 4
-4 0 0
-7 0 0
-6 0 0
-5 0 0
-SURF 0x20
-mat 2
-refs 4
-0 0 0
-4 0 0
-5 0 0
-1 0 0
-SURF 0x20
-mat 2
-refs 4
-1 0 0
-5 0 0
-6 0 0
-2 0 0
-SURF 0x20
-mat 2
-refs 4
-2 0 0
-6 0 0
-7 0 0
-3 0 0
-SURF 0x20
-mat 2
-refs 4
-4 0 0
-0 0 0
-3 0 0
-7 0 0
 kids 0

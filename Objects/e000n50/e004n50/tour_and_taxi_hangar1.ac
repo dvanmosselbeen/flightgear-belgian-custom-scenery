@@ -60,291 +60,291 @@ numvert 51
 -21.504797 12 132.000015
 -21.504797 12 -138.999969
 numsurf 42
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 0 0 0
 9 0 0
 13 0 0
 3 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 10 0 0
 2 0 0
 6 0 0
 14 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 11 0 0
 19 0 0
 15 0 0
 7 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 20 0 0
 12 0 0
 8 0 0
 16 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 9 0 0
 18 0 0
 21 0 0
 13 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 18 0 0
 17 0 0
 22 0 0
 21 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 17 0 0
 10 0 0
 14 0 0
 22 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 21 0 0
 22 0 0
 24 0 0
 25 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 20 0 0
 19 0 0
 26 0 0
 23 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 14 0 0
 6 0 0
 31 0 0
 28 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 3 0 0
 13 0 0
 29 0 0
 32 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 5 0 0
 12 0 0
 27 0 0
 33 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 11 0 0
 4 0 0
 34 0 0
 30 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 30 0 0
 34 0 0
 36 0 0
 39 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 33 0 0
 27 0 0
 40 0 0
 38 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 32 0 0
 29 0 0
 41 0 0
 35 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 28 0 0
 31 0 0
 37 0 0
 42 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 23 0 0
 26 0 0
 43 0 0
 44 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 25 0 0
 24 0 0
 45 0 0
 46 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 1 0 0
 0 0 0
 3 0 0
 4 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 22 0 0
 20 0 0
 23 0 0
 24 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 19 0 0
 21 0 0
 25 0 0
 26 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 12 0 0
 14 0 0
 28 0 0
 27 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 13 0 0
 11 0 0
 30 0 0
 29 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 4 0 0
 3 0 0
 32 0 0
 34 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 34 0 0
 32 0 0
 35 0 0
 36 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 31 0 0
 33 0 0
 38 0 0
 37 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 29 0 0
 30 0 0
 39 0 0
 41 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 27 0 0
 28 0 0
 42 0 0
 40 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 26 0 0
 25 0 0
 46 0 0
 43 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 24 0 0
 23 0 0
 44 0 0
 45 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 41 0 0
 39 0 0
 36 0 0
 35 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 37 0 0
 38 0 0
 40 0 0
 42 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 45 0 0
 44 0 0
 43 0 0
 46 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 11 0 0
 13 0 0
 48 0 0
 47 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 14 0 0
 12 0 0
 49 0 0
 50 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 21 0 0
 19 0 0
 47 0 0
 48 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 20 0 0
 22 0 0
 50 0 0
 49 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 3
 22 0 0
 14 0 0
 50 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 3
 13 0 0
 21 0 0
 48 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 3
 12 0 0
 20 0 0
 49 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 3
 19 0 0
@@ -419,385 +419,385 @@ numvert 61
 -63.930019 25.199999 132.429825
 -64.070015 25.199999 132.429825
 numsurf 55
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 5 0 0
 3 0 0
 1 0 0
 4 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 5 0 0
 4 0 0
 6 0 0
 7 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 0 0 0
 2 0 0
 8 0 0
 9 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 8 0 0
 7 0 0
 6 0 0
 9 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 13 0 0
 17 0 0
 16 0 0
 12 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 14 0 0
 10 0 0
 12 0 0
 16 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 16 0 0
 1 0 0
 3 0 0
 14 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 0 0 0
 17 0 0
 15 0 0
 2 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 17 0 0
 13 0 0
 11 0 0
 15 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 16 0 0
 17 0 0
 19 0 0
 18 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 17 0 0
 0 0 0
 20 0 0
 19 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 1 0 0
 16 0 0
 18 0 0
 21 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 0 0 0
 1 0 0
 21 0 0
 20 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 9 0 0
 6 0 0
 22 0 0
 23 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 0 0 0
 9 0 0
 23 0 0
 20 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 6 0 0
 4 0 0
 24 0 0
 22 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 4 0 0
 0 0 0
 20 0 0
 24 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 24 0 0
 20 0 0
 23 0 0
 22 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 20 0 0
 21 0 0
 26 0 0
 25 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 21 0 0
 18 0 0
 27 0 0
 26 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 19 0 0
 20 0 0
 25 0 0
 28 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 18 0 0
 19 0 0
 28 0 0
 27 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 27 0 0
 28 0 0
 30 0 0
 29 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 28 0 0
 25 0 0
 31 0 0
 30 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 26 0 0
 27 0 0
 29 0 0
 32 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 25 0 0
 26 0 0
 32 0 0
 31 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 31 0 0
 32 0 0
 34 0 0
 33 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 32 0 0
 29 0 0
 35 0 0
 34 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 30 0 0
 31 0 0
 33 0 0
 36 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 29 0 0
 30 0 0
 36 0 0
 35 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 35 0 0
 36 0 0
 37 0 0
 38 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 36 0 0
 33 0 0
 39 0 0
 37 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 34 0 0
 35 0 0
 38 0 0
 40 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 33 0 0
 34 0 0
 40 0 0
 39 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 39 0 0
 40 0 0
 42 0 0
 41 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 40 0 0
 38 0 0
 43 0 0
 42 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 37 0 0
 39 0 0
 41 0 0
 44 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 38 0 0
 37 0 0
 44 0 0
 43 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 43 0 0
 44 0 0
 46 0 0
 45 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 44 0 0
 41 0 0
 47 0 0
 46 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 42 0 0
 43 0 0
 45 0 0
 48 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 41 0 0
 42 0 0
 48 0 0
 47 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 47 0 0
 48 0 0
 50 0 0
 49 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 48 0 0
 45 0 0
 51 0 0
 50 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 46 0 0
 47 0 0
 49 0 0
 52 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 45 0 0
 46 0 0
 52 0 0
 51 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 51 0 0
 52 0 0
 53 0 0
 54 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 52 0 0
 49 0 0
 55 0 0
 53 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 50 0 0
 51 0 0
 54 0 0
 56 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 49 0 0
 50 0 0
 56 0 0
 55 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 55 0 0
 56 0 0
 57 0 0
 58 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 56 0 0
 54 0 0
 59 0 0
 57 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 53 0 0
 55 0 0
 58 0 0
 60 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 54 0 0
 53 0 0
 60 0 0
 59 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 60 0 0
@@ -817,32 +817,32 @@ numvert 5
 -64.042015 25.199999 132.457825
 -64.000015 26.899998 132.499817
 numsurf 5
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 0 0 0
 1 0 0
 3 0 0
 2 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 3
 3 0 0
 4 0 0
 2 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 3
 1 0 0
 4 0 0
 3 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 3
 4 0 0
 0 0 0
 2 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 3
 0 0 0
@@ -904,189 +904,189 @@ numvert 48
 -1.999813 1e-06 138.699982
 -1.999828 5.850001 138.699997
 numsurf 27
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 12 0 0
 22 0 0
 20 0 0
 4 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 22 0 0
 14 0 0
 6 0 0
 20 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 13 0 0
 23 0 0
 22 0 0
 12 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 8 0 0
 21 0 0
 23 0 0
 13 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 21 0 0
 10 0 0
 15 0 0
 23 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 17 0 0
 26 0 0
 25 0 0
 9 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 26 0 0
 19 0 0
 11 0 0
 25 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 16 0 0
 27 0 0
 26 0 0
 17 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 5 0 0
 24 0 0
 27 0 0
 16 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 24 0 0
 7 0 0
 18 0 0
 27 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 30 0 0
 0 0 0
 28 0 0
 34 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 34 0 0
 35 0 0
 31 0 0
 30 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 35 0 0
 29 0 0
 1 0 0
 31 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 2 0 0
 32 0 0
 34 0 0
 28 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 33 0 0
 3 0 0
 29 0 0
 35 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 26 0 0
 27 0 0
 37 0 0
 36 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 27 0 0
 18 0 0
 38 0 0
 37 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 19 0 0
 26 0 0
 36 0 0
 39 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 22 0 0
 23 0 0
 41 0 0
 40 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 23 0 0
 15 0 0
 42 0 0
 41 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 14 0 0
 22 0 0
 40 0 0
 43 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 37 0 0
 38 0 0
 39 0 0
 36 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 41 0 0
 42 0 0
 43 0 0
 40 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 33 0 0
 35 0 0
 45 0 0
 44 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 34 0 0
 32 0 0
 46 0 0
 47 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 35 0 0
 34 0 0
 47 0 0
 45 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 46 0 0
@@ -1117,63 +1117,63 @@ numvert 16
 -45.89566 0 138.999969
 -45.895664 4.309502 138.999969
 numsurf 9
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 2 0 0
 0 0 0
 4 0 0
 5 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 3 0 0
 7 0 0
 6 0 0
 1 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 3 0 0
 2 0 0
 5 0 0
 7 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 5 0 0
 4 0 0
 8 0 0
 9 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 7 0 0
 11 0 0
 10 0 0
 6 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 7 0 0
 5 0 0
 9 0 0
 11 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 9 0 0
 8 0 0
 12 0 0
 13 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 11 0 0
 15 0 0
 14 0 0
 10 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 11 0 0
@@ -1260,406 +1260,406 @@ numvert 72
 -42.284248 18.5 138.600311
 -42.284248 18.5 -138.600311
 numsurf 58
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 12 0 0
 16 0 0
 18 0 0
 14 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 19 0 0
 17 0 0
 13 0 0
 15 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 2 0 0
 24 0 0
 22 0 0
 10 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 23 0 0
 25 0 0
 3 0 0
 11 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 26 0 0
 0 0 0
 8 0 0
 20 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 9 0 0
 1 0 0
 27 0 0
 21 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 6 0 0
 30 0 0
 28 0 0
 4 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 29 0 0
 31 0 0
 7 0 0
 5 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 10 0 0
 22 0 0
 36 0 0
 34 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 37 0 0
 23 0 0
 11 0 0
 35 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 34 0 0
 36 0 0
 16 0 0
 12 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 17 0 0
 37 0 0
 35 0 0
 13 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 4 0 0
 28 0 0
 38 0 0
 32 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 39 0 0
 29 0 0
 5 0 0
 33 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 32 0 0
 38 0 0
 24 0 0
 2 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 25 0 0
 39 0 0
 33 0 0
 3 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 28 0 0
 16 0 0
 36 0 0
 38 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 37 0 0
 17 0 0
 29 0 0
 39 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 14 0 0
 18 0 0
 44 0 0
 42 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 45 0 0
 19 0 0
 15 0 0
 43 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 42 0 0
 44 0 0
 20 0 0
 8 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 21 0 0
 45 0 0
 43 0 0
 9 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 0 0 0
 26 0 0
 46 0 0
 40 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 47 0 0
 27 0 0
 1 0 0
 41 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 40 0 0
 46 0 0
 30 0 0
 6 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 31 0 0
 47 0 0
 41 0 0
 7 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 18 0 0
 30 0 0
 46 0 0
 44 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 47 0 0
 31 0 0
 19 0 0
 45 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 46 0 0
 50 0 0
 48 0 0
 44 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 49 0 0
 51 0 0
 47 0 0
 45 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 26 0 0
 52 0 0
 50 0 0
 46 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 51 0 0
 53 0 0
 27 0 0
 47 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 44 0 0
 48 0 0
 54 0 0
 20 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 55 0 0
 49 0 0
 45 0 0
 21 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 36 0 0
 56 0 0
 58 0 0
 38 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 59 0 0
 57 0 0
 37 0 0
 39 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 38 0 0
 58 0 0
 60 0 0
 24 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 61 0 0
 59 0 0
 39 0 0
 25 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 22 0 0
 62 0 0
 56 0 0
 36 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 57 0 0
 63 0 0
 23 0 0
 37 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 28 0 0
 64 0 0
 66 0 0
 16 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 67 0 0
 65 0 0
 29 0 0
 17 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 18 0 0
 70 0 0
 68 0 0
 30 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 69 0 0
 71 0 0
 19 0 0
 31 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 30 0 0
 68 0 0
 64 0 0
 28 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 65 0 0
 69 0 0
 31 0 0
 29 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 20 0 0
 54 0 0
 52 0 0
 26 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 53 0 0
 55 0 0
 21 0 0
 27 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 24 0 0
 60 0 0
 62 0 0
 22 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 63 0 0
 61 0 0
 25 0 0
 23 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 16 0 0
 66 0 0
 70 0 0
 18 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 71 0 0
 67 0 0
 17 0 0
 19 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 48 0 0
 50 0 0
 52 0 0
 54 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 53 0 0
 51 0 0
 49 0 0
 55 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 58 0 0
 56 0 0
 62 0 0
 60 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 63 0 0
 57 0 0
 59 0 0
 61 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 70 0 0
 66 0 0
 64 0 0
 68 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 65 0 0
@@ -1746,406 +1746,406 @@ numvert 72
 0.725281 18.5 138.600311
 0.725281 18.5 -138.600311
 numsurf 58
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 12 0 0
 16 0 0
 18 0 0
 14 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 19 0 0
 17 0 0
 13 0 0
 15 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 2 0 0
 24 0 0
 22 0 0
 10 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 23 0 0
 25 0 0
 3 0 0
 11 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 26 0 0
 0 0 0
 8 0 0
 20 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 9 0 0
 1 0 0
 27 0 0
 21 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 6 0 0
 30 0 0
 28 0 0
 4 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 29 0 0
 31 0 0
 7 0 0
 5 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 10 0 0
 22 0 0
 36 0 0
 34 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 37 0 0
 23 0 0
 11 0 0
 35 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 34 0 0
 36 0 0
 16 0 0
 12 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 17 0 0
 37 0 0
 35 0 0
 13 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 4 0 0
 28 0 0
 38 0 0
 32 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 39 0 0
 29 0 0
 5 0 0
 33 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 32 0 0
 38 0 0
 24 0 0
 2 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 25 0 0
 39 0 0
 33 0 0
 3 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 28 0 0
 16 0 0
 36 0 0
 38 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 37 0 0
 17 0 0
 29 0 0
 39 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 14 0 0
 18 0 0
 44 0 0
 42 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 45 0 0
 19 0 0
 15 0 0
 43 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 42 0 0
 44 0 0
 20 0 0
 8 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 21 0 0
 45 0 0
 43 0 0
 9 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 0 0 0
 26 0 0
 46 0 0
 40 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 47 0 0
 27 0 0
 1 0 0
 41 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 40 0 0
 46 0 0
 30 0 0
 6 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 31 0 0
 47 0 0
 41 0 0
 7 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 18 0 0
 30 0 0
 46 0 0
 44 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 47 0 0
 31 0 0
 19 0 0
 45 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 46 0 0
 50 0 0
 48 0 0
 44 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 49 0 0
 51 0 0
 47 0 0
 45 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 26 0 0
 52 0 0
 50 0 0
 46 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 51 0 0
 53 0 0
 27 0 0
 47 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 44 0 0
 48 0 0
 54 0 0
 20 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 55 0 0
 49 0 0
 45 0 0
 21 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 36 0 0
 56 0 0
 58 0 0
 38 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 59 0 0
 57 0 0
 37 0 0
 39 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 38 0 0
 58 0 0
 60 0 0
 24 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 61 0 0
 59 0 0
 39 0 0
 25 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 22 0 0
 62 0 0
 56 0 0
 36 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 57 0 0
 63 0 0
 23 0 0
 37 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 28 0 0
 64 0 0
 66 0 0
 16 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 67 0 0
 65 0 0
 29 0 0
 17 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 18 0 0
 70 0 0
 68 0 0
 30 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 69 0 0
 71 0 0
 19 0 0
 31 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 30 0 0
 68 0 0
 64 0 0
 28 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 65 0 0
 69 0 0
 31 0 0
 29 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 20 0 0
 54 0 0
 52 0 0
 26 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 53 0 0
 55 0 0
 21 0 0
 27 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 24 0 0
 60 0 0
 62 0 0
 22 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 63 0 0
 61 0 0
 25 0 0
 23 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 16 0 0
 66 0 0
 70 0 0
 18 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 71 0 0
 67 0 0
 17 0 0
 19 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 48 0 0
 50 0 0
 52 0 0
 54 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 53 0 0
 51 0 0
 49 0 0
 55 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 58 0 0
 56 0 0
 62 0 0
 60 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 63 0 0
 57 0 0
 59 0 0
 61 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 70 0 0
 66 0 0
 64 0 0
 68 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 65 0 0
@@ -2232,476 +2232,476 @@ numvert 72
 43.733337 18.5 138.600311
 43.733337 18.5 -138.600311
 numsurf 68
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 12 0 0
 14 0 0
 6 0 0
 4 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 7 0 0
 15 0 0
 13 0 0
 5 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 12 0 0
 16 0 0
 18 0 0
 14 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 19 0 0
 17 0 0
 13 0 0
 15 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 2 0 0
 24 0 0
 22 0 0
 10 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 23 0 0
 25 0 0
 3 0 0
 11 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 26 0 0
 0 0 0
 8 0 0
 20 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 9 0 0
 1 0 0
 27 0 0
 21 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 6 0 0
 30 0 0
 28 0 0
 4 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 29 0 0
 31 0 0
 7 0 0
 5 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 2 0 0
 10 0 0
 34 0 0
 32 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 35 0 0
 11 0 0
 3 0 0
 33 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 32 0 0
 34 0 0
 12 0 0
 4 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 13 0 0
 35 0 0
 33 0 0
 5 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 10 0 0
 22 0 0
 36 0 0
 34 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 37 0 0
 23 0 0
 11 0 0
 35 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 34 0 0
 36 0 0
 16 0 0
 12 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 17 0 0
 37 0 0
 35 0 0
 13 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 4 0 0
 28 0 0
 38 0 0
 32 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 39 0 0
 29 0 0
 5 0 0
 33 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 32 0 0
 38 0 0
 24 0 0
 2 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 25 0 0
 39 0 0
 33 0 0
 3 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 28 0 0
 16 0 0
 36 0 0
 38 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 37 0 0
 17 0 0
 29 0 0
 39 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 8 0 0
 0 0 0
 40 0 0
 42 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 41 0 0
 1 0 0
 9 0 0
 43 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 42 0 0
 40 0 0
 6 0 0
 14 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 7 0 0
 41 0 0
 43 0 0
 15 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 14 0 0
 18 0 0
 44 0 0
 42 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 45 0 0
 19 0 0
 15 0 0
 43 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 42 0 0
 44 0 0
 20 0 0
 8 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 21 0 0
 45 0 0
 43 0 0
 9 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 0 0 0
 26 0 0
 46 0 0
 40 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 47 0 0
 27 0 0
 1 0 0
 41 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 40 0 0
 46 0 0
 30 0 0
 6 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 31 0 0
 47 0 0
 41 0 0
 7 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 18 0 0
 30 0 0
 46 0 0
 44 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 47 0 0
 31 0 0
 19 0 0
 45 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 46 0 0
 50 0 0
 48 0 0
 44 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 49 0 0
 51 0 0
 47 0 0
 45 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 26 0 0
 52 0 0
 50 0 0
 46 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 51 0 0
 53 0 0
 27 0 0
 47 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 44 0 0
 48 0 0
 54 0 0
 20 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 55 0 0
 49 0 0
 45 0 0
 21 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 36 0 0
 56 0 0
 58 0 0
 38 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 59 0 0
 57 0 0
 37 0 0
 39 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 38 0 0
 58 0 0
 60 0 0
 24 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 61 0 0
 59 0 0
 39 0 0
 25 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 22 0 0
 62 0 0
 56 0 0
 36 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 57 0 0
 63 0 0
 23 0 0
 37 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 28 0 0
 64 0 0
 66 0 0
 16 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 67 0 0
 65 0 0
 29 0 0
 17 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 18 0 0
 70 0 0
 68 0 0
 30 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 69 0 0
 71 0 0
 19 0 0
 31 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 30 0 0
 68 0 0
 64 0 0
 28 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 65 0 0
 69 0 0
 31 0 0
 29 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 20 0 0
 54 0 0
 52 0 0
 26 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 53 0 0
 55 0 0
 21 0 0
 27 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 24 0 0
 60 0 0
 62 0 0
 22 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 63 0 0
 61 0 0
 25 0 0
 23 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 16 0 0
 66 0 0
 70 0 0
 18 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 71 0 0
 67 0 0
 17 0 0
 19 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 48 0 0
 50 0 0
 52 0 0
 54 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 53 0 0
 51 0 0
 49 0 0
 55 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 58 0 0
 56 0 0
 62 0 0
 60 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 63 0 0
 57 0 0
 59 0 0
 61 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 70 0 0
 66 0 0
 64 0 0
 68 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 65 0 0
@@ -2732,63 +2732,63 @@ numvert 16
 40.124031 0 138.999969
 40.124027 4.309502 138.999969
 numsurf 9
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 2 0 0
 0 0 0
 4 0 0
 5 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 3 0 0
 7 0 0
 6 0 0
 1 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 3 0 0
 2 0 0
 5 0 0
 7 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 5 0 0
 4 0 0
 8 0 0
 9 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 7 0 0
 11 0 0
 10 0 0
 6 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 7 0 0
 5 0 0
 9 0 0
 11 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 9 0 0
 8 0 0
 12 0 0
 13 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 11 0 0
 15 0 0
 14 0 0
 10 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 11 0 0
@@ -2829,133 +2829,133 @@ numvert 26
 -78.202042 12.705002 -138.697998
 -78.202042 12.705002 104.698006
 numsurf 19
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 1 0 0
 5 0 0
 4 0 0
 2 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 2 0 0
 4 0 0
 7 0 0
 6 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 3 0 0
 0 0 0
 6 0 0
 7 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 4 0 0
 11 0 0
 12 0 0
 7 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 5 0 0
 8 0 0
 11 0 0
 4 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 12 0 0
 9 0 0
 10 0 0
 13 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 11 0 0
 8 0 0
 9 0 0
 12 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 13 0 0
 15 0 0
 14 0 0
 12 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 7 0 0
 17 0 0
 16 0 0
 3 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 17 0 0
 14 0 0
 15 0 0
 16 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 17 0 0
 18 0 0
 19 0 0
 14 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 7 0 0
 20 0 0
 18 0 0
 17 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 14 0 0
 19 0 0
 21 0 0
 12 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 12 0 0
 21 0 0
 20 0 0
 7 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 21 0 0
 23 0 0
 22 0 0
 20 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 19 0 0
 24 0 0
 23 0 0
 21 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 20 0 0
 22 0 0
 25 0 0
 18 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 18 0 0
 25 0 0
 24 0 0
 19 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 23 0 0
@@ -2986,63 +2986,63 @@ numvert 16
 -2.31189 0 138.999985
 2.311845 0 138.999985
 numsurf 9
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 2 0 0
 3 0 0
 5 0 0
 4 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 6 0 0
 0 0 0
 2 0 0
 4 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 1 0 0
 7 0 0
 5 0 0
 3 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 4 0 0
 5 0 0
 8 0 0
 9 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 4 0 0
 9 0 0
 10 0 0
 6 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 7 0 0
 11 0 0
 8 0 0
 5 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 9 0 0
 8 0 0
 12 0 0
 13 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 9 0 0
 13 0 0
 14 0 0
 10 0 0
-SURF 0x20
+SURF 0x00
 mat 0
 refs 4
 11 0 0
