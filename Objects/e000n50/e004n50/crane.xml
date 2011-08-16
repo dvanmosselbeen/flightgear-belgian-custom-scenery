@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+    <path>crane.ac</path>
+    <animation>
+        <type>range</type>
+	<object-name>Cabine</object-name>
+        <object-name>CabineConsole</object-name>
+	<object-name>Cable</object-name>
+        <object-name>ConcreetBase</object-name>
+	<object-name>FrameBase</object-name>
+        <object-name>FrameTop</object-name>
+	<object-name>Hook</object-name>
+        <object-name>Roller</object-name>
+	<object-name>Seat</object-name>
+        <object-name>Stairs</object-name>
+	<object-name>TurnDisc</object-name>
+        <object-name>Wheels</object-name>
+	<object-name>Cabine</object-name>
+	<object-name>Windows</object-name>
+        <object-name>Chargement</object-name>
+        <min-m>0</min-m>
+        <max-m>3500</max-m>
+    </animation>
+
+     <animation>
+	<type>rotate</type>
+	<object-name>Cabine</object-name>
+        <object-name>CabineConsole</object-name>
+	<object-name>Cable</object-name>
+        <object-name>FrameTop</object-name>
+	<object-name>Hook</object-name>
+        <object-name>Roller</object-name>
+	<object-name>Seat</object-name>
+	<object-name>TurnDisc</object-name>
+        <object-name>Wheels</object-name>
+	<object-name>Cabine</object-name>
+	<object-name>Windows</object-name>
+        <object-name>Chargement</object-name>
+        <property>/sim/time/elapsed-sec</property>
+        <factor>-1.0</factor>
+        <center>
+            <x-m>0</x-m>
+            <y-m>0</y-m>
+            <z-m>0</z-m>
+        </center>
+        <axis>
+            <x>0</x>
+            <y>0</y>
+            <z>1</z>
+        </axis>
+    </animation>
+</PropertyList>
