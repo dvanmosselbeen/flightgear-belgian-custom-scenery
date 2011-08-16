@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>ebgb_building_ref_009.ac</path>
+	<nasal>
+		<load>
+			if (!contains(globals, "scenery")) globals["scenery"] = {};
+			if (!contains(scenery, "EBGB")) scenery["EBGB"] = {};
+			if (!contains(scenery.EBGB, "hangar")) scenery.EBGB["hangar"] =
+				[nil,nil,nil,nil,nil,nil];
+			scenery.EBGB.hangar[3] =
+			{ door : [
+				aircraft.door.new("/scenery/EBGB/hangar[3]/door[0]", 1.5*60),
+				aircraft.door.new("/scenery/EBGB/hangar[3]/door[1]", 1.5*60)]
+			};
+		</load>
+	</nasal>
+
+	<animation>
+		<type>translate</type>
+		<object-name>DoorL1</object-name>
+	        <property>/scenery/EBGB/hangar[3]/door[0]/position-norm</property>
+		<factor>2.5</factor>
+		<axis>
+			<x>-1</x>
+			<y>0</y>
+			<z>0</z>
+		</axis>
+	</animation>
+	<animation>
+		<type>translate</type>
+		<object-name>DoorL2</object-name>
+	        <property>/scenery/EBGB/hangar[3]/door[0]/position-norm</property>
+		<factor>7</factor>
+		<axis>
+			<x>-1</x>
+			<y>0</y>
+			<z>0</z>
+		</axis>
+	</animation>
+
+
+	<animation>
+		<type>translate</type>
+		<object-name>DoorR1</object-name>
+	        <property>/scenery/EBGB/hangar[3]/door[1]/position-norm</property>
+		<factor>-7</factor>
+		<axis>
+			<x>-1</x>
+			<y>0</y>
+			<z>0</z>
+		</axis>
+	</animation>
+	<animation>
+		<type>translate</type>
+		<object-name>DoorR2</object-name>
+	        <property>/scenery/EBGB/hangar[3]/door[1]/position-norm</property>
+		<factor>-2.5</factor>
+		<axis>
+			<x>-1</x>
+			<y>0</y>
+			<z>0</z>
+		</axis>
+	</animation>
+
+	<animation>
+		<type>pick</type>
+		<object-name>DoorL1</object-name>
+		<object-name>DoorL2</object-name>
+		<object-name>DoorL3</object-name>
+		<object-name>DoorL4</object-name>
+		<visible>true</visible>
+		<action>
+			<name>click</name>
+			<button>0</button>
+			<repeatable>false</repeatable>
+			<binding>
+				<command>nasal</command>
+				<script>scenery.EBGB.hangar[3].door[0].toggle();</script>
+			</binding>
+		</action>
+	</animation>
+	<animation>
+		<type>pick</type>
+		<object-name>DoorR1</object-name>
+		<object-name>DoorR2</object-name>
+		<object-name>DoorR3</object-name>
+		<object-name>DoorR4</object-name>
+		<visible>true</visible>
+		<action>
+			<name>click</name>
+			<button>0</button>
+			<repeatable>false</repeatable>
+			<binding>
+				<command>nasal</command>
+				<script>scenery.EBGB.hangar[3].door[1].toggle();</script>
+			</binding>
+		</action>
+	</animation>
+
+</PropertyList>
+

@@ -185,56 +185,88 @@ OBJECT_SHARED Models/Airport/apt-light.xml 4.460794 50.904449 26.4 0
 OBJECT_STATIC ebbr_building_ref_037.ac 4.487720 50.894814 44.3243 -150.0
 OBJECT_STATIC old_control_tower.ac 4.485552 50.897063 41 207
 
+##############################################################################
 ## EBGB airport
-OBJECT_STATIC ebgb_control_tower.ac 4.395874 50.948297 17 0
+##############################################################################
+OBJECT_STATIC ebgb_control_tower.ac 4.395874 50.948297 16.15 0
 OBJECT_STATIC ebgb_building_ref_001.ac 4.395328 50.945498 17 0
 OBJECT_STATIC ebgb_building_ref_002.ac 4.395474 50.946169 16.5 90
 # first cylinder (ref 003)
-OBJECT_STATIC ebgb_building_ref_004.ac 4.393997 50.945847 17 0
+OBJECT_STATIC ebgb_building_ref_004.xml 4.393997 50.945847 17.26 0
+OBJECT_SHARED Models/Aircraft/Cessna172.xml 4.39419765 50.94588175 17.39 300
+
 # second sylinder (ref 004)
 OBJECT_STATIC ebgb_building_ref_004.ac 4.394115 50.944947 17 0
 # Building ref 005 (Gaz pipes?)
 #OBJECT_SHARED Models/Airport/helipad_circle.xml 4.395190 50.948320 17 0
-OBJECT_STATIC ebgb_building_ref_008.ac 4.390769 50.943290 19 15
-OBJECT_STATIC ebgb_building_ref_009.ac 4.391282 50.943483 19 105
+OBJECT_STATIC ebgb_building_ref_008.xml 4.390769 50.943290 17.56 15
+OBJECT_STATIC ebgb_building_ref_009.xml 4.391282 50.943483 17.45 285
 OBJECT_STATIC ebgb_building_ref_010.ac 4.393325 50.943873 17 105
 OBJECT_STATIC ebgb_building_ref_011.ac 4.393473 50.944015 17 15
 OBJECT_STATIC ebgb_building_ref_012.ac 4.393655 50.944383 17 0
 OBJECT_STATIC ebgb_building_ref_013.xml 4.395111 50.944900 17 0
+OBJECT_STATIC ebgb_trash_collecting_wall.ac 4.394763 50.946232 17 0
+
+# A few static decor aircrafts
+OBJECT_SHARED Models/Aircraft/Cessna150.xml 4.393570 50.945213 17.8 50
+OBJECT_SHARED Models/Aircraft/Cessna172.xml 4.393908 50.945332 17.6 15
+OBJECT_SHARED Models/Aircraft/D112.xml 4.390349 50.943191 18 90
+OBJECT_SHARED Models/Aircraft/D112.xml 4.390273 50.943301 17.95 90
+OBJECT_SHARED Models/Aircraft/Cessna150.xml 4.394384 50.946604 17.4 270
+OBJECT_SHARED Models/Aircraft/DR221.xml 4.394361 50.946838 17.2 270
+OBJECT_SHARED Models/Aircraft/DR400.xml 4.394391 50.947027 17 270
+OBJECT_SHARED Models/Aircraft/HR200.xml 4.394421 50.947232 17 270
+OBJECT_SHARED Models/Aircraft/MS880_rallye.xml 4.394564 50.944718 17.3 250
+OBJECT_SHARED Models/Aircraft/R3000.xml 4.393630 50.944736 17.8 145
+
 #desc: football field near the EBGB airport
 #OBJECT_STATIC terrain_de_foot_generic.ac 4.392568 50.943557 17 105
 
-# EBBR Runway guides
+### EBGB Runway/Taxiway guides ###
+## Runway guides
 #OBJECT_STATIC guide.ac 4.390297 50.943620 17 0
 #OBJECT_STATIC guide.ac 4.393166 50.952996 17 0
+## Taxiway guides
+#OBJECT_STATIC guide.ac 4.394513 50.948373 17 0
+#OBJECT_STATIC guide.ac 4.394017 50.948376 17 0
+#OBJECT_STATIC guide.ac 4.392767 50.948466 17 0
+#OBJECT_STATIC guide.ac 4.392769 50.948573 17 0
+#OBJECT_STATIC guide.ac 4.395042 50.948696 17 0
+#OBJECT_STATIC guide.ac 4.394112 50.948528 17 0
+#OBJECT_STATIC guide.ac 4.394551 50.946528 17 0
+#OBJECT_STATIC guide.ac 4.394082 50.946507 17 0
+#OBJECT_STATIC guide.ac 4.393269 50.946477 17 0
+#OBJECT_STATIC guide.ac 4.392730 50.947776 17 0
+#OBJECT_STATIC guide.ac 4.391565 50.946575 17 0
+#OBJECT_STATIC guide.ac 4.393253 50.945537 17 0
+#OBJECT_STATIC guide.ac 4.393350 50.944821 17 0
+#OBJECT_STATIC guide.ac 4.392885 50.944300 17 0
+#OBJECT_STATIC guide.ac 4.392608 50.944114 17 0
+#OBJECT_STATIC guide.ac 4.392042 50.943942 17 0
+#OBJECT_STATIC guide.ac 4.394928 50.944613 17 0
+#OBJECT_STATIC guide.ac 4.394959 50.944476 17 0
+#OBJECT_STATIC guide.ac 4.393071 50.944086 17 0
+#OBJECT_STATIC guide.ac 4.395060 50.944454 17 0
+
+### EBBR Runway guides ###
 #OBJECT_STATIC guide.ac 4.480432 50.888976 47 0
 #OBJECT_STATIC guide.ac 4.523300 50.898906 47 0
 #OBJECT_STATIC guide.ac 4.491378 50.886860 32 0
 #OBJECT_STATIC guide.ac 4.502012 50.912907 17 0
 #OBJECT_STATIC guide.ac 4.503270 50.912637 17 0
 #OBJECT_STATIC guide.ac 4.457067 50.899269 17 0
+##############################################################################
+
+# Wind turbines
+OBJECT_SHARED Models/Power/windturbine.xml 4.371777 50.996787 10 90
+OBJECT_SHARED Models/Power/windturbine.xml 4.373179 50.995555 10 90
+OBJECT_SHARED Models/Power/windturbine.xml 4.374515 50.994373 10 90
 
 # Some bridge
 OBJECT_STATIC ebgb_verbrandebrug.ac 4.413391 50.947783 17 115
 
 # Total fuel stockage
 OBJECT_STATIC ebgb_total_reserve.ac 4.405266 50.905030 23 0
-
-# A few static decor aircrafts
-OBJECT_SHARED Models/Aircraft/Cessna150.xml 4.393570 50.945213 18.3 50
-OBJECT_SHARED Models/Aircraft/Cessna172.xml 4.393908 50.945332 18 15
-OBJECT_SHARED Models/Aircraft/D112.xml 4.390349 50.943191 19 90
-OBJECT_SHARED Models/Aircraft/D112.xml 4.390273 50.943301 19 90
-OBJECT_SHARED Models/Aircraft/Cessna150.xml 4.394384 50.946604 17 270
-OBJECT_SHARED Models/Aircraft/DR221.xml 4.394361 50.946838 17 270
-OBJECT_SHARED Models/Aircraft/DR400.xml 4.394391 50.947027 17 270
-OBJECT_SHARED Models/Aircraft/HR200.xml 4.394421 50.947232 17 270
-OBJECT_SHARED Models/Aircraft/MS880_rallye.xml 4.394564 50.944718 17 250
-OBJECT_SHARED Models/Aircraft/R3000.xml 4.393630 50.944736 19 145
-
-OBJECT_SHARED Models/Power/windturbine.xml 4.371777 50.996787 10 90
-OBJECT_SHARED Models/Power/windturbine.xml 4.373179 50.995555 10 90
-OBJECT_SHARED Models/Power/windturbine.xml 4.374515 50.994373 10 90
 
 #desc: Stib A
 OBJECT_STATIC stib_haren.xml 4.415047 50.885138 39 0
