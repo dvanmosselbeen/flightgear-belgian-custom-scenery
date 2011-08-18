@@ -10,7 +10,7 @@
         <object-name>Rail1</object-name>
         <object-name>Rail2</object-name>
         <min-m>0</min-m>
-        <max-m>2000</max-m>
+        <max-m>1000</max-m>
     </animation>
 
 </PropertyList>
