@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>ebbr_terminal_2.ac</path>
+	<animation>
+		<type>material</type>
+		<texture>ebbr_terminal_2.png</texture>
+	</animation>
+	<effect>
+		<inherits-from>Effects/lightmap</inherits-from>
+		<parameters>
+			<texture n="1">
+				<image>ebbr_terminal_2_lightmap.png</image>
+			</texture>
+		</parameters>
+		<object-name>Coridor</object-name>
+		<object-name>CoridorRoofDetails</object-name>
+		<object-name>RoofVentilation</object-name>
+		<object-name>RoofVentilation</object-name>
+		<object-name>RoofVentilation2</object-name>
+		<object-name>Terminal2Bloc</object-name>
+		<object-name>LittleRoofs</object-name>
+		<object-name>RoofDetails</object-name>
+	</effect>
+</PropertyList>

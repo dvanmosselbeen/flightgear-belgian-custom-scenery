@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>ebbr_building_ref_003.ac</path>
+	<animation>
+		<type>material</type>
+		<texture>ebbr_building_ref_003.png</texture>
+	</animation>
+	<effect>
+		<inherits-from>Effects/lightmap</inherits-from>
+		<parameters>
+			<texture n="1">
+				<image>ebbr_building_ref_003_lightmap.png</image>
+			</texture>
+		</parameters>
+		<object-name>Cube</object-name>
+	</effect>
+</PropertyList>

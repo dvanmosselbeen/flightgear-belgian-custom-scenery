@@ -35,24 +35,60 @@
         </axis>
     </animation>
 
-    <!-- 
-         Experimental lightmap effect
-         NOTE: needs to merge the two separate textures
-    -->
-    <!--
-    <animation>
-        <type>material</type>
-        <texture>control_tower-tower.png</texture>
-    </animation>
+<!--
+
     <effect>
 	<inherits-from>Effects/lightmap</inherits-from>
 	<parameters>
 	    <texture n="1">
-	        <image>control_tower-tower_lm.png</image>
+	        <image>control_tower-tower_lightmap.png</image>
 	    </texture>
 	</parameters>
  	<object-name>ControlTower</object-name> 
     </effect>
-    -->
+    <effect>
+	<inherits-from>Effects/lightmap</inherits-from>
+	<parameters>
+	    <texture n="1">
+	        <image>control_tower-base_lightmap.png</image>
+	    </texture>
+	</parameters>
+ 	<object-name>ControllerBase</object-name> 
+    </effect>
+-->
+
+	<animation>
+		<type>material</type>
+		<object-name>ControllerBase</object-name>
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</greater-than>
+		</condition>
+		<texture>control_tower-base_lightmap.png</texture>
+		<emission>
+			<red>	0.98</red>
+			<green>	0.96</green>
+			<blue>	0.78</blue>
+		</emission>
+	</animation>
+
+	<animation>
+		<type>material</type>
+		<object-name>ControlTower</object-name>
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</greater-than>
+		</condition>
+		<texture>control_tower-tower_lightmap.png</texture>
+		<emission>
+			<red>	0.98</red>
+			<green>	0.96</green>
+			<blue>	0.78</blue>
+		</emission>
+	</animation>
 
 </PropertyList>

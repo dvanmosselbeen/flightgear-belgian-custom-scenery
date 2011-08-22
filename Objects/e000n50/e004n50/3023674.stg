@@ -24,9 +24,9 @@ OBJECT_SHARED Models/Airport/EHAM_olietank_a.ac 4.510208 50.89861 40 0
 #desc: Control tower
 OBJECT_STATIC control_tower.xml 4.50859800 50.90780800 31.1806 180
 #desc: Terminal 1
-OBJECT_STATIC ebbr_terminal_1.ac 4.483730 50.899085 38.1806 205
+OBJECT_STATIC ebbr_terminal_1.xml 4.483730 50.899085 38.1806 205
 #desc: Terminal 2
-OBJECT_STATIC ebbr_terminal_2.ac 4.481877 50.902323 36 204
+OBJECT_STATIC ebbr_terminal_2.xml 4.481877 50.902323 36 204
 #desc: Terminal 2 jetways
 #OBJECT_STATIC guide.ac 4.489866 50.904309 34.9 27
 #OBJECT_SHARED Models/Airport/Jetway/AutoGate.xml 4.489866 50.904309 34.9 27
@@ -91,12 +91,12 @@ OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.485587 50.899460 38 117
 OBJECT_STATIC ebbr_terminal_2_jetway.ac 4.484534 50.899151 38 117
 
 # Admin buildings around the control tower
-OBJECT_STATIC ebbr_building_ref_002.ac 4.509442 50.906339 36 89
-OBJECT_STATIC ebbr_building_ref_003.ac 4.509546 50.904658 36 89
-OBJECT_STATIC ebbr_building_ref_004.ac 4.508316 50.904140 36.5 89
-OBJECT_STATIC ebbr_building_ref_005.ac 4.506966 50.903589 37.5 136
-OBJECT_STATIC ebbr_building_ref_006.ac 4.509958 50.903660 36.8 90
-OBJECT_STATIC ebbr_building_ref_007.ac 4.505305 50.900026 36.3 90
+OBJECT_STATIC ebbr_building_ref_002.xml 4.509442 50.906339 36 89
+OBJECT_STATIC ebbr_building_ref_003.xml 4.509546 50.904658 36 89
+OBJECT_STATIC ebbr_building_ref_004.xml 4.508316 50.904140 36.5 89
+OBJECT_STATIC ebbr_building_ref_005.xml 4.506966 50.903589 37.5 136
+OBJECT_STATIC ebbr_building_ref_006.xml 4.509958 50.903660 36.8 90
+OBJECT_STATIC ebbr_building_ref_007.xml 4.505305 50.900026 41.9 90
 # Need to do ref 008
 OBJECT_STATIC ebbr_building_ref_009.ac 4.510786 50.898768 40.18016 90
 OBJECT_STATIC ebbr_building_ref_010.ac 4.508647 50.900209 40.18016 90

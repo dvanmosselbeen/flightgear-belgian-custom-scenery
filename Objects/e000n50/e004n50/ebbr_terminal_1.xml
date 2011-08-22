@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PropertyList>
+	<path>ebbr_terminal_1.ac</path>
+	<animation>
+		<type>material</type>
+		<texture n="1">ebbr_terminal_1.png</texture>
+		<texture n="2">ebbr_generic_colors.png</texture>
+	</animation>
+	<effect>
+		<inherits-from>Effects/lightmap</inherits-from>
+		<parameters>
+			<texture n="1">
+				<image>ebbr_terminal_1_lightmap.png</image>
+			</texture>
+		</parameters>
+		<object-name>Cube.003</object-name>
+		<object-name>Cube.004</object-name>
+		<object-name>Cube.038</object-name>
+		<object-name>Cube.029</object-name>
+		<object-name>Cube.011</object-name>
+		<object-name>Cube.037</object-name>
+	</effect>
+</PropertyList>
