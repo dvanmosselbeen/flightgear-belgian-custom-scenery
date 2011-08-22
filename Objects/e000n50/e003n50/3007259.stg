@@ -4,3 +4,7 @@
 OBJECT_STATIC ebsg_building_ref_001.ac 3.819483 50.458490 20 90
 OBJECT_STATIC ebsg_building_ref_002.ac 3.820935 50.458680 20 90
 
+# Runway guide
+#OBJECT_STATIC ../e004n50/guide.ac 3.816028 50.457805 20 0
+#OBJECT_STATIC ../e004n50/guide.ac 3.825853 50.458223 20 0
+
