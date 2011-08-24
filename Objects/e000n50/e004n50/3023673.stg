@@ -204,7 +204,7 @@ OBJECT_SHARED Models/Airport/apt-light.xml 4.459701 50.904133 26.4 0
 OBJECT_SHARED Models/Airport/apt-light.xml 4.460794 50.904449 26.4 0
 
 #desc: Rotonde
-OBJECT_STATIC ebbr_building_ref_037.ac 4.487720 50.894814 44.3243 -150.0
+OBJECT_STATIC ebbr_building_ref_037.xml 4.487720 50.894814 44.3243 -150.0
 OBJECT_STATIC old_control_tower.ac 4.485552 50.897063 41 207
 
 ##############################################################################
@@ -288,7 +288,7 @@ OBJECT_SHARED Models/Power/windturbine.xml 4.374515 50.994373 10 90
 OBJECT_STATIC ebgb_verbrandebrug.ac 4.413391 50.947783 17 115
 
 # Total fuel stockage
-OBJECT_STATIC ebgb_total_reserve.ac 4.405266 50.905030 23 0
+OBJECT_STATIC ebgb_total_reserve.xml 4.405266 50.905030 23 0
 
 #desc: Stib A
 OBJECT_STATIC stib_haren.xml 4.415047 50.885138 39 0

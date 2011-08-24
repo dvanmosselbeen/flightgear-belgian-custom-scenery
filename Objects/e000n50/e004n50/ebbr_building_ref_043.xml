@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>ebbr_building_ref_043.ac</path>
+	<animation>
+		<type>range</type>
+		<object-name>RoofDetails</object-name>
+		<object-name>Stuts</object-name>
+		<min-m>0</min-m>
+		<max-m>1300</max-m>
+	</animation>
+</PropertyList>

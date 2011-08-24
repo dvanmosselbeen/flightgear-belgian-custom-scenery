@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>ebgb_total_reserve.ac</path>
+	<animation>
+		<type>range</type>
+		<min-m>0</min-m>
+		<max-m>20000</max-m>
+	</animation>
+	<animation>
+		<object-name>Stairs</object-name>
+		<type>range</type>
+		<min-m>0</min-m>
+		<max-m>1000</max-m>
+	</animation>
+</PropertyList>
