@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+	<path>ing_st_gilles_horta.ac</path>
+
+	<animation>
+		<type>range</type>
+		<object-name>UpperRoofStruts</object-name>
+		<object-name>UpperRoofDetails</object-name>
+		<object-name>RoofStuts</object-name>
+		<object-name>RoofPipes</object-name>
+		<object-name>RoofPipelines</object-name>
+		<min-m>0</min-m>
+		<max-m>1000</max-m>
+	</animation>
+
+	<animation>
+		<type>range</type>
+		<object-name>RoofVentilations</object-name>
+		<min-m>0</min-m>
+		<max-m>1500</max-m>
+	</animation>
+
+</PropertyList>
