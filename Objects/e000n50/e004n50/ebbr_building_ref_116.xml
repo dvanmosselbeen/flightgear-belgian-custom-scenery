@@ -11,6 +11,7 @@
 	<animation>
 		<type>range</type>
 		<object-name>RoofDetails</object-name>
+		<object-name>BrandLogos</object-name>
 		<min-m>0</min-m>
 		<max-m>1500</max-m>
 	</animation>
