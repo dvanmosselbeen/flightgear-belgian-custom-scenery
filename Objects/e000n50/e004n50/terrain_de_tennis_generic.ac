@@ -18,35 +18,35 @@ numvert 8
 -12.008785 1 5.502922
 -12.00878 1 -5.502924
 numsurf 5
-SURF 0x20
+SURF 0x00
 mat 1
 refs 4
 4 0 0
 7 0 0
 6 0 0
 5 0 0
-SURF 0x20
+SURF 0x00
 mat 1
 refs 4
 0 0 0
 4 0 0
 5 0 0
 1 0 0
-SURF 0x20
+SURF 0x00
 mat 1
 refs 4
 1 0 0
 5 0 0
 6 0 0
 2 0 0
-SURF 0x20
+SURF 0x00
 mat 1
 refs 4
 2 0 0
 6 0 0
 7 0 0
 3 0 0
-SURF 0x20
+SURF 0x00
 mat 1
 refs 4
 4 0 0
