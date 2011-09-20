@@ -2,13 +2,32 @@
 
 <PropertyList>
 
-    <path>securex_integrity.ac</path>
+	<path>securex_integrity.ac</path>
 
-    <animation>
-        <type>range</type>
-        <object-name>RoofDetails</object-name>
-        <min-m>0</min-m>
-        <max-m>4000</max-m>
-    </animation>
-
+	<animation>
+		<type>range</type>
+		<object-name>RoofDetails</object-name>
+		<object-name>EntranceBarrier</object-name>
+		<min-m>0</min-m>
+		<max-m>4000</max-m>
+	</animation>
+	<animation>
+		<type>material</type>
+		<object-name>Building</object-name>
+		<object-name>RoofDetails</object-name>
+		<object-name>Shop</object-name>
+		<object-name>EntranceBarrier</object-name>
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</greater-than>
+		</condition>
+		<texture>securex_integrity_night.png</texture>
+		<emission>
+			<red>	0.98</red>
+			<green>	0.96</green>
+			<blue>	0.78</blue>
+		</emission>
+	</animation>
 </PropertyList>

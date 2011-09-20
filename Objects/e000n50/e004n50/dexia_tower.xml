@@ -4,10 +4,30 @@
 
     <path>dexia_tower.ac</path>
 
-    <!-- Add some clouds glass effect require fgfs/fgdata/Effects/reflect.eff to be copied to the scenery where the stg belongs too. Is kinda resource intensief btw
-    <effect>
-       <inherits-from>reflect</inherits-from>
-       <object-name>Shape1</object-name>
-    </effect>
-    -->
+	<!-- Add some clouds glass effect require
+	     fgfs/fgdata/Effects/reflect.eff to be copied to the scenery where
+	     the stg belongs too. Is kinda resource intensief btw
+	<effect>
+	<inherits-from>reflect</inherits-from>
+	<object-name>Building</object-name>
+	</effect>
+	-->
+
+	<animation>
+		<type>material</type>
+		<object-name>Building</object-name>
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</greater-than>
+		</condition>
+		<texture>dexia_tower_night.png</texture>
+		<emission>
+			<red>	0.98</red>
+			<green>	0.96</green>
+			<blue>	0.78</blue>
+		</emission>
+	</animation>
+
 </PropertyList>
