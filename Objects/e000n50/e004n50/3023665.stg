@@ -13,7 +13,7 @@ OBJECT_STATIC ikea_anderlecht.ac 4.291176 50.810792 28.27 0
 OBJECT_STATIC brico_plan_it_anderlecht.ac 4.289515 50.817077 30 0
 
 #desc: Basiliek van Koekelberg
-OBJECT_STATIC basiliek_koekelberg.ac 4.317221 50.867035 65 65
+OBJECT_STATIC basiliek_koekelberg.xml 4.317221 50.867035 65 65
 OBJECT_STATIC basiliek_koekelberg_music.ac 4.327308 50.8649 46 65
 ## All these trees in front of the Basiliek van Koekelberg
 # Left shape
@@ -837,12 +837,12 @@ OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.360
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.370863 50.850212 32.1806 108.0
 #desc: Victoria Regina Tower (Generic)
 OBJECT_STATIC victoria_regina_tower.xml 4.363568 50.855656 38.19 0
-#desc: Résidence La Palmeraie (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.305589 50.855289 32.1806 108.0
-#desc: Résidence Orchidee (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.301233 50.853363 32.1806 108.0
-#desc: Résidence Iris (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.303401 50.854816 32.1806 108.0
+#desc: Résidence La Palmeraie 
+OBJECT_STATIC residence_la_palmeraie.xml 4.305589 50.855289 32.1806 108.0
+#desc: Résidence Orchidee
+OBJECT_STATIC residence_orchidee.xml 4.301233 50.853363 32.1806 108.0
+#desc: Résidence Iris 
+OBJECT_STATIC residence_iris.xml 4.303401 50.854816 32.1806 108.0
 #desc: Botanic Building (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.302092 50.851685 32.1806 108.0
 #desc: Résidence Arc en Ciel (Generic)
@@ -916,6 +916,8 @@ OBJECT_STATIC anderlecht_abattoir_big_hangar.ac 4.327030 50.842895 18 0
 OBJECT_STATIC anderlecht_abattoir_big_hangar_2.ac 4.328481 50.842376 18 0
 OBJECT_STATIC anderlecht_abattoir_big_hangar_9.ac 4.327460 50.843750 18 0
 OBJECT_STATIC anderlecht_abattoir_big_hangar_10.ac 4.328445 50.843226 18 0
+#desc: Westland Shopping Center
+OBJECT_STATIC westland_shopping_center.ac 4.287250  50.838751 43.24 0
 
 #desc: Cite Administrative de l'Etat (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_green_light.xml 4.362098 50.849789 32.1806 108.0

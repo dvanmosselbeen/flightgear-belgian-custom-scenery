@@ -47,12 +47,12 @@ OBJECT_STATIC palais_royal_de_laeken.ac 4.360010 50.886303 52 120
 #OBJECT_STATIC guide.ac 4.410146 50.912914 43 0
 #OBJECT_STATIC guide.ac 4.407211 50.912337 43 0
 
-#desc: Mistral (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.320620 50.893143 32.1806 108.0
-#desc: Magniolas (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.322026 50.893501 32.1806 108.0
-#desc: Les Mouettes (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.323442 50.892986 32.1806 108.0
+#desc: Mistral 
+OBJECT_STATIC mistral.xml 4.320620 50.893143 32.1806 10
+#desc: Magniolas
+OBJECT_STATIC magniolas.xml 4.322026 50.893501 32.1806 350
+#desc: Les Mouettes
+OBJECT_STATIC les_mouettes.xml 4.323442 50.892986 32.1806 350
 #desc: Résidence du Soleil (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_green_light.xml 4.302553 50.875038 32.1806 108.0
 #desc: Aurore 7 (Generic)
