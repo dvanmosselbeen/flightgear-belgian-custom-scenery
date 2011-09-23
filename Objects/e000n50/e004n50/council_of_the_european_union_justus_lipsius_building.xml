@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>council_of_the_european_union_justus_lipsius_building.ac</path>
+	<animation>
+		<type>range</type>
+		<object-name>LightCone1</object-name>
+		<enable-hot type="bool">false</enable-hot>
+	</animation>
+	<animation>
+		<type>range</type>
+		<object-name>Spot1</object-name>
+		<min-m>0</min-m>
+		<max-m>700</max-m>
+	</animation>
+	<animation>
+		<type>range</type>
+		<object-name>SolarPanelsStuts</object-name>
+		<object-name>Mast</object-name>
+		<min-m>0</min-m>
+		<max-m>1000</max-m>
+	</animation>
+
+	<animation>
+		<type>range</type>
+		<object-name>LightCone1</object-name>
+		<min-m>0</min-m>
+		<max-m>3500</max-m>
+	</animation>
+</PropertyList>

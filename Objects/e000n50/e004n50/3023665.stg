@@ -1004,7 +1004,7 @@ OBJECT_STATIC residence_avenue_des_anciens_combattants.xml 4.409165 50.863564 64
 #desc: Council of the European Union Justus Lipsius Building
 OBJECT_STATIC cinquantenaire.ac 4.392895 50.840451 71.5 70
 #desc: Council of the European Union Justus Lipsius Building
-OBJECT_STATIC council_of_the_european_union_justus_lipsius_building.ac 4.382216 50.841796 55 90
+OBJECT_STATIC council_of_the_european_union_justus_lipsius_building.xml 4.382216 50.841796 55 90
 #desc: Crane
 OBJECT_STATIC crane.xml 4.381741 50.840750 55 0
 #desc: European Parlement
