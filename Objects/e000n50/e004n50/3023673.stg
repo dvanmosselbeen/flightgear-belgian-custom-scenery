@@ -77,10 +77,10 @@ OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.323581 5
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.324898 50.895733 32.1806 108.0
 #desc: Socrate-Platon (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.353483 50.899231 32.1806 108.0
-#desc: Rue de Bon Pasteur 55 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.401881 50.879890 32.1806 108.0
-#desc: Solvin Headquarters (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_green_light.xml 4.399348 50.902931 32.1806 108.0
+#desc: Rue de Bon Pasteur 55
+OBJECT_STATIC rue_de_bon_pasteur_55.xml 4.401881 50.879890 32.1806 108.0
+#desc: Solvin Headquarters
+OBJECT_STATIC solvin_headquarters.xml 4.399348 50.902931 35.5 0
 
 ### Some generic stuff here and there
 # A few firetrucs at the caserne

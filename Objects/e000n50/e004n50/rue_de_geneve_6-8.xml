@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+	<path>rue_de_geneve_6-8.ac</path>
+	<animation>
+		<type>range</type>
+		<object-name>RoofDetails</object-name>
+		<min-m>0</min-m>
+		<max-m>3000</max-m>
+	</animation>
+	<animation>
+		<type>material</type>
+		<object-name>Building</object-name>
+		<object-name>RoofDetails</object-name>
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.57</value>
+			</greater-than>
+		</condition>
+		<texture>rue_de_geneve_6-8_night.png</texture>
+		<emission>
+			<red>	0.98</red>
+			<green>	0.96</green>
+			<blue>	0.78</blue>
+		</emission>
+	</animation>
+
+</PropertyList>
