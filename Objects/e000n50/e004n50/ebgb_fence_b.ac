@@ -1,0 +1,62 @@
+AC3Db
+MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
+MATERIAL "Material" rgb 0.8 0.8 0.8 amb 1 1 1 emis 0 0 0 spec 1 1 1 shi 32 trans 0
+OBJECT world
+kids 1
+OBJECT poly
+name "Fence"
+data 9
+Plane.002
+texture "fence.png"
+texrep 1 1
+crease 30.000000
+numvert 12
+9.994173 2 0
+9.994172 0 0
+9.994173 0 25.499561
+9.994174 2 25.499559
+-9.994721 0 1e-06
+-9.99472 2 25.499561
+-9.99472 0 25.499561
+-9.99472 2 3e-06
+3.994184 0 25.499561
+3.994184 2 25.499559
+-3.994729 2 25.499561
+-3.99473 0 25.499561
+numsurf 5
+SURF 0x20
+mat 1
+refs 4
+0 -7.0 0.0
+3 1.0 0.0
+2 1.0 1.0
+1 -7.0 1.0
+SURF 0x20
+mat 1
+refs 4
+0 -9.0 0.0
+7 1.0 0.0
+4 1.0 1.0
+1 -9.0 1.0
+SURF 0x20
+mat 1
+refs 4
+5 -7.0 0.0
+7 1.0 0.0
+4 1.0 1.0
+6 -7.0 1.0
+SURF 0x20
+mat 1
+refs 4
+2 0.0 0.0
+3 0.0 1.0
+9 2.0 1.0
+8 2.0 0.0
+SURF 0x20
+mat 1
+refs 4
+5 0.0 0.0
+6 0.0 1.0
+11 2.0 1.0
+10 2.0 0.0
+kids 0

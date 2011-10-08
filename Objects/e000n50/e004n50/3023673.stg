@@ -207,13 +207,15 @@ OBJECT_STATIC old_control_tower.ac 4.485552 50.897063 41 207
 ##############################################################################
 ## EBGB airport
 ##############################################################################
-OBJECT_STATIC ebgb_control_tower.ac 4.395874 50.948297 16.15 0
-OBJECT_STATIC ebgb_building_ref_001.ac 4.395328 50.945498 17 0
-OBJECT_STATIC ebgb_building_ref_002.ac 4.395474 50.946169 16.5 90
+OBJECT_STATIC ebgb_control_tower.xml 4.395874 50.948297 16.15 0
+OBJECT_STATIC ebgb_building_ref_001.xml 4.395328 50.945498 17 0
+OBJECT_STATIC ebgb_building_ref_002.xml 4.395474 50.946169 16.5 90
 # first cylinder (ref 003)
 OBJECT_STATIC ebgb_building_ref_004.xml 4.393997 50.945847 17.26 0
 OBJECT_STATIC ebgb_building_ref_005.ac 4.395215 50.9483425847 16.4 270
 OBJECT_SHARED Models/Aircraft/Cessna172.xml 4.39419765 50.94588175 17.39 300
+
+OBJECT_STATIC ebgb_fuel_pump.xml 4.394280 50.948565 16.1 0
 
 # second sylinder (ref 004)
 OBJECT_STATIC ebgb_building_ref_004.ac 4.394115 50.944947 17 0
@@ -234,20 +236,38 @@ OBJECT_STATIC ebgb_trash_collecting_wall.ac 4.394763 50.946232 17 0
 OBJECT_STATIC ebgb_bar.ac 4.395537 50.947988 16 270
 
 OBJECT_STATIC electric_barrier.ac 4.394832 50.948494 16 0
-OBJECT_STATIC fence_a.ac 4.394818 50.948412 16.36 1
-OBJECT_STATIC fence_b.ac 4.394664 50.948582 16.23 0
-OBJECT_STATIC fence_d.ac 4.394654 50.948899 15.95 0
+OBJECT_STATIC ebgb_fence_a.xml 4.394818 50.948412 16.36 1
+OBJECT_STATIC ebgb_fence_b.xml 4.394664 50.948582 16.23 0
+OBJECT_STATIC ebgb_fence_d.xml 4.394654 50.948899 15.95 0
 
 # EBGB Apron Lights
-OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.394829 50.947222 5 0
-OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.394826 50.947480 5 0
-OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.394815 50.947741 5 0
-OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.394805 50.948008 5 0
-OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.394798 50.948282 5 0
+OBJECT_STATIC ebgb_apron_light.xml 4.394829 50.947222 16.5 90
+OBJECT_STATIC ebgb_apron_light.xml 4.394826 50.947480 16.5 90
+OBJECT_STATIC ebgb_apron_light.xml 4.394815 50.947741 16.5 90
+OBJECT_STATIC ebgb_apron_light.xml 4.394805 50.948008 16.5 90
+OBJECT_STATIC ebgb_apron_light.xml 4.394798 50.948282 16.5 90
 
 # Decor
 OBJECT_SHARED Models/Boundaries/Hedge-10m.xml 4.396029 50.948007 15.95 90
 OBJECT_SHARED Models/Boundaries/Hedge-10m.xml 4.395848 50.948005 15.95 90
+OBJECT_SHARED Models/Boundaries/Hedge-50m.xml 4.395846 50.947439  15.95 90
+OBJECT_SHARED Models/Boundaries/Hedge-10m.xml 4.395472 50.947367 15.95 0
+
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395412 50.947817 15.95 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395567 50.947831 15.95 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395424 50.947728 15.95 0
+OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395428 50.947634 15.95 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395939 50.947143 15.95 0
+
+# Trees on the right side of the main entrance
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395207 50.948962 15.95 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395221 50.949051 15.95 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395449 50.949055 15.95 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395612 50.949045 15.95 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395231 50.949134 15.95 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395256 50.949234 15.95 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395271 50.949320 15.95 0
+OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395283 50.949393 15.95 0
 
 # A few static decor aircrafts
 OBJECT_SHARED Models/Aircraft/Cessna150.xml 4.393570 50.945213 17.8 50

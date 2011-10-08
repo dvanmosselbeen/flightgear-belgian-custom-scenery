@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+    <path>ebgb_fence_d.ac</path>
+
+    <animation>
+        <type>range</type>
+        <object-name>Fence</object-name>
+        <min-m>0</min-m>
+        <max-m>1000</max-m>
+    </animation>
+
+</PropertyList>

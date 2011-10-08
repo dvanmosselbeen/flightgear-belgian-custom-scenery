@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+
+<!-- 
+Refs:
+=====
+ * http://wiki.flightgear.org/Howto:_Make_a_clickable_panel#Pick
+ * http://wiki.flightgear.org/Bindings#nasal
+
+FIXME: Trow an error when there's no second thank, but no harm.
+-->
+<PropertyList>
+    <path>ebgb_fuel_pump.ac</path>
+    <animation>
+        <type>pick</type>
+        <object-name>FuelPump</object-name>
+        <action>
+            <button>0</button>
+            <repeatable>false</repeatable>
+            <interval-sec>0.2</interval-sec>
+            <binding>
+                <command>nasal</command>
+                <script>print('Trying to refuel your aircraft...');
+                    # Discover number of tanks
+                    
+                    # For each tank, fuel it up
+                    setprop("/consumables/fuel/tank/level-gal_us", getprop("/consumables/fuel/tank/capacity-gal_us"));
+                    setprop("/consumables/fuel/tank[1]/level-gal_us", getprop("/consumables/fuel/tank[1]/capacity-gal_us"));
+                    print('Refueling done!');
+                </script>
+            </binding>
+        </action>
+    </animation>
+
+    <animation>
+        <type>range</type>
+        <object-name>Guns</object-name>
+        <min-m>0</min-m>
+        <max-m>700</max-m>
+    </animation>
+
+    <animation>
+        <type>range</type>
+        <min-m>0</min-m>
+        <max-m>2000</max-m>
+    </animation>
+
+</PropertyList>

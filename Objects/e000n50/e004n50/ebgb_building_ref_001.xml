@@ -1,34 +1,24 @@
 <?xml version="1.0"?>
 
 <PropertyList>
-    <path>ebbr_terminal_2_jetway.ac</path>
+    <path>ebgb_building_ref_001.ac</path>
 
     <animation>
         <type>range</type>
-        <object-name>LightBulb</object-name>
+        <object-name>Spots</object-name>
         <min-m>0</min-m>
         <max-m>700</max-m>
     </animation>
     
     <animation>
         <type>range</type>
-        <object-name>LightPole</object-name>
-        <object-name>JetwayRailGlider</object-name>
-        <object-name>JetwayRailWheels</object-name>
-        <object-name>BlockPipe</object-name>
-        <min-m>0</min-m>
-        <max-m>1000</max-m>
-    </animation>
-    
-    <animation>
-        <type>range</type>
-        <object-name>LightCone</object-name>
+        <object-name>LightCones</object-name>
         <min-m>0</min-m>
         <max-m>3500</max-m>
     </animation>
     
     <animation>
-        <object-name>LightCone</object-name>
+        <object-name>LightCones</object-name>
         <type>select</type>
         <condition>
             <greater-than>
@@ -39,7 +29,7 @@
     </animation>
 
     <animation>
-        <object-name>LightCone</object-name>
+        <object-name>LightCones</object-name>
         <enable-hot type="bool">false</enable-hot>
     </animation>
 

@@ -35,6 +35,26 @@
         </axis>
     </animation>
 
+    <model>
+        <path>Models/Effects/strobe10000.xml</path> 
+        <offsets> 
+            <x-m>2.2306</x-m>
+            <y-m>0.3421</y-m>
+            <z-m>72.7038</z-m>
+            <heading-deg>0</heading-deg>
+        </offsets>
+    </model>
+
+    <model>
+        <path>Models/Effects/RedLight10000.xml</path> 
+        <offsets> 
+            <x-m>-4.4237</x-m>
+            <y-m>-3.1212</y-m>
+            <z-m>82.7387</z-m>
+            <heading-deg>0</heading-deg>
+        </offsets>
+    </model>
+
 <!--
 
     <effect>

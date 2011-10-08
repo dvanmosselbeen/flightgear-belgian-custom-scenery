@@ -1,23 +1,33 @@
 <?xml version="1.0"?>
 
 <PropertyList>
+    <path>tour_finances.ac</path>
+    
+    <animation>
+        <type>material</type>
+        <object-name>Building</object-name>
+        <condition>
+            <greater-than>
+                <property>/sim/time/sun-angle-rad</property>
+                <value>1.57</value>
+            </greater-than>
+        </condition>
+        <texture>tour_finances_night.png</texture>
+        <emission>
+            <red> 0.98</red>
+            <green> 0.96</green>
+            <blue> 0.78</blue>
+        </emission>
+    </animation>
 
-	<path>tour_finances.ac</path>
-	<animation>
-		<type>material</type>
-		<object-name>Building</object-name>
-		<condition>
-			<greater-than>
-				<property>/sim/time/sun-angle-rad</property>
-				<value>1.57</value>
-			</greater-than>
-		</condition>
-		<texture>tour_finances_night.png</texture>
-		<emission>
-			<red>	0.98</red>
-			<green>	0.96</green>
-			<blue>	0.78</blue>
-		</emission>
-	</animation>
+    <model>
+        <path>Models/Effects/RedLight10000.xml</path> 
+        <offsets> 
+            <x-m> 0</x-m>
+            <y-m> 0</y-m>
+            <z-m> 179.0054</z-m>
+            <heading-deg>0</heading-deg>
+        </offsets>
+    </model>
 
 </PropertyList>
