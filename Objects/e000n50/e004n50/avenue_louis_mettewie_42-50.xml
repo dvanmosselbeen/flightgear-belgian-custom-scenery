@@ -2,18 +2,18 @@
 
 <PropertyList>
     
-    <path>residence_aigle.ac</path>
+    <path>avenue_louis_mettewie_42-50.ac</path>
 
     <animation>
         <type>material</type>
-        <object-name>Cube</object-name>
+        <object-name>Building</object-name>
         <condition>
             <greater-than>
                 <property>/sim/time/sun-angle-rad</property>
                 <value>1.57</value>
             </greater-than>
         </condition>
-        <texture>residence_aigle_night.png</texture>
+        <texture>avenue_louis_mettewie_42-50_night.png</texture>
         <emission>
             <red>	0.98</red>
             <green>	0.96</green>

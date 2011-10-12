@@ -793,8 +793,8 @@ OBJECT_STATIC north_galaxy_tower_a_and_b.xml 4.359083 50.861725 24.2 60
 OBJECT_STATIC north_galaxy_tower_a_and_b.xml 4.359137 50.861027 24.2 150
 #desc: Tour Astro (Generic)
 OBJECT_STATIC tour_astro.xml 4.369522 50.851131 58 0
-#desc: World Trade Center 3 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_roze.xml 4.356304 50.860588 32.1806 108.0
+#desc: World Trade Center 3
+OBJECT_STATIC world_trade_center_3.xml 4.356304 50.860588 18.9 60
 #desc: World Trade Center 1 & 2
 OBJECT_STATIC wtc.xml 4.357095 50.861845 17.5 60
 #desc: World Trade Center 2 (Generic)
@@ -823,18 +823,18 @@ OBJECT_STATIC blue_tower.xml 4.368986 50.823162 81 45
 OBJECT_STATIC tour_sablon.xml 4.352496 50.841160 45 0
 #desc: Elipse Building (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.359437 50.862980 32.1806 108.0
-#desc: Avenue Marius Renard 27 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.286481 50.827358 32.1806 108.0
-#desc: Tour Louise (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.361991 50.828449 32.1806 108.0
+#desc: Avenue Marius Renard 27
+OBJECT_STATIC avenue_marius_renard_27.xml 4.286481 50.827358 36.3 0
+#desc: Tour Louise
+OBJECT_STATIC tour_louise.ac 4.361991 50.828449 84.04 0
 #desc: TBR-building (Generic)
 OBJECT_STATIC tbr_building.xml 4.358070 50.863271 22 60
 #desc: Euroclean Operation Center (Generic)
 OBJECT_STATIC euroclear_operation_centre.xml 4.356261 50.856476 32.1806 65
-#desc: Résidence Nord (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.360650 50.862198 32.1806 108.0
-#desc: Résidence Aigle (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.370863 50.850212 32.1806 108.0
+#desc: Résidence Nord
+OBJECT_STATIC residence_nord.xml 4.360650 50.862198 26.5 0
+#desc: Résidence Aigle
+OBJECT_STATIC residence_aigle.xml 4.370863 50.850212 32.1806 0
 #desc: Victoria Regina Tower (Generic)
 OBJECT_STATIC victoria_regina_tower.xml 4.363568 50.855656 38.19 0
 #desc: Résidence La Palmeraie 
@@ -847,12 +847,12 @@ OBJECT_STATIC residence_iris.xml 4.303401 50.854816 32.1806 108.0
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.302092 50.851685 32.1806 108.0
 #desc: Résidence Arc en Ciel (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.362184 50.856228 32.1806 108.0
-#desc: Quai du Batelage (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.350897 50.859051 32.1806 108.0
-#desc: Résidence Pacific (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.358976 50.849358 32.1806 108.0
+#desc: Quai du Batelage
+OBJECT_STATIC quai_du_batelage.xml 4.350897 50.859051 20.22 0
+#desc: Résidence Pacific
+OBJECT_STATIC residence_pacific.xml 4.375724 50.849358 54.01 0
 #desc: Proximus (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.358976 50.858704 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.358976 50.858704 26.12 0
 #desc: Royal Building (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.343097 50.821609 32.1806 108.0
 #desc: Acasias (Generic)
@@ -938,26 +938,26 @@ OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.294
 #desc: Parc du Peterbos Blok 1 (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.293970 50.842636 32.1806 108.0
 #desc: Avenue de l'Heliport 35 (Generic)
-OBJECT_STATIC av_de_l_heliport.ac 4.356412 50.864624 16.7 240
+OBJECT_STATIC av_de_l_heliport.xml 4.356412 50.864624 16.7 240
 #desc: Avenue de l'Heliport 33 (Generic)
-OBJECT_STATIC av_de_l_heliport.ac 4.355918 50.864090 16.7 240
+OBJECT_STATIC av_de_l_heliport.xml 4.355918 50.864090 16.7 240
 #desc: Avenue de l'Heliport 31 (Generic)
-OBJECT_STATIC av_de_l_heliport.ac 4.355489 50.863487 16.7 240
+OBJECT_STATIC av_de_l_heliport.xml 4.355489 50.863487 16.7 240
 #desc: Avenue de l'Heliport d (Generic)
-OBJECT_STATIC av_de_l_heliport.ac 4.357202 50.864215 16.7 240
+OBJECT_STATIC av_de_l_heliport.xml 4.357202 50.864215 16.7 240
 #desc: Avenue de l'Heliport e (Generic)
-OBJECT_STATIC av_de_l_heliport.ac 4.356811 50.863664 16.7 240
+OBJECT_STATIC av_de_l_heliport.xml 4.356811 50.863664 16.7 240
 #desc: Avenue de l'Heliport f (Generic)
-OBJECT_STATIC av_de_l_heliport.ac 4.356397 50.863116 16.7 240
+OBJECT_STATIC av_de_l_heliport.xml 4.356397 50.863116 16.7 240
 #desc: Hôpital Erasme
 OBJECT_STATIC hopital_erasmus.xml 4.265571 50.813408 40.6 102
 #desc: Helipad at hospital Erasmus (Should be a helipad with a big cross inside)
 OBJECT_SHARED Models/Airport/helipad_circle.xml 4.261441 50.812974 37 0
 #desc: Léopold
 OBJECT_STATIC leopold.xml 4.402825 50.863617 58 0
-#desc: Avenue Louis Mettewie 42-50 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.311361 50.857944 32.1806 108.0
-#desc: Régie de Batiments (Generic)
+#desc: Avenue Louis Mettewie 42-50
+OBJECT_STATIC avenue_louis_mettewie_42-50.xml 4.311817 50.858231 40.83 39
+#desc: Régie des Batiments (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.351133 50.833614 32.1806 108.0
 #desc: Louise / Claus (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.371333 50.816677 32.1806 108.0
@@ -978,21 +978,21 @@ OBJECT_STATIC securex_integrity.xml 4.402846 50.866089 55.42 0
 #desc: Rue de Genèves 6-8
 OBJECT_STATIC rue_de_geneve_6-8.xml 4.402803 50.864933 58 0
 #desc: Avenue Mahatma Gandhi 8 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.325781 50.858440 32.1806 108.0
+OBJECT_STATIC avenue_mahatma_gandhi.xml 4.325781 50.858440 32.1806 108.0
 #desc: Avenue Mahatma Gandhi 6 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.326092 50.858982 32.1806 108.0
+OBJECT_STATIC avenue_mahatma_gandhi.xml 4.326092 50.858982 32.1806 108.0
 #desc: Avenue Mahatma Gandhi 4 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.326382 50.859531 32.1806 108.0
+OBJECT_STATIC avenue_mahatma_gandhi.xml 4.326382 50.859531 32.1806 108.0
 #desc: Avenue Mahatma Gandhi 2 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.326639 50.859974 32.1806 108.0
+OBJECT_STATIC avenue_mahatma_gandhi.xml 4.326639 50.859974 32.1806 108.0
 #desc: Avenue Mahatma Gandhi 10 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.325330 50.857838 32.1806 108.0
+OBJECT_STATIC avenue_mahatma_gandhi.xml 4.325330 50.857838 32.1806 108.0
 #desc: Avenue de l'Heliport 22-28 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.351594 50.859940 32.1806 108.0
+OBJECT_STATIC heliport_IV.xml 4.351594 50.859940 32.1806 108.0
 #desc: Avenue de l'Heliport 10-16 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.351219 50.859543 32.1806 108.0
-#desc: Héliport IV (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.351981 50.860374 32.1806 108.0
+OBJECT_STATIC heliport_IV.xml 4.351219 50.859543 32.1806 108.0
+#desc: Héliport IV
+OBJECT_STATIC heliport_IV.xml 4.351981 50.860374 32.1806 108.0
 #desc: Rue Haute (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.345385 50.834732 32.1806 108.0
 #desc: Square de Meeus 8 (Generic)
