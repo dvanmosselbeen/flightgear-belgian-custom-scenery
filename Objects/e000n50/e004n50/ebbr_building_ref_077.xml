@@ -95,5 +95,25 @@
         </action>
     </animation>
 
+    <animation>
+        <type>range</type>
+        <object-name>RoofDetails</object-name>
+        <min-m>0</min-m>
+        <max-m>1500</max-m>
+    </animation>
+
+    <animation>
+        <type>range</type>
+        <object-name>RoofWindow</object-name>
+        <min-m>0</min-m>
+        <max-m>6000</max-m>
+    </animation>
+
+    <animation>
+        <type>range</type>
+        <min-m>0</min-m>
+        <max-m>15000</max-m>
+    </animation>
+
 </PropertyList>
 

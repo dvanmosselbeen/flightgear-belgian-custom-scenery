@@ -1,12 +1,29 @@
 <?xml version="1.0"?>
 
 <PropertyList>
-	<path>ebbr_building_ref_043.ac</path>
-	<animation>
-		<type>range</type>
-		<object-name>RoofDetails</object-name>
-		<object-name>Stuts</object-name>
-		<min-m>0</min-m>
-		<max-m>1300</max-m>
-	</animation>
+
+    <path>ebbr_building_ref_043.ac</path>
+
+    <animation>
+        <type>range</type>
+        <object-name>RoofDetails</object-name>
+        <object-name>Stuts</object-name>
+        <object-name>BrandLogos</object-name>
+        <min-m>0</min-m>
+        <max-m>1500</max-m>
+    </animation>
+
+    <animation>
+        <type>range</type>
+        <object-name>RoofDetails2</object-name>
+        <min-m>0</min-m>
+        <max-m>3000</max-m>
+    </animation>
+
+    <animation>
+        <type>range</type>
+        <min-m>0</min-m>
+        <max-m>20000</max-m>
+    </animation>
+
 </PropertyList>

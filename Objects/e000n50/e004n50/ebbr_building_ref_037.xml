@@ -1,12 +1,21 @@
 <?xml version="1.0"?>
 
 <PropertyList>
-	<path>ebbr_building_ref_037.ac</path>
-	<animation>
-		<type>range</type>
-		<object-name>Pilars</object-name>
-		<object-name>LightBulbs</object-name>
-		<min-m>0</min-m>
-		<max-m>1300</max-m>
-	</animation>
+    
+    <path>ebbr_building_ref_037.ac</path>
+    
+    <animation>
+        <type>range</type>
+        <object-name>Pilars</object-name>
+        <object-name>LightBulbs</object-name>
+        <min-m>0</min-m>
+        <max-m>1300</max-m>
+    </animation>
+
+    <animation>
+        <type>range</type>
+        <min-m>0</min-m>
+        <max-m>20000</max-m>
+    </animation>
+
 </PropertyList>

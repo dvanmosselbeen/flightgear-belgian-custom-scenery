@@ -1,18 +1,30 @@
 <?xml version="1.0"?>
 
 <PropertyList>
-	<path>ebbr_building_ref_004.ac</path>
-	<animation>
-		<type>material</type>
-		<texture>ebbr_building_ref_004.png</texture>
-	</animation>
-	<effect>
-		<inherits-from>Effects/lightmap</inherits-from>
-		<parameters>
-			<texture n="1">
-				<image>ebbr_building_ref_004_lightmap.png</image>
-			</texture>
-		</parameters>
-		<object-name>Building</object-name>
-	</effect>
+    
+    <path>ebbr_building_ref_004.ac</path>
+
+    <animation>
+        <type>material</type>
+        <object-name>Building</object-name>
+        <condition>
+            <greater-than>
+                <property>/sim/time/sun-angle-rad</property>
+                <value>1.57</value>
+            </greater-than>
+        </condition>
+        <texture>ebbr_building_ref_004_lightmap.png</texture>
+        <emission>
+            <red> 0.98</red>
+            <green> 0.96</green>
+            <blue> 0.78</blue>
+        </emission>
+    </animation>
+
+    <animation>
+        <type>range</type>
+        <min-m>0</min-m>
+        <max-m>10000</max-m>
+    </animation>
+
 </PropertyList>

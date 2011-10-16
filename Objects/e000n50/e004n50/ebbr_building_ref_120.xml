@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+    
+    <path>ebbr_building_ref_120.ac</path>
+    
+    <animation>
+        <type>range</type>
+        <object-name>RoofDetails</object-name>
+        <object-name>InteriorWall</object-name>
+        <object-name>RoofDetails</object-name>
+        <object-name>FrontRoof</object-name>
+        <min-m>0</min-m>
+        <max-m>4000</max-m>
+    </animation>
+
+    <animation>
+        <type>range</type>
+        <min-m>0</min-m>
+        <max-m>15000</max-m>
+    </animation>
+
+</PropertyList>

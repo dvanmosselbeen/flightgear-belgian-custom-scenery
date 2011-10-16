@@ -3,7 +3,7 @@ MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 
 OBJECT world
 kids 2
 OBJECT poly
-name "Cube"
+name "Building"
 data 8
 Cube.001
 texture "ebbr_generic_colors.png"
@@ -120,7 +120,7 @@ refs 4
 14 0.03125 0.46875
 kids 0
 OBJECT poly
-name "Cube.002"
+name "RoofDetails"
 data 8
 Cube.002
 texture "ebbr_generic_colors.png"

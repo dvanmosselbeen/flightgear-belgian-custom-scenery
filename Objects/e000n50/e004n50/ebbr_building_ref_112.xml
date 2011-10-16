@@ -1,40 +1,52 @@
 <?xml version="1.0"?>
 
 <PropertyList>
-	<path>ebbr_building_ref_112.ac</path>
-	<animation>
-		<type>range</type>
-		<min-m>0</min-m>
-		<max-m>30000</max-m>
-	</animation>
-	<animation>
-		<type>range</type>
-		<object-name>DoorAL1</object-name>
-		<object-name>DoorAL2</object-name>
-		<object-name>DoorAL3</object-name>
-		<object-name>DoorAL4</object-name>
-		<object-name>DoorAR1</object-name>
-		<object-name>DoorAR2</object-name>
-		<object-name>DoorAR3</object-name>
-		<object-name>DoorAR4</object-name>
-		<object-name>DoorBL1</object-name>
-		<object-name>DoorBL2</object-name>
-		<object-name>DoorBL3</object-name>
-		<object-name>DoorBL4</object-name>
-		<object-name>DoorBR1</object-name>
-		<object-name>DoorBR2</object-name>
-		<object-name>DoorBR3</object-name>
-		<object-name>DoorBR4</object-name>
-		<object-name>DoorStruct</object-name>
-		<object-name>Barrier1</object-name>
-		<object-name>Barrier2</object-name>
-		<object-name>Barrier3</object-name>
-		<object-name>Barrier4</object-name>
-		<object-name>Barrier5</object-name>
-		<object-name>Barrier6</object-name>
-		<object-name>Barrier7</object-name>
-		<object-name>Barrier8</object-name>
-		<min-m>0</min-m>
-		<max-m>1000</max-m>
-	</animation>
+    
+    <path>ebbr_building_ref_112.ac</path>
+    
+    <animation>
+        <type>range</type>
+        <object-name>DoorAL1</object-name>
+        <object-name>DoorAL2</object-name>
+        <object-name>DoorAL3</object-name>
+        <object-name>DoorAL4</object-name>
+        <object-name>DoorAR1</object-name>
+        <object-name>DoorAR2</object-name>
+        <object-name>DoorAR3</object-name>
+        <object-name>DoorAR4</object-name>
+        <object-name>DoorBL1</object-name>
+        <object-name>DoorBL2</object-name>
+        <object-name>DoorBL3</object-name>
+        <object-name>DoorBL4</object-name>
+        <object-name>DoorBR1</object-name>
+        <object-name>DoorBR2</object-name>
+        <object-name>DoorBR3</object-name>
+        <object-name>DoorBR4</object-name>
+        <object-name>DoorStruct</object-name>
+        <object-name>Barrier1</object-name>
+        <object-name>Barrier2</object-name>
+        <object-name>Barrier3</object-name>
+        <object-name>Barrier4</object-name>
+        <object-name>Barrier5</object-name>
+        <object-name>Barrier6</object-name>
+        <object-name>Barrier7</object-name>
+        <object-name>Barrier8</object-name>
+        <min-m>0</min-m>
+        <max-m>1000</max-m>
+    </animation>
+
+    <animation>
+        <type>range</type>
+        <object-name>Pilars</object-name>
+        <object-name>BarrierFeets</object-name>
+        <min-m>0</min-m>
+        <max-m>2500</max-m>
+    </animation>
+
+    <animation>
+        <type>range</type>
+        <min-m>0</min-m>
+        <max-m>15000</max-m>
+    </animation>
+
 </PropertyList>
