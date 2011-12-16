@@ -4,129 +4,42 @@
 
     <path>ebaw_building_ref_025.ac</path>
 
-     <nasal>
-          <load>
-               if (!contains(globals, "scenery")) globals["scenery"] = {};
-               if (!contains(scenery, "EBAW")) scenery["EBAW"] = {};
-               if (!contains(scenery.EBAW, "hangar")) scenery.EBAW["hangar"] =
-                 [nil,nil,nil,nil,nil,nil];
-               scenery.EBAW.hangar[2] =
-                 { door :
-                   [aircraft.door.new("/scenery/EBAW/hangar[2]/door[0]", 3*60)]
-                 };
-          </load>
-     </nasal>
-
     <animation>
-        <type>translate</type>
-        <object-name>DoorL1</object-name>
-        <property>/scenery/EBAW/hangar[2]/door[0]/position-norm</property>
-        <interpolation>
-            <entry><ind>0</ind><dep>0.0</dep></entry>
-            <entry><ind>0.2</ind><dep>-4.667</dep></entry>
-        </interpolation>
-        <axis>
-            <x>1</x>
-            <y>0</y>
-            <z>0</z>
-        </axis>
+        <type>range</type>
+        <object-name>Spots</object-name>
+        <min-m>0</min-m>
+        <max-m>700</max-m>
     </animation>
-      
+    
     <animation>
-        <type>translate</type>
-        <object-name>DoorL2</object-name>
-        <property>/scenery/EBAW/hangar[2]/door[0]/position-norm</property>
-        <interpolation>
-            <entry><ind>0</ind><dep>0.0</dep></entry>
-            <entry><ind>0.2</ind><dep>-9.333</dep></entry>
-        </interpolation>
-        <axis>
-            <x>1</x>
-            <y>0</y>
-            <z>0</z>
-        </axis>
+        <type>range</type>
+        <object-name>LightCones</object-name>
+        <min-m>0</min-m>
+        <max-m>3500</max-m>
     </animation>
 
     <animation>
-        <type>translate</type>
-        <object-name>DoorL3</object-name>
-        <property>/scenery/EBAW/hangar[2]/door[0]/position-norm</property>
-        <interpolation>
-            <entry><ind>0</ind><dep>0.0</dep></entry>
-            <entry><ind>0.2</ind><dep>-14</dep></entry>
-        </interpolation>
-        <axis>
-            <x>1</x>
-            <y>0</y>
-            <z>0</z>
-        </axis>
+        <object-name>LightCones</object-name>
+        <type>select</type>
+        <condition>
+            <greater-than>
+                <property>/sim/time/sun-angle-rad</property>
+                <value>1.57</value>
+            </greater-than>
+        </condition>
     </animation>
 
     <animation>
-        <type>translate</type>
-        <object-name>DoorR3</object-name>
-        <property>/scenery/EBAW/hangar[2]/door[0]/position-norm</property>
-        <interpolation>
-            <entry><ind>0</ind><dep>0.0</dep></entry>
-            <entry><ind>0.2</ind><dep>14</dep></entry>
-        </interpolation>
-        <axis>
-            <x>1</x>
-            <y>0</y>
-            <z>0</z>
-        </axis>
+        <object-name>LightCones</object-name>
+        <enable-hot type="bool">false</enable-hot>
     </animation>
 
     <animation>
-        <type>translate</type>
-        <object-name>DoorR2</object-name>
-        <property>/scenery/EBAW/hangar[2]/door[0]/position-norm</property>
-        <interpolation>
-            <entry><ind>0</ind><dep>0.0</dep></entry>
-            <entry><ind>0.2</ind><dep>9.333</dep></entry>
-        </interpolation>
-        <axis>
-            <x>1</x>
-            <y>0</y>
-            <z>0</z>
-        </axis>
-    </animation>
-      
-    <animation>
-        <type>translate</type>
-        <object-name>DoorR1</object-name>
-        <property>/scenery/EBAW/hangar[2]/door[0]/position-norm</property>
-        <interpolation>
-            <entry><ind>0</ind><dep>0.0</dep></entry>
-            <entry><ind>0.2</ind><dep>4.667</dep></entry>
-        </interpolation>
-        <axis>
-            <x>1</x>
-            <y>0</y>
-            <z>0</z>
-        </axis>
+        <type>range</type>
+        <min-m>0</min-m>
+        <max-m>10000</max-m>
     </animation>
 
-
-    <animation>
-        <type>pick</type>
-        <object-name>DoorL1</object-name>
-        <object-name>DoorL2</object-name>
-        <object-name>DoorL3</object-name>
-        <object-name>DoorR1</object-name>
-        <object-name>DoorR2</object-name>
-        <object-name>DoorR3</object-name>
-        <visible>true</visible>
-        <action>
-            <name>click</name>
-            <button>0</button>
-            <repeatable>false</repeatable>
-            <binding>
-                <command>nasal</command>
-                <script>scenery.EBAW.hangar[2].door[0].toggle();</script>
-            </binding>
-        </action>
-    </animation>
 
 </PropertyList>
 
