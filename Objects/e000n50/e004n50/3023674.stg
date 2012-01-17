@@ -152,7 +152,8 @@ OBJECT_STATIC ebbr_building_ref_047.xml 4.475866 50.896255 41 115
 OBJECT_STATIC ebbr_building_ref_048.xml 4.476355 50.895770 41 115
 OBJECT_STATIC ebbr_building_ref_049.xml 4.473520 50.896386 38.3 115
 OBJECT_STATIC ebbr_building_ref_050.xml 4.474034 50.895684 41 115
-OBJECT_STATIC ebbr_building_ref_051.xml 4.474565 50.895202 41 115
+# ebbr_building_ref_048 & 051 are almost the same, using the same now
+OBJECT_STATIC ebbr_building_ref_048.xml 4.474565 50.895202 41 115
 OBJECT_STATIC ebbr_building_ref_051b.xml 4.473181 50.894759 38.5 115
 OBJECT_STATIC ebbr_building_ref_052.xml 4.471589 50.895573 38 115
 OBJECT_STATIC ebbr_building_ref_053.xml 4.472322 50.895076 38 115

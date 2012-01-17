@@ -93,11 +93,11 @@ OBJECT_STATIC rue_de_bon_pasteur_55.xml 4.401881 50.879890 32.1806 108.0
 OBJECT_STATIC solvin_headquarters.xml 4.399348 50.902931 35.5 0
 
 ### Some generic stuff here and there
-# A few firetrucs at the caserne
-OBJECT_SHARED Models/Airport/fire-truck.xml 4.48460208 50.91055221 28.1387 0.0
-OBJECT_SHARED Models/Airport/fire-truck.xml 4.48426304 50.91062823 28.0602 32.0
-OBJECT_SHARED Models/Airport/fire-truck.xml 4.48424108 50.91058252 28.0647 32.0
-OBJECT_SHARED Models/Airport/fire-truck.xml 4.48395443 50.91046082 28.2158 28.0
+# A few firetrucs at the caserne (Disabled, as it texture contains useless alpha)
+#OBJECT_SHARED Models/Airport/fire-truck.xml 4.48460208 50.91055221 28.1387 0.0
+#OBJECT_SHARED Models/Airport/fire-truck.xml 4.48426304 50.91062823 28.0602 32.0
+#OBJECT_SHARED Models/Airport/fire-truck.xml 4.48424108 50.91058252 28.0647 32.0
+#OBJECT_SHARED Models/Airport/fire-truck.xml 4.48395443 50.91046082 28.2158 28.0
 # A few tankers
 OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.492805 50.906306 32.9 180
 OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.492906 50.906328 32.9 180
@@ -134,18 +134,18 @@ OBJECT_SHARED Models/Aircraft/superfrelon.xml 4.496960 50.914595 24.7 30
 OBJECT_SHARED Models/Aircraft/c130-herc-obj1.xml 4.495759 50.914224 24.7 30
 OBJECT_SHARED Models/Aircraft/B1900_services.xml 4.490278 50.912474 26.4 300.0
 
-# DHL Fleet
-OBJECT_SHARED Models/Aircraft/SAAB340_services.xml 4.475320 50.898480 38 300.0
-OBJECT_SHARED Models/Aircraft/SAAB340_services.xml 4.473844 50.898118 38 300.0
-# Fedex
-OBJECT_SHARED Models/Aircraft/fedex310.xml 4.461246 50.903758 32.5 25
-OBJECT_SHARED Models/Aircraft/fedex310.xml 4.458961 50.903145 32.5 25
+# DHL Fleet (Replaced by Brussels Airlines which doesn't contain useless alpha)
+OBJECT_STATIC 737-300.xml 4.475320 50.898480 38 300.0
+OBJECT_STATIC 737-300.xml 4.473844 50.898118 38 300.0
+# Fedex (Replaced by Brussels Airlines which doesn't contain useless alpha)
+OBJECT_STATIC 737-300.xml 4.461246 50.903758 32.5 25
+OBJECT_STATIC 737-300.xml 4.458961 50.903145 32.5 25
 
 # Airfrance
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 4.489128 50.901233 40 220
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 4.487607 50.899405 40.2 25
-# Cessna 172
-OBJECT_SHARED Models/Aircraft/Cessna172.xml 4.465431 50.897280 36 120
+# Cessna 172 (Disabled, as it texture contains useless alpha)
+#OBJECT_SHARED Models/Aircraft/Cessna172.xml 4.465431 50.897280 36 120
 
 # Brussels Airlines static aircraft
 OBJECT_STATIC 737-300.xml 4.489470679894751 50.9051802316264 33.87 200
@@ -170,7 +170,7 @@ OBJECT_STATIC 737-300.xml 4.46838617 50.90612212 31.44 3
 
 ### Refueling location
 # Airport big lights
-OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.492613 50.905923 26.4 0
+OBJECT_STATIC ebbr_apron_9_light.xml 4.492613 50.905923 33.048 0
 # Aiport road lights
 OBJECT_STATIC ebbr_road_light.xml 4.492308 50.906372 26.4 90
 OBJECT_STATIC ebbr_road_light.xml 4.492768 50.906518 26.4 90
@@ -198,17 +198,17 @@ OBJECT_STATIC ebbr_road_light.xml 4.494325 50.906427 26.4 0
 #OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.481222 50.902427 26.4 290
 
 ## Apron 9 Big lights
-OBJECT_SHARED Models/Airport/apt-light.xml 4.450929 50.901249 26.4 0
-OBJECT_SHARED Models/Airport/apt-light.xml 4.451911 50.901536 26.4 0
-OBJECT_SHARED Models/Airport/apt-light.xml 4.452867 50.901816 26.4 0
-OBJECT_SHARED Models/Airport/apt-light.xml 4.453872 50.902096 26.4 0
-OBJECT_SHARED Models/Airport/apt-light.xml 4.454842 50.902380 26.4 0
-OBJECT_SHARED Models/Airport/apt-light.xml 4.455752 50.902647 26.4 0
-OBJECT_SHARED Models/Airport/apt-light.xml 4.456650 50.902908 26.4 0
-OBJECT_SHARED Models/Airport/apt-light.xml 4.457620 50.903189 26.4 0
-OBJECT_SHARED Models/Airport/apt-light.xml 4.458246 50.903713 26.4 0
-OBJECT_SHARED Models/Airport/apt-light.xml 4.459701 50.904133 26.4 0
-OBJECT_SHARED Models/Airport/apt-light.xml 4.460794 50.904449 26.4 0
+OBJECT_STATIC ebbr_apron_9_light.xml 4.450929 50.901249 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.451911 50.901536 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.452867 50.901816 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.453872 50.902096 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.454842 50.902380 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.455752 50.902647 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.456650 50.902908 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.457620 50.903189 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.458246 50.903713 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.459701 50.904133 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.460794 50.904449 26.4 115
 
 #desc: Rotonde
 OBJECT_STATIC ebbr_building_ref_037.xml 4.487720 50.894814 44.3243 -150.0
