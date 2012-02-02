@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+    <path>ship_container_standard_20.ac</path>
+    <animation>
+        <type>material</type>
+        <texture>ship_container_standard_20_green.png</texture>
+    </animation>
+
+    <animation>
+        <type>range</type>
+        <min-m>0</min-m>
+        <max>3000</max>
+    </animation>
+
+</PropertyList>

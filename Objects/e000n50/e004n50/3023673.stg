@@ -218,34 +218,30 @@ OBJECT_STATIC old_control_tower.ac 4.485552 50.897063 41 207
 ## EBGB airport
 ##############################################################################
 OBJECT_STATIC ebgb_control_tower.xml 4.395874 50.948297 16.15 0
-OBJECT_STATIC ebgb_building_ref_001.xml 4.395328 50.945498 17 0
+OBJECT_STATIC ebgb_building_ref_001.xml 4.395328 50.945498 16.82 0
 OBJECT_STATIC ebgb_building_ref_002.xml 4.395474 50.946169 16.5 90
 # first cylinder (ref 003)
 OBJECT_STATIC ebgb_building_ref_004.xml 4.393997 50.945847 17.26 0
-OBJECT_STATIC ebgb_building_ref_005.ac 4.395215 50.9483425847 16.4 270
+# second cylinder (ref 004)
+OBJECT_STATIC ebgb_building_ref_004.xml 4.394115 50.944947 17 0
+# Aircraft in round hangar
 OBJECT_SHARED Models/Aircraft/Cessna172.xml 4.39419765 50.94588175 17.39 300
-
+# General Signals square
+OBJECT_STATIC general_signals_square.xml 4.395215 50.9483425847 16.4 270
 OBJECT_STATIC ebgb_fuel_pump.xml 4.394280 50.948565 16.1 0
-
-# second sylinder (ref 004)
-OBJECT_STATIC ebgb_building_ref_004.ac 4.394115 50.944947 17 0
-# Building ref 005 (Gaz pipes?)
-#OBJECT_SHARED Models/Airport/helipad_circle.xml 4.395190 50.948320 17 0
 OBJECT_STATIC ebgb_building_ref_008.xml 4.390769 50.943290 17.56 15
 OBJECT_STATIC ebgb_building_ref_009.xml 4.391282 50.943483 17.45 285
-OBJECT_STATIC ebgb_building_ref_010.ac 4.393325 50.943873 17 105
-OBJECT_STATIC ebgb_building_ref_011.ac 4.393473 50.944015 17 15
-OBJECT_STATIC ebgb_building_ref_012.ac 4.393655 50.944383 17 0
+OBJECT_STATIC ebgb_building_ref_010.xml 4.393325 50.943873 17 105
+OBJECT_STATIC ebgb_building_ref_011.xml 4.393473 50.944015 17 15
+OBJECT_STATIC ebgb_building_ref_012.xml 4.393655 50.944383 17.59 0
 OBJECT_STATIC ebgb_building_ref_013.xml 4.395111 50.944900 17 0
-OBJECT_STATIC ebgb_building_ref_014.ac 4.396044 50.948147 17 270
-OBJECT_STATIC ebgb_building_ref_015.ac 4.396135 50.948388 16 270
-OBJECT_STATIC ebgb_building_ref_016.ac 4.396089 50.948853 16.23 270
+OBJECT_STATIC ebgb_building_ref_014.xml 4.396044 50.948147 16.155 270
+OBJECT_STATIC ebgb_building_ref_015.xml 4.396135 50.948388 16 270
+OBJECT_STATIC ebgb_building_ref_016.xml 4.396089 50.948853 16.23 90
+OBJECT_STATIC ebgb_trash_collecting_wall.xml 4.394763 50.946232 17 0
+OBJECT_STATIC ebgb_bar.xml 4.395537 50.947988 16.420 270
 
-OBJECT_STATIC ebgb_trash_collecting_wall.ac 4.394763 50.946232 17 0
-
-OBJECT_STATIC ebgb_bar.ac 4.395537 50.947988 16 270
-
-OBJECT_STATIC electric_barrier.ac 4.394832 50.948494 16 0
+OBJECT_STATIC electric_barrier.xml 4.394832 50.948494 16 0
 OBJECT_STATIC ebgb_fence_a.xml 4.394818 50.948412 16.36 1
 OBJECT_STATIC ebgb_fence_b.xml 4.394664 50.948582 16.23 0
 OBJECT_STATIC ebgb_fence_d.xml 4.394654 50.948899 15.95 0
@@ -256,11 +252,47 @@ OBJECT_STATIC ebgb_apron_light.xml 4.394826 50.947480 16.5 90
 OBJECT_STATIC ebgb_apron_light.xml 4.394815 50.947741 16.5 90
 OBJECT_STATIC ebgb_apron_light.xml 4.394805 50.948008 16.5 90
 OBJECT_STATIC ebgb_apron_light.xml 4.394798 50.948282 16.5 90
+# Streetligts yellow pillars (in airfield boundary)
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.395603 50.948689 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.395327 50.947868 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.395377 50.947608 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.395445 50.947280 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.395797 50.948090 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.396163 50.948704 16.5 0
+# Streetligts yellow pillars (outside airfield boundary)
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.396381 50.949661 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.396644 50.949650 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.396481 50.949461 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.396445 50.949153 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.396163 50.948704 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.396403 50.948829 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.396366 50.948483 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.396347 50.948163 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.396383 50.947832 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.396475 50.947518 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.396544 50.947247 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.396622 50.946958 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.396725 50.946635 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.396858 50.946308 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.396975 50.946020 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.397096 50.945746 16.5 0
+OBJECT_STATIC streetlight_yellow_pillar.xml 4.397220 50.945518 16.5 0
 
 # EBGB entry doors
 OBJECT_STATIC ebgb_entry_doors.ac 4.394812 50.948459 16.5 1
 OBJECT_STATIC ebgb_entry_doors.ac 4.394655 50.948716 16.5 0
 OBJECT_STATIC ebgb_entry_doors.ac 4.396216 50.948776 16.5 0
+
+# Flags pillars
+OBJECT_STATIC ebgb_flags_pillars.ac 4.395353 50.948624 16.5 180
+
+# Parked cars at EBGB
+OBJECT_SHARED Models/Transport/hatchback_red.ac 4.395761 50.948859 16.25 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.395627 50.948875 16.25 0
+OBJECT_SHARED Models/Transport/hummerh2.xml 4.395287 50.948887 16.5 90
+OBJECT_SHARED Models/Transport/hatchback_red.ac 4.395842 50.948420 16.20 90
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.395789 50.948211 16.25 0
+OBJECT_SHARED Models/Transport/hummerh2.xml 4.395636 50.948109 16.5 0
 
 # Decor
 OBJECT_SHARED Models/Boundaries/Hedge-10m.xml 4.396029 50.948007 15.95 90
@@ -273,6 +305,22 @@ OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395567 50.947831 15.95 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395424 50.947728 15.95 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395428 50.947634 15.95 0
 OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395939 50.947143 15.95 0
+
+# Containsers
+OBJECT_STATIC ship_container_standard_20_red.xml 4.395368 50.946962 16.5 0
+OBJECT_STATIC ship_container_standard_20_blue.xml 4.395293 50.946957 16.5 0
+OBJECT_STATIC ship_container_standard_20_green.xml 4.395248 50.946825 16.5 0
+OBJECT_STATIC ship_container_standard_20_red.xml 4.395184 50.946808 16.5 0
+OBJECT_STATIC ship_container_standard_20_blue.xml 4.395065 50.946775 16.5 0
+OBJECT_STATIC ship_container_standard_20_red.xml 4.394995 50.946763 16.5 0
+OBJECT_STATIC ship_container_standard_20_green.xml 4.394947 50.946752 16.5 0
+OBJECT_STATIC ship_container_standard_20_blue.xml 4.395332 50.946666 16.5 0
+OBJECT_STATIC ship_container_standard_20_green.xml 4.39559 50.94695 16.5 0
+OBJECT_STATIC ship_container_standard_20_blue.xml 4.395149 50.94515 16.5 0
+OBJECT_STATIC ship_container_standard_20_red.xml 4.396605 50.946093 16.5 0
+OBJECT_STATIC ship_container_standard_20_green.xml 4.396629 50.94607 16.5 0
+OBJECT_STATIC ship_container_standard_20_green.xml 4.39649 50.945593 16.5 0
+OBJECT_STATIC ship_container_standard_20_red.xml 4.396227 50.945481 16.5 0
 
 # Trees on the right side of the main entrance
 OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395207 50.948962 15.95 0
@@ -297,41 +345,8 @@ OBJECT_SHARED Models/Aircraft/MS880_rallye.xml 4.394564 50.944718 17.3 250
 OBJECT_SHARED Models/Aircraft/R3000.xml 4.393630 50.944736 17.8 145
 
 #desc: football field near the EBGB airport
-#OBJECT_STATIC terrain_de_foot_generic.ac 4.392568 50.943557 17 105
+#OBJECT_STATIC terrain_de_foot_generic.ac 4.392568 50.943557 16.2 101
 
-### EBGB Runway/Taxiway guides ###
-## Runway guides
-#OBJECT_STATIC guide.ac 4.390297 50.943620 17 0
-#OBJECT_STATIC guide.ac 4.393166 50.952996 17 0
-## Taxiway guides
-#OBJECT_STATIC guide.ac 4.394513 50.948373 17 0
-#OBJECT_STATIC guide.ac 4.394017 50.948376 17 0
-#OBJECT_STATIC guide.ac 4.392767 50.948466 17 0
-#OBJECT_STATIC guide.ac 4.392769 50.948573 17 0
-#OBJECT_STATIC guide.ac 4.395042 50.948696 17 0
-#OBJECT_STATIC guide.ac 4.394112 50.948528 17 0
-#OBJECT_STATIC guide.ac 4.394551 50.946528 17 0
-#OBJECT_STATIC guide.ac 4.394082 50.946507 17 0
-#OBJECT_STATIC guide.ac 4.393269 50.946477 17 0
-#OBJECT_STATIC guide.ac 4.392730 50.947776 17 0
-#OBJECT_STATIC guide.ac 4.391565 50.946575 17 0
-#OBJECT_STATIC guide.ac 4.393253 50.945537 17 0
-#OBJECT_STATIC guide.ac 4.393350 50.944821 17 0
-#OBJECT_STATIC guide.ac 4.392885 50.944300 17 0
-#OBJECT_STATIC guide.ac 4.392608 50.944114 17 0
-#OBJECT_STATIC guide.ac 4.392042 50.943942 17 0
-#OBJECT_STATIC guide.ac 4.394928 50.944613 17 0
-#OBJECT_STATIC guide.ac 4.394959 50.944476 17 0
-#OBJECT_STATIC guide.ac 4.393071 50.944086 17 0
-#OBJECT_STATIC guide.ac 4.395060 50.944454 17 0
-
-### EBBR Runway guides ###
-#OBJECT_STATIC guide.ac 4.480432 50.888976 47 0
-#OBJECT_STATIC guide.ac 4.523300 50.898906 47 0
-#OBJECT_STATIC guide.ac 4.491378 50.886860 32 0
-#OBJECT_STATIC guide.ac 4.502012 50.912907 17 0
-#OBJECT_STATIC guide.ac 4.503270 50.912637 17 0
-#OBJECT_STATIC guide.ac 4.457067 50.899269 17 0
 ##############################################################################
 
 # Wind turbines
@@ -393,6 +408,8 @@ OBJECT_STATIC sint-servaasbasiliek_van_grimbergen.ac 4.371329 50.933457 32 0
 OBJECT_SHARED Models/Industrial/water-tower.ac 4.374900 50.934206 26 0
 
 #desc: A few generic farms around EBGB
+OBJECT_STATIC house_airfield.xml 4.396142 50.947890 16.103 180
+
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.389095 50.953339 18.404 0
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.389385 50.953504 18.288 0
 OBJECT_SHARED Models/Agriculture/farmhouse2.ac 4.388122 50.953169 18.685 0
@@ -421,7 +438,9 @@ OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.397167 50.945129 15.679 0
 OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.39699 50.946099 15.730 0
 OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.39865 50.945985 15.326 0
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.400001 50.945825 15.045 0
-OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.396213 50.947574 16.091 0
+#OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.396213 50.947574 16.091 0
+OBJECT_STATIC 4rijhuizen.ac 4.396213 50.947574 16.091 180
+
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.396547 50.947777 15.868 0
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.39646 50.948016 15.931 0
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.396459 50.94823 16.037 0
@@ -685,4 +704,3 @@ OBJECT_SHARED Models/Trees/billboard-tree.xml 4.417953 50.968682 11 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 4.417609 50.966638 11 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 4.416103 50.967469 11 0
 OBJECT_SHARED Models/Trees/billboard-tree.xml 4.417298 50.967965 11 0
-

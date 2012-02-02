@@ -9,14 +9,20 @@
         <min-m>0</min-m>
         <max-m>700</max-m>
     </animation>
-    
+
     <animation>
         <type>range</type>
         <object-name>LightCones</object-name>
         <min-m>0</min-m>
         <max-m>3500</max-m>
     </animation>
-    
+
+    <animation>
+        <type>range</type>
+        <min-m>0</min-m>
+        <max-m>10000</max-m>
+    </animation>
+
     <animation>
         <object-name>LightCones</object-name>
         <type>select</type>
