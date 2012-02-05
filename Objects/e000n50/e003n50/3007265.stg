@@ -8,11 +8,11 @@
 #OBJECT_STATIC ebty_building_ref_004.ac 3.495648 50.530753 52 250
 #OBJECT_STATIC ebty_building_ref_005.ac 3.495942 50.530682 52 250
 ### Non-accurate, but fgfs airfield location
-OBJECT_STATIC ebty_building_ref_001.ac 3.493962 50.529460 48.23 252
-OBJECT_STATIC ebty_building_ref_002.ac 3.494365 50.529383 47.62 252
-OBJECT_STATIC ebty_building_ref_003.ac 3.494682 50.529280 46.90 252
-OBJECT_STATIC ebty_building_ref_004.ac 3.495003 50.529229 46.57 252
-OBJECT_STATIC ebty_building_ref_005.ac 3.495452 50.529153 45.54 252
+OBJECT_STATIC ebty_building_ref_001.xml 3.493962 50.529460 48.23 252
+OBJECT_STATIC ebty_building_ref_002.xml 3.494365 50.529383 47.62 252
+OBJECT_STATIC ebty_building_ref_003.xml 3.494682 50.529280 46.90 252
+OBJECT_STATIC ebty_building_ref_004.xml 3.495003 50.529229 46.57 252
+OBJECT_STATIC ebty_building_ref_005.xml 3.495452 50.529153 45.54 252
 OBJECT_SHARED Models/Airport/SignalsSquare.xml 3.493715 50.529678 49.05 252
 # A few static cars & aircrafts
 OBJECT_SHARED Models/Airport/hatchback_red_follow_me.ac 3.489965 50.530748 48.55 35
