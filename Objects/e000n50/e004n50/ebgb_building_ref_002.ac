@@ -1,6 +1,6 @@
 AC3Db
-MATERIAL "Black" rgb 0.033319 0.033319 0.033319 amb 1 1 1 emis 0 0 0 spec 0.119985 0.119985 0.119985 shi 50 trans 0
-MATERIAL "DefaultWhite" rgb 0.8 0.8 0.8 amb 1 1 1 emis 0 0 0 spec 1 1 1 shi 50 trans 0
+MATERIAL "Black" rgb 0.033319 0.033319 0.033319 amb 1 1 1 emis 0 0 0 spec 0.119985 0.119985 0.119985 shi 0 trans 0
+MATERIAL "DefaultWhite" rgb 0.8 0.8 0.8 amb 1 1 1 emis 0 0 0 spec 1 1 1 shi 0 trans 0
 MATERIAL "Lighting" rgb 0.07311 0.957447 0.725388 amb 0.14622 0.14622 0.14622 emis 1 1 1 spec 0.302414 0.966903 0.41552 shi 64 trans 0.9
 OBJECT world
 kids 3

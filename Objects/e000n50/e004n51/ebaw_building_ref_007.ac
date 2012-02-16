@@ -1,5 +1,5 @@
 AC3Db
-MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
+MATERIAL "DefaultWhite" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 0  trans 0
 MATERIAL "Lighting.001" rgb 0.07311 0.957447 0.725388 amb 0.07311 0.07311 0.07311 emis 1 1 1 spec 0.302414 0.966903 0.41552 shi 19 trans 0.9
 MATERIAL "Black.001" rgb 0.033319 0.033319 0.033319 amb 1 1 1 emis 0 0 0 spec 0.119985 0.119985 0.119985 shi 32 trans 0
 OBJECT world
