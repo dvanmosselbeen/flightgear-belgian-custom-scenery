@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<groundnet>
+  
+  <parkingList>
+    <Parking index="0"
+             type="ga"
+             name="P"
+             number="01"
+             lat="N50 27.496"
+             lon="E3 49.202"
+             heading="0"
+             radius="12"
+             pushBackRoute="" 
+             airlineCodes="" />
+
+    <Parking index="1"
+             type="ga"
+             name="P"
+             number="02"
+             lat="N50 27.497"
+             lon="E3 49.215"
+             heading="0"
+             radius="12"
+             pushBackRoute="" 
+             airlineCodes="" />
+
+    <Parking index="2"
+             type="ga"
+             name="P"
+             number="03"
+             lat="N50 27.498"
+             lon="E3 49.267"
+             heading="0"
+             radius="12"
+             pushBackRoute="" 
+             airlineCodes="" />  
+			 
+  </parkingList>
+  
+</groundnet>
