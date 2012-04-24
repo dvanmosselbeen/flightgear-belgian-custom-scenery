@@ -1,0 +1,266 @@
+<?xml version="1.0"?>
+<groundnet>
+  
+<parkingList>
+    <!-- APRON 1 -->
+    <Parking index="0"
+             type="ga"
+             name="A1"
+             number="01"
+             lat="N51 11.951"
+             lon="E2 53.801"
+             heading="100"
+             radius="12"
+             pushBackRoute="" 
+             airlineCodes="" />
+
+    <Parking index="1"
+             type="ga"
+             name="A1"
+             number="02"
+             lat="N51 11.909"
+             lon="E2 53.801"
+             heading="100"
+             radius="12"
+             pushBackRoute="" 
+             airlineCodes="" />
+
+    <Parking index="2"
+             type="ga"
+             name="A1"
+             number="03"
+             lat="N51 11.864"
+             lon="E2 53.794"
+             heading="100"
+             radius="12"
+             pushBackRoute="" 
+             airlineCodes="" />  
+
+    <Parking index="3"
+             type="ga"
+             name="A1"
+             number="04"
+             lat="N51 11.818"
+             lon="E2 53.777"
+             heading="100"
+             radius="12"
+             pushBackRoute="" 
+             airlineCodes="" />
+
+    <Parking index="4"
+             type="ga"
+             name="A1"
+             number="05"
+             lat="N51 11.776"
+             lon="E2 53.766"
+             heading="100"
+             radius="12"
+             pushBackRoute="" 
+             airlineCodes="" />
+
+    <Parking index="5"
+             type="ga"
+             name="A1"
+             number="06"
+             lat="N51 11.733"
+             lon="E2 53.755"
+             heading="100"
+             radius="12"
+             pushBackRoute="" 
+             airlineCodes="" />  
+
+    <!-- APRON 2 -->
+    <Parking index="6"
+             type="ga"
+             name="A2"
+             number="01"
+             lat="N51 12.188"
+             lon="E2 52.035"
+             heading="350"
+             radius="12"
+             pushBackRoute=""
+             airlineCodes="" />
+
+    <Parking index="7"
+             type="ga"
+             name="A2"
+             number="02"
+             lat="N51 12.195"
+             lon="E2 52.086"
+             heading="350"
+             radius="12"
+             pushBackRoute=""
+             airlineCodes="" />
+
+    <Parking index="8"
+             type="ga"
+             name="A2"
+             number="03"
+             lat="N51 12.203"
+             lon="E2 52.135"
+             heading="350"
+             radius="12"
+             pushBackRoute=""
+             airlineCodes="" />
+
+    <Parking index="9"
+             type="ga"
+             name="A2"
+             number="04"
+             lat="N51 12.210"
+             lon="E2 52.185"
+             heading="350"
+             radius="12"
+             pushBackRoute=""
+             airlineCodes="" />
+
+    <Parking index="10"
+             type="ga"
+             name="A2"
+             number="05"
+             lat="N51 12.222"
+             lon="E2 52.264"
+             heading="350"
+             radius="12"
+             pushBackRoute=""
+             airlineCodes="" />
+
+    <Parking index="11"
+             type="ga"
+             name="A2"
+             number="06"
+             lat="N51 12.232"
+             lon="E2 52.332"
+             heading="350"
+             radius="12"
+             pushBackRoute=""
+             airlineCodes="" />
+
+    <Parking index="12"
+             type="ga"
+             name="A2"
+             number="07"
+             lat="N51 12.243"
+             lon="E2 52.400"
+             heading="350"
+             radius="12"
+             pushBackRoute=""
+             airlineCodes="" />
+
+    <Parking index="13"
+             type="ga"
+             name="A2"
+             number="08"
+             lat="N51 12.253"
+             lon="E2 52.467"
+             heading="350"
+             radius="12"
+             pushBackRoute=""
+             airlineCodes="" />
+
+    <Parking index="14"
+             type="ga"
+             name="A2"
+             number="09"
+             lat="N51 12.087"
+             lon="E2 52.088"
+             heading="170"
+             radius="12"
+             pushBackRoute=""
+             airlineCodes="" />
+
+    <Parking index="15"
+             type="ga"
+             name="A2"
+             number="10"
+             lat="N51 12.093"
+             lon="E2 52.128"
+             heading="170"
+             radius="12"
+             pushBackRoute=""
+             airlineCodes="" />
+
+    <Parking index="16"
+             type="ga"
+             name="A2"
+             number="11"
+             lat="N51 12.099"
+             lon="E2 52.169"
+             heading="170"
+             radius="12"
+             pushBackRoute=""
+             airlineCodes="" />
+
+    <Parking index="17"
+             type="ga"
+             name="A2"
+             number="12"
+             lat="N51 12.105"
+             lon="E2 52.210"
+             heading="170"
+             radius="12"
+             pushBackRoute=""
+             airlineCodes="" />
+
+    <Parking index="18"
+             type="ga"
+             name="A2"
+             number="13"
+             lat="N51 12.122"
+             lon="E2 52.342"
+             heading="170"
+             radius="12"
+             pushBackRoute=""
+             airlineCodes="" />
+
+    <Parking index="19"
+             type="ga"
+             name="A2"
+             number="14"
+             lat="N51 12.128"
+             lon="E2 52.376"
+             heading="170"
+             radius="12"
+             pushBackRoute=""
+             airlineCodes="" />
+
+    <Parking index="20"
+             type="ga"
+             name="A2"
+             number="15"
+             lat="N51 12.133"
+             lon="E2 52.409"
+             heading="170"
+             radius="12"
+             pushBackRoute=""
+             airlineCodes="" />
+
+    <Parking index="21"
+             type="ga"
+             name="A2"
+             number="16"
+             lat="N51 12.138"
+             lon="E2 52.444"
+             heading="170"
+             radius="12"
+             pushBackRoute=""
+             airlineCodes="" />
+
+    <Parking index="22"
+             type="ga"
+             name="A2"
+             number="17"
+             lat="N51 12.143"
+             lon="E2 52.477"
+             heading="170"
+             radius="12"
+             pushBackRoute=""
+             airlineCodes="" />
+
+
+    <!-- APRON 3 -->
+
+
+  </parkingList>
+  
+</groundnet>
