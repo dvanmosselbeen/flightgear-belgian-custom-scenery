@@ -854,7 +854,7 @@ OBJECT_STATIC residence_pacific.xml 4.375724 50.849358 54.01 0
 #desc: Proximus (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.358976 50.858704 26.12 0
 #desc: Royal Building (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.343097 50.821609 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.343097 50.821609 32.1806 108.0
 #desc: Acasias (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.282833 50.830257 32.1806 108.0
 #desc: Centre Monnaie (Generic)
@@ -864,11 +864,11 @@ OBJECT_STATIC brouckere_tower.ac 4.351401 50.850887 26.43 0
 #desc: Résidence Porte de Paris (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.308819 50.829021 32.1806 108.0
 #desc: Résidence Club 21 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.298910 50.873646 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.298910 50.873646 32.1806 108.0
 #desc: Parc du Peterbos Blok 16 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.292956 50.841290 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.292956 50.841290 32.1806 108.0
 #desc: Boulevard Louis Mettewie 9 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.314559 50.861740 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.314559 50.861740 32.1806 108.0
 #desc: Square Jacques Franck 2 (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.341960 50.832684 32.1806 108.0
 #desc: Crown Plaza Brussels Europa (Generic)
@@ -876,20 +876,20 @@ OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.377716 5
 #desc: Square Jacques Franck 1 (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.340887 50.832935 32.1806 108.0
 #desc: Dexia Bank (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.362431 50.853271 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.362431 50.853271 32.1806 108.0
 #desc: View Building (Generic)
 OBJECT_STATIC view_building.xml 4.369930 50.842903 71 0
 #desc: Residence Rue des Goujons 5 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.322573 50.834324 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.322573 50.834324 32.1806 108.0
 #desc: Berlaymont (Generic)
 #OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.382526 50.843628 32.1806 108.0
 OBJECT_STATIC berlaymont.ac 4.382526 50.843628 56.83 0
 #desc: Residence de la Cambre (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.377987 50.817284 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.377987 50.817284 32.1806 108.0
 #desc: Saint Jean Tower (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.353075 50.843727 32.1806 108.0
 #desc: Les Pavillons Français du Quartier Nord-Est (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.394821 50.846066 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.394821 50.846066 32.1806 108.0
 #desc: Central Plaza (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_white.xml 4.358407 50.846474 32.1806 108.0
 #desc: La Magnanerie (Generic)
@@ -932,11 +932,11 @@ OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_green.xml 4.371175 5
 #desc: Institut de Sociologie
 OBJECT_STATIC institut_de_sociologie.xml 4.380316 50.814484 93.6 0
 #desc: Residence St. Lazare (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.362012 50.857552 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.362012 50.857552 32.1806 108.0
 #desc: Parc du Peterbos Blok 5 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.294297 50.843380 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.294297 50.843380 32.1806 108.0
 #desc: Parc du Peterbos Blok 1 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.293970 50.842636 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.293970 50.842636 32.1806 108.0
 #desc: Avenue de l'Heliport 35 (Generic)
 OBJECT_STATIC av_de_l_heliport.xml 4.356412 50.864624 16.7 240
 #desc: Avenue de l'Heliport 33 (Generic)
@@ -962,9 +962,9 @@ OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.351
 #desc: Louise / Claus (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_blue_light.xml 4.371333 50.816677 32.1806 108.0
 #desc: Avenue de l'Astronomie 1 (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.369968 50.849995 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.369968 50.849995 32.1806 108.0
 #desc: Astrid (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.303513 50.827991 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.303513 50.827991 32.1806 108.0
 #desc: VRT/RTBF Broadcasting Center
 OBJECT_STATIC vrt_rtbf_broadcasting_center.xml 4.403189 50.852837 77 40
 #desc: VRT/RTBF Tower
@@ -994,7 +994,7 @@ OBJECT_STATIC heliport_IV.xml 4.351219 50.859543 32.1806 108.0
 #desc: Héliport IV
 OBJECT_STATIC heliport_IV.xml 4.351981 50.860374 32.1806 108.0
 #desc: Rue Haute (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey_light.xml 4.345385 50.834732 32.1806 108.0
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.345385 50.834732 32.1806 108.0
 #desc: Square de Meeus 8 (Generic)
 OBJECT_STATIC square_de_meeus_8.xml 4.368804 50.838718 71.40 90
 #desc: Avenue Henri Dunant 17
