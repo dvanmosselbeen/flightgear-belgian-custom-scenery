@@ -32,33 +32,6 @@ OBJECT_STATIC ebfs_building_ref_018.ac 4.661814 50.241678 271 110
 OBJECT_STATIC ebfs_building_ref_023.ac 4.662447 50.242138 271 110
 OBJECT_STATIC ebfs_building_ref_024.ac 4.663370 50.242171 271 110
 
-#desc: ref 025
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.660260 50.238257 276 0
-#desc: ref 026
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.662613 50.238007 277 0
-#desc: ref 027
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.660592 50.237411 278.5 0
-#desc: ref 028
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.660239 50.236568 281.5 0
-#desc: ref 029
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.658812 50.236724 281 0
-#desc: ref 030
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.658328 50.237570 278 0
-#desc: ref 031
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.656073 50.237291 278 0
-#desc: ref 032
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.654372 50.236978 279 0
-#desc: ref 033
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.657001 50.236501 280 0
-#desc: ref 034
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.654898 50.236102 281 0
-#desc: ref 035
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.657131 50.235501 285 0
-#desc: ref 036
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.655420 50.235208 286 0
-#desc: ref 036b
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.653991 50.234521 288 0
-
 OBJECT_STATIC ebfs_building_ref_037.ac 4.662985 50.237193 278 110
 OBJECT_STATIC ebfs_building_ref_038.ac 4.662832 50.236616 278 110
 OBJECT_STATIC ebfs_building_ref_039.ac 4.663465 50.236755 278 20
@@ -78,40 +51,36 @@ OBJECT_STATIC ebfs_building_ref_052.ac 4.651181 50.234997 287.5 110
 OBJECT_STATIC ebfs_building_ref_053.ac 4.644856 50.234961 285 110
 OBJECT_STATIC ebfs_building_ref_054.ac 4.642771 50.235669 279 90
 
-#desc: ref 055
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.640531 50.235107 278 0
-#desc: ref 056
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.639315 50.235144 277 0
-#desc: ref 057
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.637008 50.234345 277.5 0
-#desc: ref 058
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.634124 50.234622 273 0
-#desc: ref 059
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.635001 50.234042 276.5 0
-#desc: ref 060
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.636087 50.233352 281 0
-#desc: ref 061
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.634730 50.233253 279 0
-
-#desc: ref 063
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.633510 50.231538 283 0
-#desc: ref 064
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.633217 50.230194 284.5 0
-#desc: ref 065
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.631657 50.230590 282 0
-#desc: ref 066
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.631754 50.229747 283 0
-#desc: ref 067
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.630190 50.229986 281 0
-#desc: ref 068
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.629004 50.229445 279.5 0
-
 OBJECT_STATIC ebfs_building_ref_069.ac 4.635468 50.231115 286 90
 OBJECT_STATIC ebfs_building_ref_070.ac 4.636098 50.230960 287 90
 OBJECT_STATIC ebfs_building_ref_071.ac 4.635576 50.230408 286.5 90
 
-#desc: ref 072
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.636765 50.229943 287.5 0
-#desc: ref 073
-OBJECT_STATIC ebfs_generic_mil_hangar.ac 4.636398 50.229147 288 0
-
+# Concrete army shelters
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.63418277 50.23472539 278.2286 313.6
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.63501808 50.23420535 278.3945 33.6
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.63701288 50.23440325 279.6708 71.6
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.63941356 50.23520643 279.4576 23.2
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.64066704 50.23519207 279.7736 322.8
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.63620869 50.23345036 280.7852 78.4
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.63478338 50.23334891 280.6066 262.4
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.63356522 50.23168171 283.1256 116.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.63330735 50.23033292 286.1612 12.4
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.63161381 50.23069365 284.3624 313.2
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.63183267 50.22981441 287.0027 291.2
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.63021907 50.23007854 285.7660 231.6
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.62898361 50.22955790 286.8455 178.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.63689095 50.23005672 288.7314 101.6
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.63661855 50.22931789 291.0933 124.8
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.65400332 50.23455724 281.7407 205.2
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.65543657 50.23530436 280.5528 328.8
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.65485610 50.23619398 279.5443 327.6
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.65433526 50.23706162 278.7019 328.4
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.65610781 50.23741804 278.2365 68.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.65712498 50.23558092 280.0498 66.8
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.65706667 50.23663575 278.8346 334.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.65840735 50.23766959 277.7106 86.4
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.65881450 50.23677107 278.4705 85.6
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.66007000 50.23663279 278.3093 272.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.66044258 50.23748451 277.4197 272.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.66009889 50.23830120 276.7969 314.0
+OBJECT_SHARED Models/Military/concrete_army_shelter.ac 4.66268546 50.23804764 276.4934 80.0
