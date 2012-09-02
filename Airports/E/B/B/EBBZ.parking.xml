@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+   <version>1</version>
+  <frequencies>
+    <AWOS>12405</AWOS>
+  </frequencies>
+  <parkingList>
+    <Parking index="0"
+             type="ga"
+             name="Parking"
+             number="1"
+             lat="N50 32.601"
+             lon="E4 22.841"
+             heading="64"
+             radius="10"
+             airlineCodes=""/>
+
+    <Parking index="1"
+             type="ga"
+             name="Parking"
+             number="2"
+             lat="N50 32.598"
+             lon="E4 22.830"
+             heading="4.65"
+             radius="10"
+             airlineCodes=""/>
+
+    <Parking index="2"
+             type="ga"
+             name="Parking"
+             number="3"
+             lat="N50 32.570"
+             lon="E4 22.815"
+             heading="2"
+             radius="10"
+             airlineCodes=""/>
+
+  </parkingList>
+</groundnet>

@@ -2,18 +2,18 @@
 <PropertyList>
   <runway>
     <threshold>
-      <lon>3.816758</lon>
-      <lat>50.457855</lat>
-      <rwy>09</rwy>
-      <hdg-deg>86.2</hdg-deg>
+      <lon>3.861437</lon>
+      <lat>50.752329</lat>
+      <rwy>03</rwy>
+      <hdg-deg>31.5</hdg-deg>
       <displ-m>0</displ-m>
       <stopw-m>0</stopw-m>
     </threshold>
     <threshold>
-      <lon>3.825040</lon>
-      <lat>50.458199</lat>
-      <rwy>27</rwy>
-      <hdg-deg>266.5</hdg-deg>
+      <lon>3.865772</lon>
+      <lat>50.756996</lat>
+      <rwy>21</rwy>
+      <hdg-deg>210.3</hdg-deg>
       <displ-m>0</displ-m>
       <stopw-m>0</stopw-m>
     </threshold>

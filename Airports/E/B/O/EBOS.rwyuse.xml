@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rwyuse> <!-- Times are in UTC -->
   <gen> <!-- General Aviation --> 
-    <wind tail="7"
+    <wind tail="152"
           cross="20"/>
     <time start="7:00"
           end  = "19:00"
           schedule = "day"/>
   </gen>
 <schedule name="day">
-  <takeoff>01</takeoff>
-  <landing>19</landing>
+  <takeoff>26</takeoff>
+  <landing>26</landing>
 </schedule>
 </rwyuse>

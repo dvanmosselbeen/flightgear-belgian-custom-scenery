@@ -2,9 +2,10 @@
 <PropertyList>
   <tower>
     <twr>
-      <lon>4.39573566</lon>
-      <lat>50.94829723</lat>
-      <elev-m>15.24</elev-m>
+      <lon>4.38587687</lon>
+      <lat>50.15152627</lat>
+      <elev-m>16</elev-m>
+      <heading>325</heading>
     </twr>
   </tower>
 </PropertyList>
