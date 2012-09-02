@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+    <path>ebav_mast_tower.ac</path>
+
+    <model>
+        <path>Models/Effects/strobe10000.xml</path> 
+        <offsets> 
+            <x-m>0</x-m>
+            <y-m>0</y-m>
+            <z-m>64</z-m>
+            <heading-deg>0</heading-deg>
+        </offsets>
+    </model>
+
+    <model>
+        <path>Models/Effects/RedLight10000.xml</path> 
+        <offsets> 
+            <x-m>0</x-m>
+            <y-m>0</y-m>
+            <z-m>65</z-m>
+            <heading-deg>0</heading-deg>
+        </offsets>
+    </model>
+
+</PropertyList>
+

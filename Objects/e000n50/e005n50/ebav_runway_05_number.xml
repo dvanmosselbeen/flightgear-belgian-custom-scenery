@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+  <path>ebav_runway_05_number.ac</path>
+
+  <animation>
+    <object-name>Plane</object-name>
+    <enable-hot type="bool">false</enable-hot>
+  </animation>
+
+</PropertyList>
