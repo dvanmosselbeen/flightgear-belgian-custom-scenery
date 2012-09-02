@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+    <path>ebbl_radar.ac</path>
+
+     <animation>
+        <type>rotate</type>
+        <object-name>Radar</object-name>
+        <property>/sim/time/elapsed-sec</property>
+        <factor>-90.0</factor>
+        <center>
+            <x-m>4</x-m>
+            <y-m>0.</y-m>
+            <z-m>12.6994</z-m>
+        </center>
+        <axis>
+            <x>0</x>
+            <y>0</y>
+            <z>1</z>
+        </axis>
+    </animation>
+
+</PropertyList>
