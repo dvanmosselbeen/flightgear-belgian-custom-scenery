@@ -1,222 +1,7 @@
 #country: be
 #submitter: David Van Mosselbeen
 
-### Heyzel
-# Atonium fix
-OBJECT_STATIC atomium.xml 4.341416 50.894894 60.39 0
-#desc: Stade Roi Baudouin
-OBJECT_STATIC stade_roi_baudouin.ac 4.333975 50.895665 60 40
-OBJECT_STATIC terrain_de_foot_generic.ac 4.331160 50.896330 57 40
-OBJECT_STATIC terrain_de_foot_generic.ac 4.330324 50.895885 56 40
-OBJECT_STATIC terrain_de_foot_generic.ac 4.338031 50.892636 47 40
-
-#desc: Palais de Centenaire
-#OBJECT_STATIC palais_du_heysel_1.ac 4.333595 50.898481 73 120
-OBJECT_STATIC palais_du_heysel_2.ac 4.336438 50.897871 73 120
-#OBJECT_STATIC palais_du_heysel_3.ac 4.334831 50.898741 73 120
-#OBJECT_STATIC palais_du_heysel_4.ac 4.335903 50.899105 73 120
-OBJECT_STATIC palais_du_heysel_5.ac 4.337091 50.899650 73.2 120
-#OBJECT_STATIC palais_du_heysel_6.ac 4.338374 50.900084 73 120
-#OBJECT_STATIC palais_du_heysel_7.ac 4.339482 50.900475 73 120
-#OBJECT_STATIC palais_du_heysel_8.ac 4.337091 50.899650 73 120
-#OBJECT_STATIC palais_du_heysel_9.ac 4.337091 50.899650 73 120
-OBJECT_STATIC palais_du_heysel_10.ac 4.339935 50.899093 73 120
-#OBJECT_STATIC palais_du_heysel_11.ac 4.340568 50.900900 73 120
-#OBJECT_STATIC palais_du_heysel_12.ac 4.342198 50.900948 73 120
-OBJECT_STATIC trade_mart.ac 4.342582 50.897659 55 90
-
-#desc: Grand Serment Royal Des Archers De St Sebastien
-OBJECT_STATIC grand_serment_royal_des_archers_de_st_sebastien.ac 4.336331 50.892787 59.41 310
-OBJECT_STATIC heysel_planetarium.ac 4.337312 50.893421 58.93 40
-#desc: Palais Royal de Laeken
-OBJECT_STATIC palais_royal_de_laeken.ac 4.360010 50.886303 52 120
-###
-
-#desc: Pont de Vilvoorde
-# Guides
-#OBJECT_STATIC guide.ac 4.429868 50.907531 43 0
-#OBJECT_STATIC guide.ac 4.429331 50.908595 43 0
-#OBJECT_STATIC guide.ac 4.428365 50.909752 43 0
-#OBJECT_STATIC guide.ac 4.427072 50.910770 43 0
-#OBJECT_STATIC guide.ac 4.425349 50.911602 43 0
-#OBJECT_STATIC guide.ac 4.423307 50.912447 43 0
-#OBJECT_STATIC guide.ac 4.421291 50.913212 43 0
-#OBJECT_STATIC guide.ac 4.419056 50.913776 43 0
-#OBJECT_STATIC guide.ac 4.416625 50.913965 43 0
-#OBJECT_STATIC guide.ac 4.413094 50.913588 43 0
-#OBJECT_STATIC guide.ac 4.410146 50.912914 43 0
-#OBJECT_STATIC guide.ac 4.407211 50.912337 43 0
-
-#desc: Mistral 
-OBJECT_STATIC mistral.xml 4.320620 50.893143 32.1806 10
-#desc: Magniolas
-OBJECT_STATIC magniolas.xml 4.322026 50.893501 32.1806 350
-#desc: Les Mouettes
-OBJECT_STATIC les_mouettes.xml 4.323442 50.892986 32.1806 350
-#desc: Résidence du Soleil
-OBJECT_STATIC residence_du_soleil.xml 4.302553 50.875038 39.04 0
-#desc: Aurore 7
-OBJECT_STATIC aurore_7.xml 4.306930 50.826721 32.1806 0
-#desc: Résidence Jupiter-Mercure
-OBJECT_STATIC residence_jupiter-mercure.xml 4.358300 50.900951 32.1806 0
-#desc: Résidence Orion-Sirius
-OBJECT_STATIC residence_orion-sirius.xml 4.358590 50.900314 32.1806 0
-#desc: Avenue Van Overbeke 247 (Generic)
-OBJECT_STATIC avenue_van_overbeke.ac 4.304527 50.877773 33 90
-#desc: Avenue Van Overbeke 245 (Generic)
-OBJECT_STATIC avenue_van_overbeke.ac 4.305149 50.876919 35.11 90
-#desc: Avenue Van Overbeke 243 (Generic)
-OBJECT_STATIC avenue_van_overbeke.ac 4.306093 50.876228 36.56 90
-#desc: LIKE Avenue Van Overbeke 243 (Generic)
-OBJECT_STATIC avenue_van_overbeke.ac 4.301919 50.877077 36.56 90
-#desc: DOUBLE-LIKE Avenue Van Overbeke 243 (Generic)
-OBJECT_STATIC avenue_van_overbeke_dl.ac 4.305944 50.878331 36.56 90
-#desc: DOUBLE-LIKE Avenue Van Overbeke 243 (Generic)
-OBJECT_STATIC avenue_van_overbeke_dl.ac 4.307312 50.878589 36.56 90
-#desc: DOUBLE-LIKE Avenue Van Overbeke 243 (Generic)
-OBJECT_STATIC avenue_van_overbeke_dl.ac 4.308973 50.877767 36.56 90
-#desc: DOUBLE-LIKE Avenue Van Overbeke 243 (Generic)
-OBJECT_STATIC avenue_van_overbeke_dl.ac 4.308226 50.877187 36.56 90
-#desc: Résidence Parc Albert 1
-OBJECT_STATIC residence_parc_albert_1.ac 4.306769 50.877586 32.1806 108.0
-#desc: Cité Modele Immeuble 3 (Generic)
-OBJECT_STATIC cite_modele_immeuble.xml 4.323421 50.895161 69.81 0
-#desc: Cité Modele Immeuble 2 (Generic)
-OBJECT_STATIC cite_modele_immeuble.xml 4.323581 50.896034 71.80 0
-#desc: Cité Modele Immeuble 1 (Generic)
-OBJECT_STATIC cite_modele_immeuble.xml 4.324898 50.895733 67.09 0
-#desc: Socrate-Platon (Generic)
-OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.353483 50.899231 32.1806 108.0
-#desc: Rue de Bon Pasteur 55
-OBJECT_STATIC rue_de_bon_pasteur_55.xml 4.401881 50.879890 32.1806 108.0
-#desc: Solvin Headquarters
-OBJECT_STATIC solvin_headquarters.xml 4.399348 50.902931 35.5 0
-
-### Some generic stuff here and there
-# A few firetrucs at the caserne (Disabled, as it texture contains useless alpha)
-#OBJECT_SHARED Models/Airport/fire-truck.xml 4.48460208 50.91055221 28.1387 0.0
-#OBJECT_SHARED Models/Airport/fire-truck.xml 4.48426304 50.91062823 28.0602 32.0
-#OBJECT_SHARED Models/Airport/fire-truck.xml 4.48424108 50.91058252 28.0647 32.0
-#OBJECT_SHARED Models/Airport/fire-truck.xml 4.48395443 50.91046082 28.2158 28.0
-# A few tankers
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.492805 50.906306 32.9 180
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.492906 50.906328 32.9 180
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493117 50.906399 32.8 180
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493208 50.906417 32.9 180
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493575 50.906514 32.8 180
-
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493675 50.906538 32.9 180
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493848 50.906589 32.9 180
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493964 50.906627 32.8 180
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.494047 50.906642 32.9 180
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.494165 50.906675 32.8 180
-
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493310 50.905800 33.5 45
-
-### Helipads
-OBJECT_SHARED Models/Airport/helipad_circle.xml 4.49569 50.914913 24.7 300
-OBJECT_SHARED Models/Airport/helipad_circle.xml 4.495263 50.914746 24.7 300
-OBJECT_SHARED Models/Airport/helipad_circle.xml 4.495002 50.914656 24.6 300
-OBJECT_SHARED Models/Airport/helipad_circle.xml 4.494723 50.914541 24.75 300
-#desc: Heli trolley
-OBJECT_STATIC heli_trolley.ac 4.495198 50.914039 25 210
-
-OBJECT_SHARED Models/Airport/helipad_circle.xml 4.48002932 50.90867336 31.5247 300.0
-
-##############################################################################
-### Generic aircrafts parked at Terminal 2
-#OBJECT_SHARED Models/Aircraft/737virgin.xml 4.48895768 50.90401473 35.3143 28.0
-#OBJECT_SHARED Models/Aircraft/737virgin.xml 4.48828102 50.90375499 35.2533 32.0
-#OBJECT_SHARED Models/Aircraft/A320_services-ba.ac 4.48664963 50.90332334 35.7527 120.0
-
-OBJECT_SHARED Models/Aircraft/HH-60-lowpoly.xml 4.497533 50.914780 24.7 30
-OBJECT_SHARED Models/Aircraft/superfrelon.xml 4.496960 50.914595 24.7 30
-OBJECT_SHARED Models/Aircraft/c130-herc-obj1.xml 4.495759 50.914224 24.7 30
-OBJECT_SHARED Models/Aircraft/B1900_services.xml 4.490278 50.912474 26.4 300.0
-
-# DHL Fleet (Replaced by Brussels Airlines which doesn't contain useless alpha)
-OBJECT_STATIC 737-300.xml 4.475320 50.898480 38 300.0
-OBJECT_STATIC 737-300.xml 4.473844 50.898118 38 300.0
-# Fedex (Replaced by Brussels Airlines which doesn't contain useless alpha)
-OBJECT_STATIC 737-300.xml 4.461246 50.903758 32.5 25
-OBJECT_STATIC 737-300.xml 4.458961 50.903145 32.5 25
-
-# Airfrance
-OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 4.489128 50.901233 40 220
-OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 4.487607 50.899405 40.2 25
-# Cessna 172 (Disabled, as it texture contains useless alpha)
-#OBJECT_SHARED Models/Aircraft/Cessna172.xml 4.465431 50.897280 36 120
-
-# Brussels Airlines static aircraft
-OBJECT_STATIC 737-300.xml 4.489470679894751 50.9051802316264 33.87 200
-OBJECT_STATIC 737-300.xml 4.483648777940954 50.9034660216108 34.91 200
-OBJECT_STATIC 737-300.xml 4.485885408372182 50.90411987730768 34.57 200
-OBJECT_STATIC 737-300.xml 4.481970490755931 50.90298295299171 35.13 200
-OBJECT_STATIC 737-300.xml 4.48059797 50.90250893 35.45 200
-
-OBJECT_STATIC 737-300.xml 4.490429293172202 50.90403444350049 35.06 30
-OBJECT_STATIC 737-300.xml 4.489179269695173 50.90366430780875 35.45 30
-OBJECT_STATIC 737-300.xml 4.48445036 50.90233755 36.2 30
-OBJECT_STATIC 737-300.xml 4.48379642 50.90219480 36.23 30
-OBJECT_STATIC 737-300.xml 4.48262733 50.90191816 36.30 30
-OBJECT_STATIC 737-300.xml 4.486526324983741 50.90054616769213 38.35 200
-OBJECT_STATIC 737-300.xml 4.490802487953988 50.90045037332471 39.26 30
-OBJECT_STATIC 737-300.xml 4.489741398872494 50.90012901952235 39.45 30
-OBJECT_STATIC 737-300.xml 4.486035510845769 50.8990736946663 39.81 30
-OBJECT_STATIC 737-300.xml 4.490014133228023 50.8977422248998 42.03 30
-OBJECT_STATIC 737-300.xml 4.478746322844881 50.8919454897807 42.67 200
-OBJECT_STATIC 737-300.xml 4.46838617 50.90612212 31.44 3
-##############################################################################
-
-### Refueling location
-# Airport big lights
-OBJECT_STATIC ebbr_apron_9_light.xml 4.492613 50.905923 33.048 0
-# Aiport road lights
-OBJECT_STATIC ebbr_road_light.xml 4.492308 50.906372 26.4 90
-OBJECT_STATIC ebbr_road_light.xml 4.492768 50.906518 26.4 90
-OBJECT_STATIC ebbr_road_light.xml 4.493311 50.906672 26.4 90
-OBJECT_STATIC ebbr_road_light.xml 4.493777 50.906810 26.4 90
-OBJECT_STATIC ebbr_road_light.xml 4.494195 50.906927 26.4 90
-OBJECT_STATIC ebbr_road_light.xml 4.494628 50.907055 26.4 90
-OBJECT_STATIC ebbr_road_light.xml 4.495011 50.907166 26.4 90
-OBJECT_STATIC ebbr_road_light.xml 4.494917 50.906946 26.4 0
-OBJECT_STATIC ebbr_road_light.xml 4.494586 50.906714 26.4 0
-OBJECT_STATIC ebbr_road_light.xml 4.494681 50.906530 26.4 0
-OBJECT_STATIC ebbr_road_light.xml 4.494620 50.906343 26.4 0
-OBJECT_STATIC ebbr_road_light.xml 4.494369 50.906271 26.4 0
-OBJECT_STATIC ebbr_road_light.xml 4.494325 50.906427 26.4 0
-
-## Apron 1 Airport big lights
-#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.490588 50.905099 26.4 290
-#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.489326 50.904735 26.4 290
-#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.488289 50.904418 26.4 290
-#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.486857 50.904066 26.4 290
-#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.485768 50.903718 26.4 290
-#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.484635 50.903361 26.4 290
-#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.483530 50.903050 26.4 290
-#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.482331 50.902733 26.4 290
-#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.481222 50.902427 26.4 290
-
-## Apron 9 Big lights
-OBJECT_STATIC ebbr_apron_9_light.xml 4.450929 50.901249 26.4 115
-OBJECT_STATIC ebbr_apron_9_light.xml 4.451911 50.901536 26.4 115
-OBJECT_STATIC ebbr_apron_9_light.xml 4.452867 50.901816 26.4 115
-OBJECT_STATIC ebbr_apron_9_light.xml 4.453872 50.902096 26.4 115
-OBJECT_STATIC ebbr_apron_9_light.xml 4.454842 50.902380 26.4 115
-OBJECT_STATIC ebbr_apron_9_light.xml 4.455752 50.902647 26.4 115
-OBJECT_STATIC ebbr_apron_9_light.xml 4.456650 50.902908 26.4 115
-OBJECT_STATIC ebbr_apron_9_light.xml 4.457620 50.903189 26.4 115
-OBJECT_STATIC ebbr_apron_9_light.xml 4.458246 50.903713 26.4 115
-OBJECT_STATIC ebbr_apron_9_light.xml 4.459701 50.904133 26.4 115
-OBJECT_STATIC ebbr_apron_9_light.xml 4.460794 50.904449 26.4 115
-
-#desc: Rotonde
-OBJECT_STATIC ebbr_building_ref_037.xml 4.487720 50.894814 44.3243 -150.0
-OBJECT_STATIC old_control_tower.ac 4.485552 50.897063 41 207
-
-##############################################################################
-## EBGB airport
-##############################################################################
+### EBGB airport ############################################################
 OBJECT_STATIC ebgb_control_tower.xml 4.395874 50.948297 16.15 0
 OBJECT_STATIC ebgb_building_ref_001.xml 4.395328 50.945498 16.82 0
 OBJECT_STATIC ebgb_building_ref_002.xml 4.395474 50.946169 16.5 90
@@ -226,27 +11,24 @@ OBJECT_STATIC ebgb_building_ref_004.xml 4.393997 50.945847 17.26 0
 OBJECT_STATIC ebgb_building_ref_004.xml 4.394115 50.944947 17 0
 # Aircraft in round hangar
 OBJECT_SHARED Models/Aircraft/Cessna172.xml 4.39419765 50.94588175 17.39 300
-# General Signals square
 OBJECT_STATIC general_signals_square.xml 4.395215 50.9483425847 16.4 270
 OBJECT_STATIC ebgb_fuel_pump.xml 4.394280 50.948565 16.1 0
-OBJECT_STATIC ebgb_building_ref_008.xml 4.390769 50.943290 17.56 15
-OBJECT_STATIC ebgb_building_ref_009.xml 4.391282 50.943483 17.45 285
+OBJECT_STATIC ebgb_building_ref_008.xml 4.39080092 50.94328965 18.1138 20.8 0.0 -0.0
+OBJECT_STATIC ebgb_building_ref_009.xml 4.39130890 50.94350419 18.2129 289.2 0.0 -0.0
 OBJECT_STATIC ebgb_building_ref_010.xml 4.393325 50.943873 17 105
 OBJECT_STATIC ebgb_building_ref_011.xml 4.393473 50.944015 17 15
-OBJECT_STATIC ebgb_building_ref_012.xml 4.393655 50.944383 17.59 0
-OBJECT_STATIC ebgb_building_ref_013.xml 4.395111 50.944900 17 0
+OBJECT_STATIC ebgb_building_ref_012.xml 4.39365323 50.94438670 17.8268 8.0 0.0 -0.0
+OBJECT_STATIC ebgb_building_ref_013.xml 4.39512296 50.94490199 17.0674 2.4 0.0 -0.0
 OBJECT_STATIC ebgb_building_ref_014.xml 4.396044 50.948147 16.155 270
 OBJECT_STATIC ebgb_building_ref_015.xml 4.396135 50.948388 16 270
 OBJECT_STATIC ebgb_building_ref_016.xml 4.396089 50.948853 16.23 90
-OBJECT_STATIC ebgb_trash_collecting_wall.xml 4.394763 50.946232 17 0
+OBJECT_STATIC ebgb_trash_collecting_wall.xml 4.39483602 50.94623834 16.7480 4.0 0.0 -0.0
 OBJECT_STATIC ebgb_bar.xml 4.395537 50.947988 16.420 270
-
 OBJECT_STATIC electric_barrier.xml 4.394832 50.948494 16 0
 OBJECT_STATIC ebgb_fence_a.xml 4.394818 50.948412 16.36 1
-OBJECT_STATIC ebgb_fence_b.xml 4.394664 50.948582 16.23 0
+OBJECT_STATIC ebgb_fence_b.xml 4.39465878 50.94857989 16.1484 2.4 0.0 -0.0
 OBJECT_STATIC ebgb_fence_d.xml 4.394654 50.948899 15.95 0
-
-# EBGB Apron Lights
+# Apron Lights
 OBJECT_STATIC ebgb_apron_light.xml 4.394829 50.947222 16.5 90
 OBJECT_STATIC ebgb_apron_light.xml 4.394826 50.947480 16.5 90
 OBJECT_STATIC ebgb_apron_light.xml 4.394815 50.947741 16.5 90
@@ -277,15 +59,12 @@ OBJECT_STATIC streetlight_yellow_pillar.xml 4.396858 50.946308 16.5 0
 OBJECT_STATIC streetlight_yellow_pillar.xml 4.396975 50.946020 16.5 0
 OBJECT_STATIC streetlight_yellow_pillar.xml 4.397096 50.945746 16.5 0
 OBJECT_STATIC streetlight_yellow_pillar.xml 4.397220 50.945518 16.5 0
-
-# EBGB entry doors
+# Entry doors
 OBJECT_STATIC ebgb_entry_doors.ac 4.394812 50.948459 16.5 1
 OBJECT_STATIC ebgb_entry_doors.ac 4.394655 50.948716 16.5 0
 OBJECT_STATIC ebgb_entry_doors.ac 4.396216 50.948776 16.5 0
-
 # Flags pillars
 OBJECT_STATIC ebgb_flags_pillars.ac 4.395353 50.948624 16.5 180
-
 # Parked cars at EBGB
 OBJECT_SHARED Models/Transport/hatchback_red.ac 4.395761 50.948859 16.25 0
 OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.395627 50.948875 16.25 0
@@ -293,19 +72,16 @@ OBJECT_SHARED Models/Transport/hummerh2.xml 4.395287 50.948887 16.5 90
 OBJECT_SHARED Models/Transport/hatchback_red.ac 4.395842 50.948420 16.20 90
 OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.395789 50.948211 16.25 0
 OBJECT_SHARED Models/Transport/hummerh2.xml 4.395636 50.948109 16.5 0
-
 # Decor
 OBJECT_SHARED Models/Boundaries/Hedge-10m.xml 4.396029 50.948007 15.95 90
 OBJECT_SHARED Models/Boundaries/Hedge-10m.xml 4.395848 50.948005 15.95 90
 OBJECT_SHARED Models/Boundaries/Hedge-50m.xml 4.395846 50.947439  15.95 90
 OBJECT_SHARED Models/Boundaries/Hedge-10m.xml 4.395472 50.947367 15.95 0
-
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395412 50.947817 15.95 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395567 50.947831 15.95 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395424 50.947728 15.95 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395428 50.947634 15.95 0
 OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395939 50.947143 15.95 0
-
 # Containsers
 OBJECT_STATIC ship_container_standard_20_red.xml 4.395368 50.946962 16.5 0
 OBJECT_STATIC ship_container_standard_20_blue.xml 4.395293 50.946957 16.5 0
@@ -321,7 +97,6 @@ OBJECT_STATIC ship_container_standard_20_red.xml 4.396605 50.946093 16.5 0
 OBJECT_STATIC ship_container_standard_20_green.xml 4.396629 50.94607 16.5 0
 OBJECT_STATIC ship_container_standard_20_green.xml 4.39649 50.945593 16.5 0
 OBJECT_STATIC ship_container_standard_20_red.xml 4.396227 50.945481 16.5 0
-
 # Trees on the right side of the main entrance
 OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395207 50.948962 15.95 0
 OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395221 50.949051 15.95 0
@@ -331,43 +106,209 @@ OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395231 50.949134 15.95 0
 OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395256 50.949234 15.95 0
 OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395271 50.949320 15.95 0
 OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.395283 50.949393 15.95 0
-
-# A few static decor aircrafts
-OBJECT_SHARED Models/Aircraft/Cessna150.xml 4.393570 50.945213 17.8 50
-OBJECT_SHARED Models/Aircraft/Cessna172.xml 4.393908 50.945332 17.6 15
-OBJECT_SHARED Models/Aircraft/D112.xml 4.390349 50.943191 18 90
-OBJECT_SHARED Models/Aircraft/D112.xml 4.390273 50.943301 17.95 90
-OBJECT_SHARED Models/Aircraft/Cessna150.xml 4.394384 50.946604 17.4 270
-OBJECT_SHARED Models/Aircraft/DR221.xml 4.394361 50.946838 17.2 270
-OBJECT_SHARED Models/Aircraft/DR400.xml 4.394391 50.947027 17 270
-OBJECT_SHARED Models/Aircraft/HR200.xml 4.394421 50.947232 17 270
-OBJECT_SHARED Models/Aircraft/MS880_rallye.xml 4.394564 50.944718 17.3 250
-OBJECT_SHARED Models/Aircraft/R3000.xml 4.393630 50.944736 17.8 145
-
 #desc: football field near the EBGB airport
 #OBJECT_STATIC terrain_de_foot_generic.ac 4.392568 50.943557 16.2 101
+# A few static decor aircrafts
+OBJECT_SHARED Models/Aircraft/DR400.xml 4.39434011 50.94830236 17.0009 272.4 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/D112.xml 4.39434945 50.94806214 17.0128 267.6 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/Cessna172.xml 4.39435642 50.94777999 16.4869 268.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/Cessna150.xml 4.39425215 50.94612442 17.0584 316.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/DR400.xml 4.39433885 50.94750122 16.5789 268.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/Cessna150.xml 4.39433175 50.94723789 17.9938 268.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/DR400.xml 4.39046905 50.94312896 18.0907 108.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/DR400.xml 4.39042205 50.94322810 18.1169 104.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/DR400.xml 4.39038257 50.94332423 18.0874 104.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/DR400.xml 4.39487697 50.94499252 17.1840 344.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/Cessna150.xml 4.39375117 50.94517709 17.5735 100.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/D112.xml 4.39436997 50.94603016 17.0109 259.6 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/D112.xml 4.39117292 50.94361761 18.2106 99.6 0.0 -0.0
+### END EBGB ################################################################
 
-##############################################################################
+### EBBR (Some part of it, see 3023674.stg) #################################
+# A few tankers
+OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.492805 50.906306 32.9 180
+OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.492906 50.906328 32.9 180
+OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493117 50.906399 32.8 180
+OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493208 50.906417 32.9 180
+OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493575 50.906514 32.8 180
+OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493675 50.906538 32.9 180
+OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493848 50.906589 32.9 180
+OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493964 50.906627 32.8 180
+OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.494047 50.906642 32.9 180
+OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.494165 50.906675 32.8 180
+OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493310 50.905800 33.5 45
+# Helipads
+OBJECT_SHARED Models/Airport/helipad_circle.xml 4.49569 50.914913 24.7 300
+OBJECT_SHARED Models/Airport/helipad_circle.xml 4.495263 50.914746 24.7 300
+OBJECT_SHARED Models/Airport/helipad_circle.xml 4.495002 50.914656 24.6 300
+OBJECT_SHARED Models/Airport/helipad_circle.xml 4.494723 50.914541 24.75 300
+OBJECT_STATIC heli_trolley.ac 4.495198 50.914039 25 210
+OBJECT_SHARED Models/Airport/helipad_circle.xml 4.48002932 50.90867336 31.5247 300.0
+# Generic aircrafts parked at Terminal 2
+OBJECT_SHARED Models/Aircraft/HH-60-lowpoly.xml 4.497533 50.914780 24.7 30
+OBJECT_SHARED Models/Aircraft/superfrelon.xml 4.496960 50.914595 24.7 30
+OBJECT_SHARED Models/Aircraft/c130-herc-obj1.xml 4.495759 50.914224 24.7 30
+OBJECT_SHARED Models/Aircraft/B1900_services.xml 4.490278 50.912474 26.4 300.0
+# AirFrance
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 4.489128 50.901233 40 220
+OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 4.487607 50.899405 40.2 25
+# Brussels Airlines static aircraft
+OBJECT_STATIC 737-300.xml 4.475320 50.898480 38 300.0
+OBJECT_STATIC 737-300.xml 4.473844 50.898118 38 300.0
+OBJECT_STATIC 737-300.xml 4.461246 50.903758 32.5 25
+OBJECT_STATIC 737-300.xml 4.458961 50.903145 32.5 25
+OBJECT_STATIC 737-300.xml 4.489470679894751 50.9051802316264 33.87 200
+OBJECT_STATIC 737-300.xml 4.483648777940954 50.9034660216108 34.91 200
+OBJECT_STATIC 737-300.xml 4.485885408372182 50.90411987730768 34.57 200
+OBJECT_STATIC 737-300.xml 4.481970490755931 50.90298295299171 35.13 200
+OBJECT_STATIC 737-300.xml 4.48059797 50.90250893 35.45 200
+OBJECT_STATIC 737-300.xml 4.490429293172202 50.90403444350049 35.06 30
+OBJECT_STATIC 737-300.xml 4.489179269695173 50.90366430780875 35.45 30
+OBJECT_STATIC 737-300.xml 4.48445036 50.90233755 36.2 30
+OBJECT_STATIC 737-300.xml 4.48379642 50.90219480 36.23 30
+OBJECT_STATIC 737-300.xml 4.48262733 50.90191816 36.30 30
+OBJECT_STATIC 737-300.xml 4.486526324983741 50.90054616769213 38.35 200
+OBJECT_STATIC 737-300.xml 4.490802487953988 50.90045037332471 39.26 30
+OBJECT_STATIC 737-300.xml 4.489741398872494 50.90012901952235 39.45 30
+OBJECT_STATIC 737-300.xml 4.486035510845769 50.8990736946663 39.81 30
+OBJECT_STATIC 737-300.xml 4.490014133228023 50.8977422248998 42.03 30
+OBJECT_STATIC 737-300.xml 4.478746322844881 50.8919454897807 42.67 200
+OBJECT_STATIC 737-300.xml 4.46838617 50.90612212 31.44 3
+## Refueling location
+# Airport big lights
+OBJECT_STATIC ebbr_apron_9_light.xml 4.492613 50.905923 33.048 0
+# Aiport road lights
+OBJECT_STATIC ebbr_road_light.xml 4.492308 50.906372 26.4 90
+OBJECT_STATIC ebbr_road_light.xml 4.492768 50.906518 26.4 90
+OBJECT_STATIC ebbr_road_light.xml 4.493311 50.906672 26.4 90
+OBJECT_STATIC ebbr_road_light.xml 4.493777 50.906810 26.4 90
+OBJECT_STATIC ebbr_road_light.xml 4.494195 50.906927 26.4 90
+OBJECT_STATIC ebbr_road_light.xml 4.494628 50.907055 26.4 90
+OBJECT_STATIC ebbr_road_light.xml 4.495011 50.907166 26.4 90
+OBJECT_STATIC ebbr_road_light.xml 4.494917 50.906946 26.4 0
+OBJECT_STATIC ebbr_road_light.xml 4.494586 50.906714 26.4 0
+OBJECT_STATIC ebbr_road_light.xml 4.494681 50.906530 26.4 0
+OBJECT_STATIC ebbr_road_light.xml 4.494620 50.906343 26.4 0
+OBJECT_STATIC ebbr_road_light.xml 4.494369 50.906271 26.4 0
+OBJECT_STATIC ebbr_road_light.xml 4.494325 50.906427 26.4 0
+## Apron 1 Airport big lights
+#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.490588 50.905099 26.4 290
+#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.489326 50.904735 26.4 290
+#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.488289 50.904418 26.4 290
+#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.486857 50.904066 26.4 290
+#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.485768 50.903718 26.4 290
+#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.484635 50.903361 26.4 290
+#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.483530 50.903050 26.4 290
+#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.482331 50.902733 26.4 290
+#OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.481222 50.902427 26.4 290
+# Apron 9 Big lights
+OBJECT_STATIC ebbr_apron_9_light.xml 4.450929 50.901249 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.451911 50.901536 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.452867 50.901816 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.453872 50.902096 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.454842 50.902380 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.455752 50.902647 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.456650 50.902908 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.457620 50.903189 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.458246 50.903713 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.459701 50.904133 26.4 115
+OBJECT_STATIC ebbr_apron_9_light.xml 4.460794 50.904449 26.4 115
+#desc: Rotonde
+OBJECT_STATIC ebbr_building_ref_037.xml 4.487720 50.894814 44.3243 -150.0
+OBJECT_STATIC old_control_tower.ac 4.485552 50.897063 41 207
+### END EBBR ################################################################
 
-# Wind turbines
-OBJECT_SHARED Models/Power/windturbine.xml 4.371777 50.996787 10 90
-OBJECT_SHARED Models/Power/windturbine.xml 4.373179 50.995555 10 90
-OBJECT_SHARED Models/Power/windturbine.xml 4.374515 50.994373 10 90
+### BRUSSELS LANDMARKS ######################################################
+## Heyzel
+# Atonium fix
+OBJECT_STATIC atomium.xml 4.341416 50.894894 60.39 0
+#desc: Stade Roi Baudouin
+OBJECT_STATIC stade_roi_baudouin.ac 4.333975 50.895665 60 40
+OBJECT_STATIC terrain_de_foot_generic.ac 4.331160 50.896330 57 40
+OBJECT_STATIC terrain_de_foot_generic.ac 4.330324 50.895885 56 40
+OBJECT_STATIC terrain_de_foot_generic.ac 4.338031 50.892636 47 40
+#desc: Palais de Centenaire
+#OBJECT_STATIC palais_du_heysel_1.ac 4.333595 50.898481 73 120
+OBJECT_STATIC palais_du_heysel_2.ac 4.336438 50.897871 73 120
+#OBJECT_STATIC palais_du_heysel_3.ac 4.334831 50.898741 73 120
+#OBJECT_STATIC palais_du_heysel_4.ac 4.335903 50.899105 73 120
+OBJECT_STATIC palais_du_heysel_5.ac 4.337091 50.899650 73.2 120
+#OBJECT_STATIC palais_du_heysel_6.ac 4.338374 50.900084 73 120
+#OBJECT_STATIC palais_du_heysel_7.ac 4.339482 50.900475 73 120
+#OBJECT_STATIC palais_du_heysel_8.ac 4.337091 50.899650 73 120
+#OBJECT_STATIC palais_du_heysel_9.ac 4.337091 50.899650 73 120
+OBJECT_STATIC palais_du_heysel_10.ac 4.339935 50.899093 73 120
+#OBJECT_STATIC palais_du_heysel_11.ac 4.340568 50.900900 73 120
+#OBJECT_STATIC palais_du_heysel_12.ac 4.342198 50.900948 73 120
+OBJECT_STATIC trade_mart.ac 4.342582 50.897659 55 90
+#desc: Grand Serment Royal Des Archers De St Sebastien
+OBJECT_STATIC grand_serment_royal_des_archers_de_st_sebastien.ac 4.336331 50.892787 59.41 310
+OBJECT_STATIC heysel_planetarium.ac 4.337312 50.893421 58.93 40
+#desc: Palais Royal de Laeken
+OBJECT_STATIC palais_royal_de_laeken.ac 4.360010 50.886303 52 120
+#desc: Mistral 
+OBJECT_STATIC mistral.xml 4.320620 50.893143 32.1806 10
+#desc: Magniolas
+OBJECT_STATIC magniolas.xml 4.322026 50.893501 32.1806 350
+#desc: Les Mouettes
+OBJECT_STATIC les_mouettes.xml 4.323442 50.892986 32.1806 350
+#desc: Residence du Soleil
+OBJECT_STATIC residence_du_soleil.xml 4.302553 50.875038 39.04 0
+#desc: Aurore 7
+OBJECT_STATIC aurore_7.xml 4.306930 50.826721 32.1806 0
+#desc: Residence Jupiter-Mercure
+OBJECT_STATIC residence_jupiter-mercure.xml 4.358300 50.900951 32.1806 0
+#desc: Residence Orion-Sirius
+OBJECT_STATIC residence_orion-sirius.xml 4.358590 50.900314 32.1806 0
+#desc: Avenue Van Overbeke 247 (Generic)
+OBJECT_STATIC avenue_van_overbeke.ac 4.304527 50.877773 33 90
+#desc: Avenue Van Overbeke 245 (Generic)
+OBJECT_STATIC avenue_van_overbeke.ac 4.305149 50.876919 35.11 90
+#desc: Avenue Van Overbeke 243 (Generic)
+OBJECT_STATIC avenue_van_overbeke.ac 4.306093 50.876228 36.56 90
+#desc: LIKE Avenue Van Overbeke 243 (Generic)
+OBJECT_STATIC avenue_van_overbeke.ac 4.301919 50.877077 36.56 90
+#desc: DOUBLE-LIKE Avenue Van Overbeke 243 (Generic)
+OBJECT_STATIC avenue_van_overbeke_dl.ac 4.305944 50.878331 36.56 90
+#desc: DOUBLE-LIKE Avenue Van Overbeke 243 (Generic)
+OBJECT_STATIC avenue_van_overbeke_dl.ac 4.307312 50.878589 36.56 90
+#desc: DOUBLE-LIKE Avenue Van Overbeke 243 (Generic)
+OBJECT_STATIC avenue_van_overbeke_dl.ac 4.308973 50.877767 36.56 90
+#desc: DOUBLE-LIKE Avenue Van Overbeke 243 (Generic)
+OBJECT_STATIC avenue_van_overbeke_dl.ac 4.308226 50.877187 36.56 90
+#desc: Residence Parc Albert 1
+OBJECT_STATIC residence_parc_albert_1.ac 4.306769 50.877586 32.1806 108.0
+#desc: Cite Modele Immeuble 3 (Generic)
+OBJECT_STATIC cite_modele_immeuble.xml 4.323421 50.895161 69.81 0
+#desc: Cite Modele Immeuble 2 (Generic)
+OBJECT_STATIC cite_modele_immeuble.xml 4.323581 50.896034 71.80 0
+#desc: Cite Modele Immeuble 1 (Generic)
+OBJECT_STATIC cite_modele_immeuble.xml 4.324898 50.895733 67.09 0
+#desc: Socrate-Platon (Generic)
+OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.353483 50.899231 32.1806 108.0
+#desc: Rue de Bon Pasteur 55
+OBJECT_STATIC rue_de_bon_pasteur_55.xml 4.401881 50.879890 32.1806 108.0
+#desc: Solvin Headquarters
+OBJECT_STATIC solvin_headquarters.xml 4.399348 50.902931 35.5 0
+#desc: Stib A
+OBJECT_STATIC stib_haren.xml 4.415047 50.885138 39 0
+#desc: Stib B
+OBJECT_STATIC stib_haren.xml 4.414081 50.884067 39 0
+#desc: Stib C
+OBJECT_STATIC stib_haren.xml 4.413152 50.883070 39 0
+# Terrains de foot
+OBJECT_STATIC terrain_de_foot_generic.ac 4.398705 50.880428 32 0
+OBJECT_STATIC terrain_de_foot_generic.ac 4.400847 50.880917 32 0
+OBJECT_STATIC terrain_de_foot_generic.ac 4.421254 50.891852 34 0
+OBJECT_STATIC terrain_de_foot_generic.ac 4.433574 50.890286 42 0
 
-# Some bridge
-OBJECT_STATIC ebgb_verbrandebrug.ac 4.413391 50.947783 17 115
-
-##############################################################################
-### Vilvoorde Industrie
-#desc: Power cooling towers
+## Vilvoorde Industrie
 OBJECT_SHARED Models/Power/coolingtower.xml 4.426587 50.941477 20.1806 108.0
 OBJECT_SHARED Models/Power/coolingtower.xml 4.427885 50.941842 20.1806 108.0
-
 OBJECT_SHARED Models/Industrial/WaterWorks40m.xml 4.419708 50.948292 12 0
 OBJECT_SHARED Models/Industrial/WaterWorks40m.xml 4.420252 50.948432 12 0
 OBJECT_SHARED Models/Industrial/WaterWorks40m.xml 4.420710 50.948819 12 0
 OBJECT_SHARED Models/Industrial/WaterWorks40m.xml 4.420628 50.949202 12 0
-
 OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 4.413747 50.950890 12 15
 OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 4.416525 50.947229 12 15
 OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 4.424267 50.946737 12 90
@@ -379,37 +320,24 @@ OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 4.419097 50.937721 12 165
 OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 4.421009 50.935213 12 0
 OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 4.425488 50.938394 12 0
 OBJECT_SHARED Models/Industrial/Zone_Indus_petit.xml 4.421096 50.941829 12 80
-
 OBJECT_SHARED Models/Industrial/ContainerCrane.xml 4.421819 50.945404 12 90
-
-##############################################################################
-
+# Wind turbines
+OBJECT_SHARED Models/Power/windturbine.xml 4.371777 50.996787 10 90
+OBJECT_SHARED Models/Power/windturbine.xml 4.373179 50.995555 10 90
+OBJECT_SHARED Models/Power/windturbine.xml 4.374515 50.994373 10 90
+# Some bridge
+OBJECT_STATIC ebgb_verbrandebrug.ac 4.413391 50.947783 17 115
 # Total fuel stockage
 OBJECT_STATIC ebgb_total_reserve.xml 4.405266 50.905030 23 0
 
-#desc: Stib A
-OBJECT_STATIC stib_haren.xml 4.415047 50.885138 39 0
-#desc: Stib B
-OBJECT_STATIC stib_haren.xml 4.414081 50.884067 39 0
-#desc: Stib C
-OBJECT_STATIC stib_haren.xml 4.413152 50.883070 39 0
-
-###
-#Terrains de foot
-###
-OBJECT_STATIC terrain_de_foot_generic.ac 4.398705 50.880428 32 0
-OBJECT_STATIC terrain_de_foot_generic.ac 4.400847 50.880917 32 0
-OBJECT_STATIC terrain_de_foot_generic.ac 4.421254 50.891852 34 0
-OBJECT_STATIC terrain_de_foot_generic.ac 4.433574 50.890286 42 0
-
+## Landmarks and decor around EBGB (Grimbergen)
 #desc: Sint-Servaas Basiliek te Grimbergen
 OBJECT_STATIC sint-servaasbasiliek_van_grimbergen.ac 4.371329 50.933457 32 0
+OBJECT_STATIC 4rijhuizen.ac 4.396213 50.947574 16.091 180
 #desc: Water tower at Grimbergen
 OBJECT_SHARED Models/Industrial/water-tower.ac 4.374900 50.934206 26 0
-
-#desc: A few generic farms around EBGB
+# A few generic farms around EBGB
 OBJECT_STATIC house_airfield.xml 4.396142 50.947890 16.103 180
-
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.389095 50.953339 18.404 0
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.389385 50.953504 18.288 0
 OBJECT_SHARED Models/Agriculture/farmhouse2.ac 4.388122 50.953169 18.685 0
@@ -438,9 +366,6 @@ OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.397167 50.945129 15.679 0
 OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.39699 50.946099 15.730 0
 OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.39865 50.945985 15.326 0
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.400001 50.945825 15.045 0
-#OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.396213 50.947574 16.091 0
-OBJECT_STATIC 4rijhuizen.ac 4.396213 50.947574 16.091 180
-
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.396547 50.947777 15.868 0
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.39646 50.948016 15.931 0
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.396459 50.94823 16.037 0
@@ -465,242 +390,5 @@ OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.39215 50.953896 17.156 0
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.391516 50.953754 17.562 0
 OBJECT_SHARED Models/Agriculture/farmhouse3.ac 4.390929 50.953691 17.867 0
 
-#desc: Trees at Domein Groenveld te Grimbergen
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.401586 50.970525 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.401905 50.970648 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.402197 50.970765 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.401819 50.97025 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.402165 50.970365 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.402435 50.970471 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.402063 50.970054 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.402387 50.970141 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.402717 50.970208 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.402333 50.969766 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.402662 50.96984 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.402966 50.969911 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.402518 50.969448 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.402889 50.969483 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.403208 50.969581 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.402815 50.969069 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.403199 50.969159 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.403561 50.969206 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.403009 50.968808 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.403416 50.968863 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.403804 50.968902 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.403312 50.968436 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.403755 50.968472 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.404194 50.968489 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.403752 50.967917 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.40415 50.968066 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.404483 50.968198 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.404819 50.968289 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.404627 50.968559 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.404317 50.968944 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.403955 50.969301 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.403689 50.969608 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.4034 50.970005 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.403843 50.970092 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.40421 50.969726 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.404457 50.969341 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.404745 50.969027 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.405002 50.968745 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.405228 50.96846 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.405646 50.968612 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.405361 50.968866 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.405064 50.969118 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.40477 50.969398 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.404623 50.969807 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.404192 50.970247 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.404664 50.970396 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.40502 50.969965 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.40533 50.969568 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.405523 50.969242 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.405772 50.969003 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.40614 50.96879 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.406581 50.968993 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.40632 50.969244 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.405977 50.969535 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.405655 50.969801 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.405377 50.970113 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.405048 50.970549 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.405654 50.970783 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.406347 50.971069 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.405893 50.970308 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.406659 50.970539 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.406194 50.969948 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.406934 50.970133 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.406534 50.969617 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.407233 50.969774 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.406765 50.969338 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.40706 50.969167 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.407474 50.969433 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.40766 50.968887 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.407967 50.968429 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.408231 50.96794 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.408606 50.967364 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.408915 50.966922 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.40921 50.966455 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.40815 50.966268 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.407478 50.966161 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.40638 50.965944 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.406634 50.965632 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.407603 50.965753 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.408207 50.965967 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.409154 50.96619 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.407134 50.964962 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.407311 50.964743 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.4079 50.965226 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.408008 50.964949 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.408647 50.965502 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.408691 50.965117 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.409208 50.965677 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.409282 50.96535 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.406778 50.96464 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.406207 50.964482 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.405529 50.964236 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.405007 50.964054 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.404377 50.963892 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.40394 50.963738 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.403474 50.963593 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.402918 50.963447 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.410128 50.965655 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.410492 50.965132 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.410871 50.964632 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.411354 50.964052 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.41176 50.963518 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.412238 50.962952 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.413046 50.963178 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.413908 50.963478 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.414719 50.963834 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.415234 50.964224 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.415709 50.964498 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.416176 50.964683 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.416725 50.964877 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.417181 50.965118 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.417538 50.965496 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.417814 50.965796 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.418151 50.966179 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.418268 50.966549 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.418336 50.966939 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.41839 50.96743 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.418379 50.967973 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.418999 50.968293 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.419562 50.968502 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.418664 50.96869 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.417811 50.9691 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.417249 50.969454 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.416658 50.969878 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.415636 50.970124 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.414726 50.970472 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.413956 50.970963 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.412841 50.970673 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.41208 50.97006 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.410998 50.969871 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.410054 50.969745 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.409216 50.969848 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.408543 50.969967 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.40797 50.970093 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.407781 50.969697 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.40812 50.969223 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.408735 50.969498 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.408671 50.968703 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.409518 50.968997 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.410363 50.969182 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.411207 50.969403 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.412438 50.969604 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.4132 50.970114 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.414613 50.969732 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.41595 50.969291 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.413684 50.96923 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.41524 50.968884 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.41229 50.968823 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.413723 50.968508 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.410726 50.968613 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.412066 50.968064 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.409376 50.968357 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.410063 50.967707 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.41103 50.967838 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.410205 50.966904 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.410859 50.965881 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.411665 50.964843 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.41285 50.963955 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.412117 50.964381 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.411262 50.965229 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.413845 50.96417 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.414612 50.964497 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.415404 50.96489 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.413028 50.964721 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.412323 50.965185 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.411872 50.965705 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.411233 50.966515 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.411367 50.967227 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.41214 50.966633 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.41258 50.96736 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.413772 50.967685 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.41336 50.966803 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.414454 50.966968 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.412975 50.965967 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.413681 50.965191 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.41391 50.965959 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.414772 50.965444 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.416211 50.965328 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.415643 50.965961 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.415068 50.966486 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.416808 50.966335 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.415896 50.966986 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.414867 50.9678 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.415814 50.968186 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.417142 50.968472 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.417174 50.967477 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.412004 50.963234 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.412988 50.963614 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.414052 50.963882 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.414783 50.9642 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.415233 50.964601 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.411578 50.963794 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.412083 50.964024 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.412317 50.963641 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.412891 50.964265 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.411421 50.964433 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.41231 50.96478 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.411102 50.964931 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.413425 50.964394 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.414029 50.964625 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.413576 50.964856 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.413098 50.965224 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.411801 50.965271 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.414467 50.96495 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.414046 50.965541 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.415329 50.965221 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.413018 50.964982 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.416722 50.965683 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.417381 50.96604 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.414668 50.966127 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.414069 50.966467 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.413074 50.966379 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.411775 50.96622 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.409851 50.965958 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.4107 50.966166 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.410035 50.966308 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.410686 50.966714 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.409704 50.966543 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.409476 50.966831 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.409335 50.967326 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.409062 50.967862 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.408755 50.968311 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.410201 50.968113 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.412833 50.967704 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.411512 50.968508 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.41304 50.968231 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.414624 50.968308 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.412132 50.969232 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.413622 50.970532 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.414221 50.970013 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.414947 50.969306 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.41375 50.969597 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.416243 50.968667 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.417049 50.969028 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.417953 50.968682 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.417609 50.966638 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.416103 50.967469 11 0
-OBJECT_SHARED Models/Trees/billboard-tree.xml 4.417298 50.967965 11 0
+### End Brussels Landmarks
+#############################################################################
