@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+	<path>737_brussels_airlines.ac</path>
+	<animation>
+		<type>range</type>
+		<min-m>0</min-m>
+		<max-property>sim/rendering/static-lod/bare</max-property>
+	</animation>
+	<animation>
+		<type>material</type>
+		<texture>737_brussels_airlines.png</texture>
+	</animation>
+
+	<effect>
+	<inherits-from>Effects/lightmap</inherits-from>
+	<parameters>
+		<texture n="1">
+			<image>737_brussels_airlines_lightmap.png</image>
+		</texture>
+		<!--
+		<condition><use>/controls/lighting/logo-lights</use></condition>
+		<factor><use>/controls/lighting/panel-norm</use></factor>
+		-->
+	</parameters>
+ 	<object-name>jour</object-name> 
+	</effect>
+
+</PropertyList>
