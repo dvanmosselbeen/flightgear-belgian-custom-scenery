@@ -1,7 +1,6 @@
 
 #desc: Wavre Mediumwave Transmitter
-OBJECT_SHARED Models/Communications/radio-tall.xml 4.577589 50.747808 83.7051 0.0 0
-.0 -0.0
+OBJECT_SHARED Models/Communications/radio-tall.xml 4.577589 50.747808 83.7051 0.0 0.0 -0.0
 
 #desc: Wavre - Unknow mast
 OBJECT_SHARED Models/Communications/radio-tall.xml 4.585537 50.745445 83.7051 0.0 0.0 -0.0
