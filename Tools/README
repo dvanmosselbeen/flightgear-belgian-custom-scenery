@@ -1,0 +1,4 @@
+This folder contains some additional tools for the development of this scenery.
+
+* alpha_cleanup.py
+	Serve to detected and cleanup alpha channel on image files.
