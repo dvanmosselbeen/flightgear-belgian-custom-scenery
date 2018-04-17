@@ -1,6 +1,6 @@
 Introduction
 ============
-This is some custom Belgian scenery for the FlightGear Flight Simulator. It has some customised OSM terrain as well as new designed airports as well as new object placed on and around these Belgian airports.
+This is some custom Belgian scenery for the FlightGear Flight Simulator (also known as FGFS). It has some customised OSM terrain as well as new designed airports as well as new objects placed on and around these Belgian airports.
 
 It's best you follow the instruction on the dedicated wiki for instructions.
 You can find the Wike here: https://github.com/dvanmosselbeen/flightgear-belgian-custom-scenery/wiki
@@ -28,4 +28,4 @@ EBSW - Sint-Pieters-Leeuw (Heliport)
 EBTY - Tournai Maubray
 </pre>
 
-Feel free to take contact if you want to collaborate on this project.
+Feel free to take contact if you want to contribute on this project.
