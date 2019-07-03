@@ -1,3 +1,6 @@
+![alt text](https://github.com/dvanmosselbeen/flightgear-belgian-custom-scenery/wiki/screenshots/fgfs_belgian_scenery_presentation.png "FGFS Belgian Scenery Presentation pic")
+
+
 Introduction
 ============
 This is some custom Belgian scenery for the FlightGear Flight Simulator (also known as FGFS). It has some customised OSM terrain as well as new designed airports as well as new objects placed on and around these Belgian airports.
