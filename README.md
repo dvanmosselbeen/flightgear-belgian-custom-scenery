@@ -37,7 +37,7 @@ https://guides.github.com/introduction/git-handbook/
 You can make use of:
  * [FlightGear Website](http://www.flightgear.org)
  * [The FGFS Wiki](http://wiki.flightgear.org)
- * [The FGFS Forum](http://wiki.flightgear.org)
+ * [The FGFS Forum](https://forum.flightgear.org/)
  * [FGFS Mailing List](http://wiki.flightgear.org/Mailing_lists)
  * FlightGear Flight Simulator IRC channel - Connect to irc.flightgear.org and /j #FlightGear
 
