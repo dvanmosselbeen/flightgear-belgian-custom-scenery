@@ -3,10 +3,19 @@
 
 ### Introduction
 
-This is some custom Belgian scenery for the [FlightGear Flight Simulator](http://www.flightgear.org) (also known as FGFS). This scenery contains some customised OSM terrain as well as new designed airports with objects placed on and around these Belgian airports.
+This is some custom Belgian scenery for the [FlightGear Flight Simulator](http://www.flightgear.org) (also known as FGFS). This scenery contains some customised OSM terrain as well as new designed airports with objects placed on and around these Belgian airports. See this wiki page for the [airport list](https://github.com/dvanmosselbeen/flightgear-belgian-custom-scenery/wiki/Airports-list) that has been improved.
+
+### Need more help?
 
 It's best you follow the instruction on the dedicated wiki for instructions.
 You can find the Wike here: https://github.com/dvanmosselbeen/flightgear-belgian-custom-scenery/wiki
+
+You can also find documentation and help here:
+ * [FlightGear Website](http://www.flightgear.org)
+ * [The FGFS Wiki](http://wiki.flightgear.org)
+ * [The FGFS Forum](https://forum.flightgear.org/)
+ * [FGFS Mailing List](http://wiki.flightgear.org/Mailing_lists)
+ * FlightGear Flight Simulator IRC channel - Connect to irc.flightgear.org and /j #FlightGear
 
 Feel free to take contact if you want to contribute on this project.
 
@@ -31,13 +40,3 @@ Push changes to github:
 
 For more information read the Git Handbook:
 https://guides.github.com/introduction/git-handbook/
-
-### Need more help?
-
-You can make use of:
- * [FlightGear Website](http://www.flightgear.org)
- * [The FGFS Wiki](http://wiki.flightgear.org)
- * [The FGFS Forum](https://forum.flightgear.org/)
- * [FGFS Mailing List](http://wiki.flightgear.org/Mailing_lists)
- * FlightGear Flight Simulator IRC channel - Connect to irc.flightgear.org and /j #FlightGear
-
