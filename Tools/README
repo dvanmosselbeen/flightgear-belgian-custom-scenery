@@ -1,4 +1,4 @@
-This folder contains some additional tools for the development of this scenery.
+This folder contains eventually some additional tools for the development of this scenery.
 
-* alpha_cleanup.py
-	Serve to detected and cleanup alpha channel on image files.
+Actually all Tools / Scripts have been moved to the scenery-src repository.
+
