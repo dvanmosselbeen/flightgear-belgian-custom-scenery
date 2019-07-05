@@ -1,4 +1,6 @@
 OBJECT_BASE 3040066.btg
 OBJECT EBZW.btg
-OBJECT_SHARED Models/Airport/windsock_lit.xml 5.522446 51.012314 80.8 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml 5.528756 51.017509 86.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.517946 51.011925 82.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.515096 51.010548 81.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.530697 51.018107 84.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.525510 51.018195 84.4 0.00

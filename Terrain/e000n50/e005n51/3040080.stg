@@ -1,4 +1,4 @@
 OBJECT_BASE 3040080.btg
 OBJECT EBOT.btg
-OBJECT_SHARED Models/Airport/beacon.xml 5.017105 51.319861 22.8 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml 5.018000 51.317501 25.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.018000 51.317501 24.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 5.017105 51.319861 -9999.0 0.00

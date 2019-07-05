@@ -1,9 +1,11 @@
 OBJECT_BASE 2990867.btg
 OBJECT LFQD.btg
-OBJECT_SHARED Models/Airport/windsock_lit.xml 2.797737 50.321506 0.0 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml 2.810597 50.327938 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 2.795507 50.320707 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 2.810031 50.326783 -9999.0 0.00
 OBJECT LFQS.btg
-OBJECT_SHARED Models/Airport/windsock_lit.xml 2.988564 50.336179 0.0 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml 2.986266 50.342764 0.0 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml 3.000922 50.342737 0.0 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml 2.997580 50.335478 0.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 2.986909 50.335236 51.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 2.984594 50.341769 48.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 2.999364 50.341718 45.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 3.000941 50.336412 46.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 2.995748 50.334395 -9999.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 3.000073 50.336375 46.9 0.00

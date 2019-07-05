@@ -1,6 +1,6 @@
 OBJECT_BASE 3007272.btg
 OBJECT LFQO.btg
-OBJECT_SHARED Models/Airport/windsock_lit.xml 3.067848 50.687912 20.0 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml 3.076288 50.695066 19.1 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml 3.083354 50.687750 23.7 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml 3.074914 50.685770 18.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 3.066950 50.686688 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 3.075711 50.694646 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 3.082278 50.686568 20.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 3.073539 50.684912 18.5 0.00

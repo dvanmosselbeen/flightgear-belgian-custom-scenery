@@ -1,4 +1,4 @@
 OBJECT_BASE 3040115.btg
 OBJECT EHMD.btg
-OBJECT_SHARED Models/Airport/windsock_lit.xml 5.874150 51.763157 15.4 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml 5.878450 51.775585 23.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.878450 51.775585 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.874150 51.763157 -9999.0 0.00

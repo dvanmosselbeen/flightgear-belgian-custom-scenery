@@ -1,1 +1,5 @@
 OBJECT_BASE 3056507.btg
+OBJECT EDLS.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 6.833439 51.997489 45.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 6.847332 51.994197 47.5 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 6.840071 51.995240 45.6 0.00

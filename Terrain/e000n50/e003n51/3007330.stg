@@ -1,4 +1,4 @@
 OBJECT_BASE 3007330.btg
 OBJECT EHMZ.btg
-OBJECT_SHARED Models/Airport/windsock_lit.xml 3.728159 51.512812 -0.0 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml 3.739961 51.511449 -0.2 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 3.736428 51.513061 0.9 0.00
+OBJECT_SHARED Models/Airport/windsock.xml 3.728253 51.513204 0.5 0.00

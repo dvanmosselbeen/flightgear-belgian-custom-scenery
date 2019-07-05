@@ -1,1 +1,4 @@
 OBJECT_BASE 3023577.btg
+OBJECT LFAP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 4.370427 49.483551 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 4.359017 49.480336 -9999.0 0.00

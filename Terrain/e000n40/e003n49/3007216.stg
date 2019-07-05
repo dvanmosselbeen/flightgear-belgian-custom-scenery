@@ -1,1 +1,12 @@
 OBJECT_BASE 3007216.btg
+OBJECT LFAG.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 3.019492 49.869077 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 3.039666 49.868017 86.3 0.00
+OBJECT LFOW.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 3.213264 49.819585 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 3.209922 49.812506 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 3.205378 49.819796 96.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 3.202036 49.815573 -9999.0 0.00
+OBJECT LFYT.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 3.202777 49.743264 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 3.230558 49.756736 84.6 0.00

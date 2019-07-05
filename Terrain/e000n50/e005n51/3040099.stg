@@ -1,5 +1,5 @@
 OBJECT_BASE 3040099.btg
 OBJECT EHDP.btg
-OBJECT_SHARED Models/Airport/beacon.xml 5.859163 51.515960 27.8 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml 5.874780 51.521347 28.8 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml 5.842283 51.511994 26.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.874780 51.521347 28.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.842283 51.511994 26.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 5.859163 51.515960 27.6 0.00

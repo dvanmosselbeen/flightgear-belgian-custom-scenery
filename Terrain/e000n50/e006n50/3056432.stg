@@ -1,1 +1,4 @@
 OBJECT_BASE 3056432.btg
+OBJECT EDKA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 6.182395 50.822855 189.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 6.190337 50.823509 188.2 0.00

@@ -1,4 +1,4 @@
 OBJECT_BASE 3040027.btg
 OBJECT EBSP.btg
-OBJECT_SHARED Models/Airport/beacon.xml 5.909325 50.483227 453.2 0.00
-OBJECT_SHARED Models/Airport/windsock_lit.xml 5.906836 50.479424 464.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 5.906836 50.479424 463.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 5.909325 50.483227 456.8 0.00
