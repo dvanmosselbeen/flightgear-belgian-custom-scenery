@@ -1,6 +1,9 @@
 #country: be
 #submitter: David Van Mosselbeen
 
+# EBBR: New Terminal 1 to terminal 2 connector
+OBJECT_STATIC ebbr_building_ref_new_t1tot2_building.ac 4.48247917 50.90043605 37.71 207 
+
 ### EBGB airport ############################################################
 OBJECT_STATIC ebgb_control_tower.xml 4.395874 50.948297 16.15 0
 OBJECT_STATIC ebgb_building_ref_001.xml 4.395328 50.945498 16.82 0
@@ -24,7 +27,7 @@ OBJECT_STATIC ebgb_building_ref_015.xml 4.396135 50.948388 16 270
 OBJECT_STATIC ebgb_building_ref_016.xml 4.396089 50.948853 16.23 90
 OBJECT_STATIC ebgb_trash_collecting_wall.xml 4.39483602 50.94623834 16.7480 4.0 0.0 -0.0
 OBJECT_STATIC ebgb_bar.xml 4.395537 50.947988 16.420 270
-OBJECT_STATIC electric_barrier.xml 4.394832 50.948494 16 0
+OBJECT_STATIC ebgb_electric_barrier.xml 4.394832 50.948494 16 0
 OBJECT_STATIC ebgb_fence_a.xml 4.394818 50.948412 16.36 1
 OBJECT_STATIC ebgb_fence_b.xml 4.39465878 50.94857989 16.1484 2.4 0.0 -0.0
 OBJECT_STATIC ebgb_fence_d.xml 4.394654 50.948899 15.95 0
@@ -483,11 +486,11 @@ OBJECT_STATIC ebgb_total_reserve.xml 4.405266 50.905030 23 0
 ## Landmarks and decor around EBGB (Grimbergen)
 #desc: Sint-Servaas Basiliek te Grimbergen
 OBJECT_STATIC sint-servaasbasiliek_van_grimbergen.ac 4.371329 50.933457 32 0
-OBJECT_STATIC 4rijhuizen.ac 4.396213 50.947574 16.091 180
+OBJECT_STATIC ebgb_4rijhuizen.ac 4.396213 50.947574 16.091 180
 #desc: Water tower at Grimbergen
 OBJECT_SHARED Models/Industrial/water-tower.ac 4.374900 50.934206 26 0
 # A few generic farms around EBGB
-OBJECT_STATIC house_airfield.xml 4.396142 50.947890 16.103 180
+OBJECT_STATIC ebgb_house_airfield.xml 4.396142 50.947890 16.103 180
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.389095 50.953339 18.404 0
 OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.389385 50.953504 18.288 0
 OBJECT_SHARED Models/Agriculture/farmhouse2.ac 4.388122 50.953169 18.685 0

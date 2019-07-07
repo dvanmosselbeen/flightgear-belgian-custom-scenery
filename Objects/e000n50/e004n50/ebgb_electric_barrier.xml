@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 
 <PropertyList>
-    <path>electric_barrier.ac</path>
+	<path>ebgb_electric_barrier.ac</path>
 
     <animation>
         <type>range</type>
