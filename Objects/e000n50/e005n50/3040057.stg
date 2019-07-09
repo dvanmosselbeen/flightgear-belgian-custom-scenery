@@ -2,3 +2,14 @@
 OBJECT_SHARED Models/Power/coolingtower.xml 5.494838 50.937622 60 0
 OBJECT_SHARED Models/Power/coolingtower.xml 5.493278 50.937850 60 0
 
+### EBZH ###
+OBJECT_STATIC ebzh_building_ref_001.ac 5.379581 50.969892 41.0567 90 0.0 -0.0
+OBJECT_STATIC ebzh_building_ref_002.ac 5.377778 50.969841 41.8141 90 0.0 -0.0
+OBJECT_STATIC ebzh_building_ref_003.ac 5.376477 50.969683 40.3641 90 0.0 -0.0
+OBJECT_STATIC ebzh_building_ref_004.ac 5.375717 50.969668 40.3641 90 0.0 -0.0
+OBJECT_STATIC ebzh_building_ref_005.ac 5.374750 50.969648 40.3641 90 0.0 -0.0
+OBJECT_STATIC ebzh_building_ref_006.ac 5.373471 50.969627 40.3641 90 0.0 -0.0
+
+OBJECT_SHARED Models/Airport/SignalsSquare.ac 5.377279 50.969738 42.1439 0 0.0 -0.0
+###
+
