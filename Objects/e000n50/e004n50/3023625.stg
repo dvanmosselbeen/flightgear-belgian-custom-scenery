@@ -1,11 +1,11 @@
 ### EBCF (Cerfontaine) ######################################################
-OBJECT_STATIC ebcf_building_ref_001.xml 4.38613763 50.15139169 287.5778 244.0 0.0 -0.0
-OBJECT_STATIC ebcf_building_ref_002.ac 4.38552661 50.15140578 287.5616 154.0 0.0 -0.0
-OBJECT_STATIC ebcf_building_ref_003.ac 4.38525691 50.15175819 287.4427 241.6 0.0 -0.0
-OBJECT_STATIC ebcf_building_ref_004.ac 4.38484320 50.15156636 287.5154 154.0 0.0 -0.0
+OBJECT_STATIC ebcf_building_ref_001.xml 4.38613763 50.15139169 287.1084 244.0 0.0 -0.0
+OBJECT_STATIC ebcf_building_ref_002.ac 4.38552661 50.15140578 287.0457 154.0 0.0 -0.0
+OBJECT_STATIC ebcf_building_ref_003.ac 4.38525691 50.15175819 286.8940 241.6 0.0 -0.0
+OBJECT_STATIC ebcf_building_ref_004.ac 4.38484320 50.15156636 286.8047 154.0 0.0 -0.0
 OBJECT_STATIC ebcf_building_ref_004.ac 4.38273108 50.15220670 286.5013 332.8 0.0 -0.0
-OBJECT_STATIC ebcf_building_ref_005.ac 4.38345885 50.15146018 288.0081 64.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/SignalsSquare.xml 4.387417 50.151182 287.5503 334.4 0.0 -0.0
+OBJECT_STATIC ebcf_building_ref_005.ac 4.38345885 50.15146018 287.0081 64.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/SignalsSquare.ac 4.387417 50.151182 287.2438 334.4 0.0 -0.0
 OBJECT_SHARED Models/Airport/LightPole1_RedWhite.xml 4.38427604 50.15197718 287.1663 244 0.0 -0.0
 OBJECT_SHARED Models/Airport/LightPole1_RedWhite.xml 4.38358132 50.15220046 286.7442 244 0.0 -0.0
 
@@ -19,38 +19,108 @@ OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.39031670 50.
 OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.39053457 50.15158849 287.0502 332.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.39201950 50.15176029 286.9428 332.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.39217088 50.15195824 286.9210 332.0 0.0 -0.0
-
-OBJECT_SHARED Models/Airport/heli_cross.xml 4.38235927 50.15494929 282.4761 336.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/heli_cross.xml 4.39141272 50.15207478 287.0634 336.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/heli_cross.xml 4.38209130 50.15409195 282.8946 336.0 0.0 -0.0
-
-OBJECT_STATIC ebcf_runway_nbr_12.ac 4.38071802 50.15488200 282.4874 333 0.0 -0.0
+# Cross markers on the runways
+OBJECT_SHARED Models/Airport/heli_cross.xml 4.38235927 50.15494929 283.0279 336.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/heli_cross.xml 4.39141272 50.15207478 286.7006 336.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/heli_cross.xml 4.38209130 50.15409195 283.4231 336.0 0.0 -0.0
+# Runway numbers
+OBJECT_STATIC ebcf_runway_nbr_12.ac 4.38081753 50.15499889 283.5131 333 0.0 -0.0
 OBJECT_STATIC ebcf_runway_nbr_30.ac 4.39241801 50.15116311 286.8859 152 0.0 -0.0
+# EBCF airfield name on the ground
 OBJECT_STATIC ebcf_cerfontaine_mark.ac 4.38735908 50.15108408 287.4636 64.0 0.0 -0.0
 
-# Decor
-OBJECT_SHARED Models/Aircraft/Cessna172-ba.ac 4.38504953 50.15206199 287.2416 332.0 0.0 -0.0
-OBJECT_SHARED Models/Aircraft/DR400-ba.ac 4.38523210 50.15200095 287.4979 332.0 0.0 -0.0
-OBJECT_SHARED Models/Aircraft/D112-ba.ac 4.38543505 50.15193801 287.2246 332.0 0.0 -0.0
-OBJECT_SHARED Models/Aircraft/DR221-ba.ac 4.38587315 50.15171553 287.7029 332.0 0.0 -0.0
-OBJECT_SHARED Models/Aircraft/HR200-ba.ac 4.38603926 50.15165299 287.6979 332.0 0.0 -0.0
-OBJECT_SHARED Models/Aircraft/DR400-ba.ac 4.38671420 50.15142100 287.5411 332.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/sailplane_trailer.ac 4.38321192 50.15147732 288.5081 243.2 0.0 -0.0
-OBJECT_SHARED Models/Airport/sailplane_trailer.ac 4.38337061 50.15142832 288.5081 243.2 0.0 -0.0
-OBJECT_SHARED Models/Airport/sailplane_trailer.ac 4.38352430 50.15140784 288.5081 63.2 0.0 -0.0
-OBJECT_SHARED Models/Airport/sailplane_trailer.ac 4.38330875 50.15157253 288.5081 63.2 0.0 -0.0
-OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 4.38588897 50.15109245 287.9353 63.2 0.0 -0.0
-OBJECT_SHARED Models/Trees/deciduous-tree.xml 4.38593832 50.15115894 287.8674 63.2 0.0 -0.0
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.38634827 50.15089615 287.8656 276.0 0.0 -0.0
-OBJECT_SHARED Models/Transport/hatchback_red.ac 4.38636142 50.15091555 287.8003 276.0 0.0 -0.0
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.38640177 50.15096112 287.8007 96.0 0.0 -0.0
-OBJECT_SHARED Models/Transport/hatchback_red.ac 4.38641369 50.15098234 287.8061 276.0 0.0 -0.0
-OBJECT_SHARED Models/Transport/van_blue_dirty.ac 4.38644602 50.15101014 287.8007 276.0 0.0 -0.0
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.38649518 50.15086658 287.8404 200.0 0.0 -0.0
-OBJECT_SHARED Models/Transport/hatchback_red.ac 4.38651931 50.15088507 287.8404 20.0 0.0 -0.0
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.38653960 50.15091066 287.8196 200.0 0.0 -0.0
-OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.38659113 50.15096856 287.7706 20.0 0.0 -0.0
+# Static aircrafts
+OBJECT_SHARED Models/Aircraft/c180jred1.ac 4.38645597 50.15151433 287.1459 216.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c150blue1.ac 4.38629293 50.15159318 287.1066 240.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/pa181.ac 4.38673172 50.15139511 287.2166 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c180jred1.ac 4.38527678 50.15139824 287.2863 280.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/pa181.ac 4.38295909 50.15205344 286.3115 168.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c180jred1.ac 4.38449657 50.15237510 286.0099 52.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/cessna_caravan_gag_float_lowpoly.ac 4.38384709 50.15258704 285.5681 264.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/ask21-low-poly-blue.xml 4.38301546 50.15543421 283.2671 168.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/ask21-low-poly-red.xml 4.38416154 50.15503168 283.6306 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/ask21-low-poly-blue.xml 4.38353123 50.15545970 283.4176 168.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/ask21-low-poly-red.xml 4.38415799 50.15528306 283.6137 48.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/ask21-low-poly-blue.xml 4.38695091 50.15412001 285.0683 288.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/ask21-low-poly-blue.xml 4.39116606 50.15297617 286.4947 168.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/ask21-low-poly-red.xml 4.38999082 50.15298044 286.7585 40.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/ask21-low-poly-red.xml 4.38869212 50.15375737 285.9056 96.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/ask21-low-poly-blue.xml 4.39324552 50.15227991 285.8463 120.0 0.0 -0.0
 
+# Airport related vehiculs and props
+OBJECT_SHARED Models/Airport/Vehicle/airvehpickupgreen1.ac 4.38335505 50.15162052 287.0260 340.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/CCS_catering_truck1.ac 4.38571378 50.15142379 287.2366 156.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/smfueltruck-gen.ac 4.38424358 50.15155415 287.1141 60.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/rover-aegean.ac 4.38515407 50.15227207 286.2553 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/rover-aegean.ac 4.38890394 50.15100062 287.1192 84.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/van-aegean.ac 4.38685657 50.15126638 287.2942 48.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/barrels.ac 4.38376367 50.15149775 287.2035 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/barrels.ac 4.38378093 50.15148136 287.2280 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/barrels.ac 4.38374003 50.15150117 287.2199 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/consforklift1.ac 4.38364486 50.15158049 287.0800 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-red.ac 4.38270999 50.15250906 285.5570 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-red.ac 4.38252895 50.15258422 285.4447 312.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-blue.ac 4.38317229 50.15244409 285.6837 60.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-open.ac 4.38238172 50.15234454 285.8375 8.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-blue.ac 4.38231400 50.15265519 285.3408 332.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/glider-trailer-open.ac 4.38214069 50.15268655 285.2911 332.0 0.0 -0.0
+
+# Static parked cars on the parking
+OBJECT_SHARED Models/Transport/VWPassat_S1.ac 4.38644620 50.15101992 287.4944 16.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/honda1.ac 4.38658963 50.15097791 287.4943 108.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/tcamryred.ac 4.38656806 50.15094026 287.5184 296.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/dodgeramblue.ac 4.38649872 50.15085723 287.5650 292.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/camaroblue.ac 4.38653349 50.15089969 287.5516 124.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/vwgolfsilver.ac 4.38634514 50.15089843 287.5882 8.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/bmw3silver.ac 4.38641963 50.15098136 287.5214 0.0 0.0 -0.0
+
+# Street lighting at EBCF
+OBJECT_STATIC ebcf_streetlight.ac 4.38632465 50.15120745 287.7064 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38574345 50.15139128 287.7397 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38605047 50.15129194 287.7237 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38564967 50.15121200 287.9218 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38620617 50.15104910 287.8634 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38540503 50.15109919 288.1039 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38596404 50.15092973 288.0358 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38568530 50.15101461 288.0692 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38495833 50.15124640 288.0916 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38456596 50.15135877 288.0559 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38511181 50.15139603 287.8905 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38525209 50.15157607 287.6660 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38386079 50.15150034 288.0132 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38422381 50.15138580 288.1005 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38326233 50.15168925 287.7534 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38295338 50.15179697 287.4860 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38263690 50.15190192 287.3645 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38670542 50.15095473 287.7306 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38758499 50.15065938 287.4850 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38731515 50.15076137 287.5625 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38700238 50.15085847 287.6498 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38719176 50.15011394 287.8551 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38733852 50.15030208 287.7265 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38747780 50.15047812 287.5956 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38650330 50.15078937 287.8947 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38666478 50.15062331 287.8895 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38683118 50.15046383 287.8794 0.0 0.0 -0.0
+OBJECT_STATIC ebcf_streetlight.ac 4.38700220 50.15028227 287.8765 0.0 0.0 -0.0
+
+# Airport boundary fences
+OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.38711578 50.15110304 287.4796 64.4 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.38774453 50.15090885 287.4404 64.4 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/metal_fence_10m.ac 4.38812196 50.15079186 287.3584 64.4 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.38802690 50.15057247 287.3617 333.2 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.38771193 50.15017181 287.4159 333.2 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.38759056 50.14958128 288.3677 32.8 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/metal_fence_25m.ac 4.38747479 50.14987172 287.4779 332.8 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.38796924 50.14920385 288.8195 32.4 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/metal_fence_10m.ac 4.38667900 50.15123872 287.6152 64.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/metal_fence_10m.ac 4.38655433 50.15127847 287.6156 64.0 0.0 -0.0
+# Fences at runway 12
+OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.37923525 50.15362872 285.0919 356.4 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.37928398 50.15407466 284.4616 355.2 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.37933467 50.15452151 284.0498 356.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.37936954 50.15496895 283.7467 358.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.37941712 50.15541688 283.6352 355.2 0.0 -0.0
 # runway & taxiway cones
 OBJECT_SHARED Models/Airport/runway_cone.ac 4.38370750 50.15342594 284.5800 333.6 0.0 -0.0
 OBJECT_SHARED Models/Airport/runway_cone.ac 4.38389002 50.15367329 283.8357 333.6 0.0 -0.0
@@ -173,24 +243,6 @@ OBJECT_SHARED Models/Airport/runway_cone.ac 4.38263468 50.15352193 283.9519 332.
 OBJECT_SHARED Models/Airport/runway_cone.ac 4.38276891 50.15346923 284.0999 332.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/runway_cone.ac 4.38272620 50.15363884 283.7990 332.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/runway_cone.ac 4.38286483 50.15359843 283.9288 332.0 0.0 -0.0
-
-OBJECT_STATIC ebcf_streetlight.ac 4.38632465 50.15120745 287.7064 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38574345 50.15139128 287.7397 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38605047 50.15129194 287.7237 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38564967 50.15121200 287.9218 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38620617 50.15104910 287.8634 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38540503 50.15109919 288.1039 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38596404 50.15092973 288.0358 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38568530 50.15101461 288.0692 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38495833 50.15124640 288.0916 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38456596 50.15135877 288.0559 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38511181 50.15139603 287.8905 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38525209 50.15157607 287.6660 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38386079 50.15150034 288.0132 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38422381 50.15138580 288.1005 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38326233 50.15168925 287.7534 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38295338 50.15179697 287.4860 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38263690 50.15190192 287.3645 0.0 0.0 -0.0
 
 OBJECT_SHARED Models/Airport/runway_cone.ac 4.38370750 50.15342594 284.5800 332.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/runway_cone.ac 4.38389002 50.15367329 283.8357 332.0 0.0 -0.0
@@ -357,34 +409,6 @@ OBJECT_SHARED Models/Airport/runway_cone.ac 4.38194189 50.15473974 282.3137 336.
 OBJECT_SHARED Models/Airport/runway_cone.ac 4.38167718 50.15462552 282.2702 336.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/runway_cone.ac 4.38181665 50.15457883 282.3318 336.0 0.0 -0.0
 
-OBJECT_STATIC ebcf_streetlight.ac 4.38670542 50.15095473 287.7306 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38758499 50.15065938 287.4850 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38731515 50.15076137 287.5625 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38700238 50.15085847 287.6498 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38719176 50.15011394 287.8551 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38733852 50.15030208 287.7265 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38747780 50.15047812 287.5956 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38650330 50.15078937 287.8947 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38666478 50.15062331 287.8895 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38683118 50.15046383 287.8794 0.0 0.0 -0.0
-OBJECT_STATIC ebcf_streetlight.ac 4.38700220 50.15028227 287.8765 0.0 0.0 -0.0
-# Airport boundary fences
-OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.38711578 50.15110304 287.4796 64.4 0.0 -0.0
-OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.38774453 50.15090885 287.4404 64.4 0.0 -0.0
-OBJECT_SHARED Models/Boundaries/metal_fence_10m.ac 4.38812196 50.15079186 287.3584 64.4 0.0 -0.0
-OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.38802690 50.15057247 287.3617 333.2 0.0 -0.0
-OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.38771193 50.15017181 287.4159 333.2 0.0 -0.0
-OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.38759056 50.14958128 288.3677 32.8 0.0 -0.0
-OBJECT_SHARED Models/Boundaries/metal_fence_25m.ac 4.38747479 50.14987172 287.4779 332.8 0.0 -0.0
-OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.38796924 50.14920385 288.8195 32.4 0.0 -0.0
-# Fences at runway 12
-OBJECT_SHARED Models/Boundaries/metal_fence_10m.ac 4.38667900 50.15123872 287.6152 64.0 0.0 -0.0
-OBJECT_SHARED Models/Boundaries/metal_fence_10m.ac 4.38655433 50.15127847 287.6156 64.0 0.0 -0.0
-OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.37923525 50.15362872 283.2376 356.4 0.0 -0.0
-OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.37928398 50.15407466 282.6117 355.2 0.0 -0.0
-OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.37933467 50.15452151 282.0711 356.0 0.0 -0.0
-OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.37936954 50.15496895 281.5536 358.0 0.0 -0.0
-OBJECT_SHARED Models/Boundaries/metal_fence_50m.ac 4.37941712 50.15541688 282.1806 355.2 0.0 -0.0
 # Little vegetation around main entrance road
 OBJECT_SHARED Models/Trees/bukszpan.xml 4.38670437 50.15110893 287.6653 0.0 0.0 -0.0
 OBJECT_SHARED Models/Trees/bukszpan.xml 4.38673677 50.15109554 287.6579 0.0 0.0 -0.0
@@ -568,6 +592,9 @@ OBJECT_SHARED Models/Trees/populus-tree2.xml 4.38712107 50.14976059 288.0890 0.0
 OBJECT_SHARED Models/Trees/populus-tree2.xml 4.38690655 50.14996980 288.1018 0.0 0.0 -0.0
 OBJECT_SHARED Models/Trees/populus-tree2.xml 4.38667017 50.15020218 288.1150 0.0 0.0 -0.0
 OBJECT_SHARED Models/Trees/populus-tree2.xml 4.38644091 50.15042613 288.1011 0.0 0.0 -0.0
+
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 4.38588897 50.15109245 287.9353 63.2 0.0 -0.0
+OBJECT_SHARED Models/Trees/deciduous-tree.xml 4.38593832 50.15115894 287.8674 63.2 0.0 -0.0
 ### End EBCF ################################################################
 
 
@@ -575,43 +602,42 @@ OBJECT_SHARED Models/Trees/populus-tree2.xml 4.38644091 50.15042613 288.1011 0.0
 # Barrage du lac de l'eau de l'heure
 OBJECT_STATIC barage_des_lac_de_leau_dheure.ac 4.38599050 50.18872197 236.4626 31.6 0.0 -0.0
 # Wooden piers on the "lacs de l'eau d'heure
-OBJECT_SHARED Models/Maritime/Civilian/wooden_pier_40m.ac 4.37948805 50.17651254 234.1609 136.0 0.0 -0.0
-OBJECT_SHARED Models/Maritime/Civilian/wooden_pier_40m.ac 4.37900532 50.17682379 234.1610 137.2 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_pier_40m.ac 4.37948805 50.17651254 246.9998 136.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_pier_40m.ac 4.37900532 50.17682379 246.9998 137.2 0.0 -0.0
 # Sails at wooden pier
-OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37937649 50.17635530 234.1607 48.0 0.0 -0.0
-OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37876225 50.17674847 234.1608 48.0 0.0 -0.0
-OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37924741 50.17643541 234.1606 228.0 0.0 -0.0
-OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37944122 50.17644039 234.1608 317.6 0.0 -0.0
-OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37949921 50.17655903 234.1609 317.6 0.0 -0.0
-OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37888989 50.17678475 234.1608 317.6 0.0 -0.0
-OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37899406 50.17671992 234.1608 228.0 0.0 -0.0
-OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37895037 50.17668947 234.1608 228.0 0.0 -0.0
-OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37903841 50.17674983 234.1608 228.0 0.0 -0.0
-OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37890620 50.17666123 234.1608 228.0 0.0 -0.0
-OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37871301 50.17670047 234.1606 48.0 0.0 -0.0
-OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37883905 50.17662379 234.1607 228.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37937649 50.17635530 246.9998 48.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37876225 50.17674847 246.9998 48.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37924741 50.17643541 246.9998 228.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37944122 50.17644039 246.9998 317.6 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37949921 50.17655903 246.9998 317.6 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37888989 50.17678475 246.9998 317.6 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37899406 50.17671992 246.9998 228.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37895037 50.17668947 246.9998 228.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37903841 50.17674983 246.9998 228.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37890620 50.17666123 246.9998 228.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37871301 50.17670047 246.9998 48.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37883905 50.17662379 246.9998 228.0 0.0 -0.0
 
 # At "barage des lacs de l'eau d'heure
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37913288 50.17509791 234.1605 0.0 0.0 -0.0
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderSail.xml 4.36523961 50.18275411 241.2263 96.0 0.0 -0.0
-OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderSail.xml 4.37890349 50.18322706 234.1344 288.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderSail.xml 4.37890349 50.18322706 236.1789 288.0 0.0 -0.0
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower.xml 4.35448089 50.18660684 246.9858 96.0 0.0 -0.0
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37949489 50.17407559 239.6879 264.0 0.0 -0.0
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37993746 50.17456005 237.8408 120.0 0.0 -0.0
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37939235 50.17463642 236.2730 288.0 0.0 -0.0
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.38035449 50.17512885 236.0978 216.0 0.0 -0.0
-OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37971585 50.17598107 234.1603 24.0 0.0 -0.0
-OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37861590 50.17584267 234.1606 216.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37971585 50.17598107 246.9992 24.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37861590 50.17584267 246.9992 216.0 0.0 -0.0
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37927131 50.17348262 243.7409 72.0 0.0 -0.0
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.38080556 50.17379103 243.3765 72.0 0.0 -0.0
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.38089325 50.17479481 238.8608 48.0 0.0 -0.0
-OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37949687 50.17557601 234.1602 120.0 0.0 -0.0
-OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37845702 50.17549832 234.1607 96.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37949687 50.17557601 246.9992 120.0 0.0 -0.0
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower11m.xml 4.37845702 50.17549832 246.9992 96.0 0.0 -0.0
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderSail.xml 4.37236265 50.18497816 234.1497 120.0 0.0 -0.0
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderSail.xml 4.34846304 50.18538765 246.9926 72.0 0.0 -0.0
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderSail.xml 4.35436815 50.18283581 243.8514 144.0 0.0 -0.0
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderPower.xml 4.36818798 50.18114861 243.8514 192.0 0.0 -0.0
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderSail.xml 4.36260634 50.18652985 246.6615 72.0 0.0 -0.0
 OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderSail.xml 4.35815779 50.18238311 246.9931 264.0 0.0 -0.0
-OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderSail.xml 4.38040659 50.18776759 234.1493 168.0 0.0 -0.0
-
+OBJECT_SHARED Models/Maritime/Civilian/SailBoatUnderSail.xml 4.38040659 50.18776759 246.9992 168.0 0.0 -0.0
