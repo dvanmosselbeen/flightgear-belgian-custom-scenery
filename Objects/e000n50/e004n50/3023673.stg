@@ -94,10 +94,10 @@ OBJECT_SHARED Models/Transport/hatchback_red.ac 4.39539833 50.94888340 16.1744 0
 OBJECT_SHARED Models/Transport/hatchback_silver.ac 4.39550180 50.94888547 16.1609 0.0 0.0 -0.0
 OBJECT_SHARED Models/Transport/van-blue-muc.ac 4.39589649 50.94848207 16.1476 272.0 0.0 -0.0
 # Decor
-OBJECT_SHARED Models/Boundaries/Hedge-10m.xml 4.396029 50.948007 15.95 90
-OBJECT_SHARED Models/Boundaries/Hedge-10m.xml 4.395848 50.948005 15.95 90
-OBJECT_SHARED Models/Boundaries/Hedge-50m.xml 4.395846 50.947439  15.95 90
-OBJECT_SHARED Models/Boundaries/Hedge-10m.xml 4.395472 50.947367 15.95 0
+OBJECT_SHARED Models/Boundaries/Hedge_10m.ac 4.396029 50.948007 15.95 90
+OBJECT_SHARED Models/Boundaries/Hedge_10m.ac 4.395848 50.948005 15.95 90
+OBJECT_SHARED Models/Boundaries/Hedge-50m.ac 4.395846 50.947439  15.95 90
+OBJECT_SHARED Models/Boundaries/Hedge_10m.ac 4.395472 50.947367 15.95 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395412 50.947817 15.95 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395567 50.947831 15.95 0
 OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.395424 50.947728 15.95 0
