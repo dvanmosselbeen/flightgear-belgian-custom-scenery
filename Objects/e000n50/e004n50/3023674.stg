@@ -24,9 +24,9 @@ OBJECT_STATIC ebbr_oil_tank.ac 4.510208 50.89861 40 0
 #desc: Control tower
 OBJECT_STATIC control_tower.xml 4.50859800 50.90780800 31.1806 180
 #desc: Terminal 1
-OBJECT_STATIC ebbr_terminal_1.xml 4.483730 50.899085 38.1806 205
+OBJECT_STATIC ebbr_terminal_1.xml 4.483730 50.899085 38.1806 205 0.10 0.025
 #desc: Terminal 2
-OBJECT_STATIC ebbr_terminal_2.xml 4.481877 50.902323 36 204
+OBJECT_STATIC ebbr_terminal_2.xml 4.481877 50.902323 35.5132 204 0.18 0.15
 #desc: Terminal 2 jetways
 #OBJECT_STATIC guide.ac 4.489866 50.904309 34.9 27
 #OBJECT_SHARED Models/Airport/Jetway/AutoGate.xml 4.489866 50.904309 34.9 27
