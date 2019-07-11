@@ -328,20 +328,22 @@ OBJECT_STATIC 737-300.xml 4.46838617 50.90612212 31.44 3
 ## Refueling location
 # Airport big lights
 OBJECT_STATIC ebbr_apron_9_light.xml 4.492613 50.905923 33.048 0
-# Aiport road lights
-OBJECT_STATIC ebbr_road_light.xml 4.492308 50.906372 26.4 90
-OBJECT_STATIC ebbr_road_light.xml 4.492768 50.906518 26.4 90
-OBJECT_STATIC ebbr_road_light.xml 4.493311 50.906672 26.4 90
-OBJECT_STATIC ebbr_road_light.xml 4.493777 50.906810 26.4 90
-OBJECT_STATIC ebbr_road_light.xml 4.494195 50.906927 26.4 90
-OBJECT_STATIC ebbr_road_light.xml 4.494628 50.907055 26.4 90
-OBJECT_STATIC ebbr_road_light.xml 4.495011 50.907166 26.4 90
-OBJECT_STATIC ebbr_road_light.xml 4.494917 50.906946 26.4 0
-OBJECT_STATIC ebbr_road_light.xml 4.494586 50.906714 26.4 0
-OBJECT_STATIC ebbr_road_light.xml 4.494681 50.906530 26.4 0
-OBJECT_STATIC ebbr_road_light.xml 4.494620 50.906343 26.4 0
-OBJECT_STATIC ebbr_road_light.xml 4.494369 50.906271 26.4 0
-OBJECT_STATIC ebbr_road_light.xml 4.494325 50.906427 26.4 0
+### Aiport road lights on the top right side of the apron 1 - Terminal 2
+# Commented these objects as they are now in the way with the newer EBBR airport layout
+#OBJECT_STATIC ebbr_road_light.xml 4.492308 50.906372 26.4 90
+#OBJECT_STATIC ebbr_road_light.xml 4.492768 50.906518 26.4 90
+#OBJECT_STATIC ebbr_road_light.xml 4.493311 50.906672 26.4 90
+#OBJECT_STATIC ebbr_road_light.xml 4.493777 50.906810 26.4 90
+#OBJECT_STATIC ebbr_road_light.xml 4.494195 50.906927 26.4 90
+#OBJECT_STATIC ebbr_road_light.xml 4.494628 50.907055 26.4 90
+#OBJECT_STATIC ebbr_road_light.xml 4.495011 50.907166 26.4 90
+#OBJECT_STATIC ebbr_road_light.xml 4.494917 50.906946 26.4 0
+#OBJECT_STATIC ebbr_road_light.xml 4.494586 50.906714 26.4 0
+#OBJECT_STATIC ebbr_road_light.xml 4.494681 50.906530 26.4 0
+#OBJECT_STATIC ebbr_road_light.xml 4.494620 50.906343 26.4 0
+#OBJECT_STATIC ebbr_road_light.xml 4.494369 50.906271 26.4 0
+#OBJECT_STATIC ebbr_road_light.xml 4.494325 50.906427 26.4 0
+###
 ## Apron 1 Airport big lights
 #OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.490588 50.905099 26.4 290
 #OBJECT_SHARED Models/Airport/light-pole-gray-38m.ac 4.489326 50.904735 26.4 290
