@@ -277,17 +277,17 @@ OBJECT_SHARED Models/concrete_bloc_white.ac 4.39603523 50.94865926 16.1059 268.0
 
 ### EBBR (Some part of it, see 3023674.stg) #################################
 # A few tankers
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.492805 50.906306 32.9 180
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.492906 50.906328 32.9 180
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493117 50.906399 32.8 180
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493208 50.906417 32.9 180
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493575 50.906514 32.8 180
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493675 50.906538 32.9 180
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493848 50.906589 32.9 180
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493964 50.906627 32.8 180
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.494047 50.906642 32.9 180
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.494165 50.906675 32.8 180
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.493310 50.905800 33.5 45
+OBJECT_SHARED Models/Airport/Vehicle/94-f600-fuel-yellow-hi.ac 4.492805 50.906306 32.9 180
+OBJECT_SHARED Models/Airport/Vehicle/94-f600-fuel-yellow-hi.ac 4.492906 50.906328 32.9 180
+OBJECT_SHARED Models/Airport/Vehicle/94-f600-fuel-yellow-hi.ac 4.493117 50.906399 32.8 180
+OBJECT_SHARED Models/Airport/Vehicle/94-f600-fuel-yellow-hi.ac 4.493208 50.906417 32.9 180
+OBJECT_SHARED Models/Airport/Vehicle/94-f600-fuel-yellow-hi.ac 4.493575 50.906514 32.8 180
+OBJECT_SHARED Models/Airport/Vehicle/94-f600-fuel-yellow-hi.ac 4.493675 50.906538 32.9 180
+OBJECT_SHARED Models/Airport/Vehicle/94-f600-fuel-yellow-hi.ac 4.493848 50.906589 32.9 180
+OBJECT_SHARED Models/Airport/Vehicle/94-f600-fuel-yellow-hi.ac 4.493964 50.906627 32.8 180
+OBJECT_SHARED Models/Airport/Vehicle/94-f600-fuel-yellow-hi.ac 4.494047 50.906642 32.9 180
+OBJECT_SHARED Models/Airport/Vehicle/94-f600-fuel-yellow-hi.ac 4.494165 50.906675 32.8 180
+OBJECT_SHARED Models/Airport/Vehicle/94-f600-fuel-yellow-hi.ac 4.493310 50.905800 33.5 45
 # Helipads
 OBJECT_SHARED Models/Airport/helipad_circle.xml 4.49569 50.914913 24.7 300
 OBJECT_SHARED Models/Airport/helipad_circle.xml 4.495263 50.914746 24.7 300
