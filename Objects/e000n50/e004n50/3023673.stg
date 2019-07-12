@@ -9,7 +9,7 @@ OBJECT_STATIC ebgb_control_tower.xml 4.395874 50.948297 16.15 0
 OBJECT_STATIC ebgb_building_ref_001.xml 4.395328 50.945498 16.82 0
 OBJECT_STATIC ebgb_building_ref_002.xml 4.395474 50.946169 16.5 90
 # first cylinder (ref 003)
-OBJECT_STATIC ebgb_building_ref_004.xml 4.393997 50.945847 17.26 0
+OBJECT_STATIC ebgb_building_ref_003.xml 4.393997 50.945847 17.26 0
 # second cylinder (ref 004)
 OBJECT_STATIC ebgb_building_ref_004.xml 4.394115 50.944947 17 0
 # Aircraft in round hangar

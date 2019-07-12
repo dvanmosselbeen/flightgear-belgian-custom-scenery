@@ -10,11 +10,11 @@
                if (!contains(scenery, "EBGB")) scenery["EBGB"] = {};
                if (!contains(scenery.EBGB, "hangar")) scenery.EBGB["hangar"] =
 	       [nil,nil,nil,nil,nil,nil];
-	       scenery.EBGB.hangar[2] =
+	       scenery.EBGB.hangar[1] =
 	       { door :
 		[
-		aircraft.door.new("/scenery/EBGB/hangar[2]/door[0]", 75),
-		aircraft.door.new("/scenery/EBGB/hangar[2]/door[1]", 75)
+		aircraft.door.new("/scenery/EBGB/hangar[1]/door[0]", 75),
+		aircraft.door.new("/scenery/EBGB/hangar[1]/door[1]", 75)
 	       ]
 		 };
 	   </load>
@@ -23,7 +23,7 @@
     <animation>
         <type>rotate</type>
         <object-name>DoorL1</object-name>
-        <property>/scenery/EBGB/hangar[2]/door[0]/position-norm</property>
+        <property>/scenery/EBGB/hangar[1]/door[0]/position-norm</property>
 	<interpolation>
 			<entry>		<ind>0</ind>	<dep>  0</dep>	</entry>
 			<entry>		<ind>0.1</ind>	<dep> -1</dep>	</entry>
@@ -45,7 +45,7 @@
     <animation>
         <type>rotate</type>
         <object-name>DoorL2</object-name>
-        <property>/scenery/EBGB/hangar[2]/door[0]/position-norm</property>
+        <property>/scenery/EBGB/hangar[1]/door[0]/position-norm</property>
 	<interpolation>
 			<entry>		<ind>0</ind>	<dep>  0</dep>	</entry>
 			<entry>		<ind>0.1</ind>	<dep>  1</dep>	</entry>
@@ -71,7 +71,7 @@
         <type>rotate</type>
         <object-name>DoorL3</object-name>
 	<object-name>DoorL4</object-name>
-        <property>/scenery/EBGB/hangar[2]/door[0]/position-norm</property>
+        <property>/scenery/EBGB/hangar[1]/door[0]/position-norm</property>
 	<interpolation>
 			<entry>		<ind>0</ind>	<dep>  0</dep>	</entry>
 			<entry>		<ind>0.5</ind>	<dep>  0</dep>	</entry>
@@ -94,7 +94,7 @@
     <animation>
         <type>rotate</type>
         <object-name>DoorR5</object-name>
-        <property>/scenery/EBGB/hangar[2]/door[1]/position-norm</property>
+        <property>/scenery/EBGB/hangar[1]/door[1]/position-norm</property>
 	<interpolation>
 			<entry>		<ind>0</ind>	<dep>  0</dep>	</entry>
 			<entry>		<ind>0.1</ind>	<dep> -1</dep>	</entry>
@@ -116,7 +116,7 @@
     <animation>
         <type>rotate</type>
         <object-name>DoorR6</object-name>
-        <property>/scenery/EBGB/hangar[2]/door[1]/position-norm</property>
+        <property>/scenery/EBGB/hangar[1]/door[1]/position-norm</property>
 	<interpolation>
 			<entry>		<ind>0</ind>	<dep>  0</dep>	</entry>
 			<entry>		<ind>0.1</ind>	<dep>  1</dep>	</entry>
@@ -142,7 +142,7 @@
         <type>rotate</type>
         <object-name>DoorR7</object-name>
 	<object-name>DoorR8</object-name>
-        <property>/scenery/EBGB/hangar[2]/door[1]/position-norm</property>
+        <property>/scenery/EBGB/hangar[1]/door[1]/position-norm</property>
 	<interpolation>
 			<entry>		<ind>0</ind>	<dep>  0</dep>	</entry>
 			<entry>		<ind>0.5</ind>	<dep>  0</dep>	</entry>
@@ -175,7 +175,7 @@
             <repeatable>false</repeatable>
             <binding>
                 <command>nasal</command>
-                <script>scenery.EBGB.hangar[2].door[0].toggle();</script>
+                <script>scenery.EBGB.hangar[1].door[0].toggle();</script>
             </binding>
         </action>
     </animation>
@@ -192,7 +192,7 @@
             <repeatable>false</repeatable>
             <binding>
                 <command>nasal</command>
-                <script>scenery.EBGB.hangar[2].door[1].toggle();</script>
+                <script>scenery.EBGB.hangar[1].door[1].toggle();</script>
             </binding>
         </action>
     </animation>
