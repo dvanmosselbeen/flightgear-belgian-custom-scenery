@@ -9,16 +9,18 @@ OBJECT_SHARED Models/Airport/SignalsSquare.ac 4.387417 50.151182 287.2438 334.4 
 OBJECT_SHARED Models/Airport/LightPole1_RedWhite.xml 4.38427604 50.15197718 287.1663 244 0.0 -0.0
 OBJECT_SHARED Models/Airport/LightPole1_RedWhite.xml 4.38358132 50.15220046 286.7442 244 0.0 -0.0
 
-OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.38153083 50.15444322 282.2834 332.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.38131508 50.15416653 282.4825 332.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.38193584 50.15495981 282.2463 332.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.38209119 50.15515302 282.3441 332.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.38277187 50.15370310 283.7134 332.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.38298861 50.15398137 283.4249 332.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.39031670 50.15130621 286.9607 332.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.39053457 50.15158849 287.0502 332.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.39201950 50.15176029 286.9428 332.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.39217088 50.15195824 286.9210 332.0 0.0 -0.0
+# Runway ground marker
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.38153083 50.15444322 283.1336 332.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.38131508 50.15416653 283.3511 332.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.38193584 50.15495981 282.9909 332.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.38209119 50.15515302 283.0285 332.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.38277187 50.15370310 283.8207 332.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.38298861 50.15398137 283.5934 332.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.39031670 50.15130621 286.9241 332.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.39053457 50.15158849 286.9253 332.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.39201950 50.15176029 286.6260 332.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/RectangularGroundmarker_RedWhite.xml 4.39217088 50.15195824 286.5523 332.0 0.0 -0.0
+
 # Cross markers on the runways
 OBJECT_SHARED Models/Airport/heli_cross.xml 4.38235927 50.15494929 283.0279 336.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/heli_cross.xml 4.39141272 50.15207478 286.7006 336.0 0.0 -0.0
