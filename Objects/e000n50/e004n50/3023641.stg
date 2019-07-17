@@ -55,9 +55,9 @@ OBJECT_STATIC ebci_helipad.ac  4.441313 50.453994 183.5 285
 # desc: Fuel tanks and refueling
 OBJECT_STATIC ebci_building_ref_014.ac 4.461289 50.465349 176.5 115
 # A few tankers
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.46100725 50.46527070 176.5250 208.0
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.46096084 50.46525142 176.5463 208.0
-OBJECT_SHARED Models/Airport/94-f600-fuel-yellow-hi.ac 4.46090904 50.46523747 176.5556 208.0
+OBJECT_SHARED Models/Airport/Vehicle/94-f600-fuel-yellow-hi.ac 4.46100725 50.46527070 176.5250 208.0
+OBJECT_SHARED Models/Airport/Vehicle/94-f600-fuel-yellow-hi.ac 4.46096084 50.46525142 176.5463 208.0
+OBJECT_SHARED Models/Airport/Vehicle/94-f600-fuel-yellow-hi.ac 4.46090904 50.46523747 176.5556 208.0
 
 ### Charleroi industry ######################################################
 OBJECT_SHARED Models/Power/coolingtower.xml 4.395211 50.429676 111 0
