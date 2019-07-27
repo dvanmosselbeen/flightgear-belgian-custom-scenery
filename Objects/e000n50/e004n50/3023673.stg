@@ -46,24 +46,6 @@ OBJECT_STATIC streetlight_yellow_pillar.xml 4.395377 50.947608 16.5 0
 OBJECT_STATIC streetlight_yellow_pillar.xml 4.395445 50.947280 16.5 0
 OBJECT_STATIC streetlight_yellow_pillar.xml 4.395797 50.948090 16.5 0
 OBJECT_STATIC streetlight_yellow_pillar.xml 4.396163 50.948704 16.5 0
-# Streetligts yellow pillars (outside airfield boundary)
-OBJECT_STATIC streetlight_yellow_pillar.xml 4.396381 50.949661 16.5 0
-OBJECT_STATIC streetlight_yellow_pillar.xml 4.396644 50.949650 16.5 0
-OBJECT_STATIC streetlight_yellow_pillar.xml 4.396481 50.949461 16.5 0
-OBJECT_STATIC streetlight_yellow_pillar.xml 4.396445 50.949153 16.5 0
-OBJECT_STATIC streetlight_yellow_pillar.xml 4.396163 50.948704 16.5 0
-OBJECT_STATIC streetlight_yellow_pillar.xml 4.396403 50.948829 16.5 0
-OBJECT_STATIC streetlight_yellow_pillar.xml 4.396366 50.948483 16.5 0
-OBJECT_STATIC streetlight_yellow_pillar.xml 4.396347 50.948163 16.5 0
-OBJECT_STATIC streetlight_yellow_pillar.xml 4.396383 50.947832 16.5 0
-OBJECT_STATIC streetlight_yellow_pillar.xml 4.396475 50.947518 16.5 0
-OBJECT_STATIC streetlight_yellow_pillar.xml 4.396544 50.947247 16.5 0
-OBJECT_STATIC streetlight_yellow_pillar.xml 4.396622 50.946958 16.5 0
-OBJECT_STATIC streetlight_yellow_pillar.xml 4.396725 50.946635 16.5 0
-OBJECT_STATIC streetlight_yellow_pillar.xml 4.396858 50.946308 16.5 0
-OBJECT_STATIC streetlight_yellow_pillar.xml 4.396975 50.946020 16.5 0
-OBJECT_STATIC streetlight_yellow_pillar.xml 4.397096 50.945746 16.5 0
-OBJECT_STATIC streetlight_yellow_pillar.xml 4.397220 50.945518 16.5 0
 # Entry doors
 OBJECT_STATIC ebgb_entry_doors.ac 4.394812 50.948459 16.5 1
 OBJECT_STATIC ebgb_entry_doors.ac 4.394655 50.948716 16.5 0
