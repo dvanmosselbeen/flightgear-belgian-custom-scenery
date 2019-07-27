@@ -5,7 +5,7 @@
     <path>ebcf_building_ref_001.ac</path>
 
     <model>
-        <path>Models/Effects/strobe10000.xml</path> 
+        <path>Models/Effects/flashlight_white10000.xml</path> 
         <offsets> 
             <x-m>10.4042</x-m>
             <y-m>2</y-m>

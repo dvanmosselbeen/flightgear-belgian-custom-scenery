@@ -9,16 +9,16 @@
     </animation>
 
     <model>
-        <path>Models/Effects/strobe10000.xml</path> 
+        <path>Models/Effects/flashlight_white10000.xml</path> 
 <offsets> 
-            <x-m>-5.3773</x-m>
-            <y-m>8.2184</y-m>
-            <z-m>7.6180</z-m>
+            <x-m>-5.37733</x-m>
+            <y-m>8.21844</y-m>
+            <z-m>9.11803</z-m>
             <heading-deg>0</heading-deg>
         </offsets>
     </model>
 
-    <model>
+    <!-- model>
         <path>Models/Effects/RedLight10000.xml</path> 
         <offsets> 
             <x-m>-5.3773</x-m>
@@ -26,6 +26,6 @@
             <z-m>9.1180</z-m>
             <heading-deg>0</heading-deg>
         </offsets>
-    </model>
+    </model -->
 </PropertyList>
 

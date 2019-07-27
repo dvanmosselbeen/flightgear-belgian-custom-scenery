@@ -11,7 +11,7 @@
     </animation>
 
     <model>
-        <path>Models/Effects/strobe10000.xml</path> 
+        <path>Models/Effects/flashlight_white10000.xml</path> 
         <offsets> 
             <x-m>11.0</x-m>
             <y-m>-3.18211</y-m>

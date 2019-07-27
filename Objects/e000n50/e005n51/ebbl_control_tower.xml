@@ -5,7 +5,7 @@
     <path>ebbl_control_tower.ac</path>
 
     <model>
-        <path>Models/Effects/strobe10000.xml</path> 
+        <path>Models/Effects/flashlight_white10000.xml</path> 
         <offsets> 
             <x-m>0</x-m>
             <y-m>0</y-m>
@@ -14,11 +14,15 @@
         </offsets>
     </model>
 
-    <animation>
-        <type>range</type>
-        <min-m>0</min-m>
-        <max-m>7000</max-m>
-    </animation>
+    <model>
+        <path>Models/Effects/RedLight10000.xml</path> 
+        <offsets> 
+            <x-m>0</x-m>
+            <y-m>0</y-m>
+            <z-m>27</z-m>
+            <heading-deg>0</heading-deg>
+        </offsets>
+    </model>
 
 </PropertyList>
 
