@@ -2,7 +2,7 @@
 #submitter: David Van Mosselbeen
 
 ### EBCI (Brussels South) airport ###########################################
-OBJECT_STATIC ebci_building_ref_001.ac 4.454372 50.458289 181 115
+OBJECT_STATIC ebci_building_ref_001.xml 4.454372 50.458289 181 115
 OBJECT_STATIC ebci_building_ref_002.ac 4.455880 50.458239 181 295
 OBJECT_STATIC ebci_building_ref_003.ac 4.456951 50.458607 181 295
 OBJECT_STATIC ebci_building_ref_004.ac 4.458132 50.458962 181 295
