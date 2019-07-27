@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+    <path>ebbz_control_tower.ac</path>
+
+    <animation>
+        <type>range</type>
+        <min-m>0</min-m>
+        <max-m>20000</max-m>
+    </animation>
+
+    <model>
+        <path>Models/Effects/flashlight_white10000.xml</path> 
+        <offsets> 
+            <x-m>0</x-m>
+            <y-m>0</y-m>
+            <z-m>8.0</z-m>
+            <heading-deg>0</heading-deg>
+        </offsets>
+    </model>
+
+    <model>
+        <path>Models/Effects/RedLight10000.xml</path> 
+        <offsets> 
+            <x-m>0</x-m>
+            <y-m>0</y-m>
+            <z-m>8.0</z-m>
+            <heading-deg>0</heading-deg>
+        </offsets>
+    </model>
+
+</PropertyList>
+
