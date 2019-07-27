@@ -1,3 +1,5 @@
+#country: be
+#submitter: David Van Mosselbeen
 
 ### EBBY (Baisy-Thy) ###
 #EBBY airfield related buildings
@@ -77,23 +79,32 @@ OBJECT_SHARED Models/Trees/buk1.xml 4.43481856 50.56971628 159.3284 0.0 0.0 -0.0
 ### END EBBY ###
 
 ### EBBZ (Buzet) airfield
+
+OBJECT_STATIC ebbz_control_tower.ac 4.380747 50.543238 154.3545 201.6
 OBJECT_STATIC ebbz_building_ref_001.ac 4.38040376 50.54273104 153.8 21.6
-OBJECT_STATIC ebbz_building_ref_001.ac 4.38022563 50.54302284 154.5613 21.6
+OBJECT_STATIC ebbz_building_ref_001.ac 4.38022563 50.54302284 154.2076 21.6
 OBJECT_STATIC ebbz_building_ref_002.ac 4.38075637 50.54281971 153.7 21.6
-OBJECT_STATIC ebbz_building_ref_003.ac 4.38056834 50.54310807 154.5904 21.6
+OBJECT_STATIC ebbz_building_ref_003.ac 4.38056834 50.54310807 154.3521 21.6
+OBJECT_STATIC ebbz_building_ref_003.ac 4.38056834 50.54310807 154.3521 21.6
 OBJECT_STATIC ebbz_building_ref_004.ac 4.37998815 50.54334716 154.6206 113.2
 OBJECT_STATIC ebbz_building_ref_005.ac 4.37993989 50.54353886 154.1000 113.2
 OBJECT_STATIC ebbz_building_ref_005_b.ac 4.38018047 50.54346272 154.6745 293.6
-OBJECT_STATIC ebbz_building_ref_006.ac 4.37964965 50.54379170 154.7054 113.6
+OBJECT_STATIC ebbz_building_ref_006.ac 4.37964965 50.54379170 154.3492 113.6
 OBJECT_STATIC ebbz_building_ref_007.ac 4.38003955 50.54382700 154.1000 113.6
 
 OBJECT_STATIC ebbz_signalssquare.ac 4.380316 50.544109 154.3 115
 
-OBJECT_SHARED Models/Airport/Band.xml 4.381026 50.543991 154.3 27
-OBJECT_SHARED Models/Airport/Band.xml 4.381284 50.543671 154.3 27
-OBJECT_SHARED Models/Airport/Band.xml 4.381540 50.543353 154.1011 27 0.0 0.0
-OBJECT_SHARED Models/Airport/Band.xml 4.381799 50.543032 152.6637 27 2.5 0.0
-OBJECT_SHARED Models/Airport/Band.xml 4.382057 50.542713 150.9501 27 2.5 0.0
+# Runway border bands
+OBJECT_SHARED Models/Airport/Band.xml 4.38084356 50.54401332 154.2748 27.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml 4.38110849 50.54410025 154.0272 27.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml 4.38205869 50.54250752 152.1119 26.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml 4.38233010 50.54259026 152.0898 27.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml 4.38168869 50.54338905 153.9473 27.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml 4.38142591 50.54329279 154.1031 27.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml 4.38137240 50.54377940 154.0259 27.6 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml 4.38110876 50.54368890 154.3182 26.8 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml 4.38204746 50.54293935 152.9166 27.2 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml 4.38177669 50.54285635 153.0519 26.8 0.0 -0.0
 
 OBJECT_STATIC ebbz_terasse_fence.ac 4.38021716 50.54382805 154.6948 293.6
 OBJECT_STATIC ebbz_welcome_panel.ac 4.38025166 50.54247075 153.7828 204
@@ -113,15 +124,28 @@ OBJECT_SHARED Models/picnic_table.xml 4.38020027 50.54381521 154.4613 295.2
 OBJECT_SHARED Models/picnic_table.xml 4.38021439 50.54379366 154.4829 295.2
 OBJECT_SHARED Models/picnic_table.xml 4.38022837 50.54377227 154.5019 295.2
 
-# Static aircraft (EBBZ flies essentially with a Rans s 6s
+# Static aircraft (EBBZ flies essentially with a Rans s 6s)
 OBJECT_SHARED Models/Aircraft/c150blue1.ac 4.37997058 50.54348898 154.3885 20.0 0.0 -0.0
 OBJECT_SHARED Models/Aircraft/pa181.ac 4.37993759 50.54358904 154.3604 28.0 0.0 -0.0
 OBJECT_SHARED Models/Aircraft/c180jred1.ac 4.38027091 50.54358388 154.4975 20.0 0.0 -0.0
-OBJECT_SHARED Models/Aircraft/ms880rallye-yellow.ac 4.38099663 50.54343793 154.1937 0.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/Ulm_Red.ac 4.38099663 50.54343793 154.1937 0.0 0.0 -0.0
 OBJECT_SHARED Models/Aircraft/pa181.ac 4.38083706 50.54358569 154.2462 24.0 0.0 -0.0
 OBJECT_SHARED Models/Aircraft/c180jred1.ac 4.38055645 50.54258985 153.2629 0.0 0.0 -0.0
-OBJECT_SHARED Models/Aircraft/ms880rallye-yellow.ac 4.38130188 50.54282940 153.3716 144.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/c172-bluen108av.ac 4.38130188 50.54282940 153.3716 144.0 0.0 -0.0
 OBJECT_SHARED Models/Aircraft/pa181.ac 4.38009855 50.54318980 154.2455 0.0 0.0 -0.0
+
+# The new concrete helipads
+OBJECT_STATIC ebbz_helipad_concrete.ac 4.380643 50.543490 154.5267 203.6 0.0 -0.0
+OBJECT_STATIC ebbz_helipad_concrete.ac 4.380533 50.543640 154.6559 203.6 0.0 -0.0
+
+# The static immovable Fouga
+OBJECT_SHARED Models/Aircraft/PC_9M_Slovenia.ac 4.380643 50.543490 154.6515 45.0 0.0 -0.0
+# The helipad
+#OBJECT_SHARED Models/Aircraft/r44-white.ac 4.380533 50.543640 154.4843 300.0 0.0 -0.0
+
+# New runway lenghts (markers). Should be removed when new apt runway is ok
+OBJECT_SHARED Models/Airport/Band.xml 4.384024 50.540662 144.6638 300.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Band.xml 4.381126 50.544265 153.8654 300.0 0.0 -0.0
 
 # Parked cars
 OBJECT_SHARED Models/Transport/bmw3silver.ac 4.38013466 50.54391118 154.5450 288.0 0.0 -0.0
@@ -135,26 +159,14 @@ OBJECT_SHARED Models/Transport/van_blue_dirty.ac 4.37978644 50.54363714 154.2878
 OBJECT_SHARED Models/Transport/pickupred1.ac 4.37997569 50.54376428 154.4458 24.0 0.0 -0.0
 
 # A bunch of barils
-OBJECT_SHARED Models/metal_baril_red.ac 4.37980741 50.54351388 154.6311 127.2
-OBJECT_SHARED Models/metal_baril_red.ac 4.37979173 50.54353509 154.6334 55.2
-OBJECT_SHARED Models/metal_baril_red.ac 4.38013075 50.54348249 154.6213 103.2
-OBJECT_SHARED Models/metal_baril_blue.ac 4.37991388 50.54364073 154.5847 103.2
-OBJECT_SHARED Models/metal_baril_blue.ac 4.37975424 50.54359653 154.6155 103.2
-OBJECT_SHARED Models/metal_baril_blue.ac 4.38008452 50.54356954 154.5945 199.2
-OBJECT_SHARED Models/metal_baril_blue.ac 4.38005030 50.54356084 154.6008 199.2
-OBJECT_SHARED Models/metal_baril_red.ac 4.37993365 50.54364680 154.5807 55.2
-
-# A few important farm houses where we aren't allowed to fly over (see chart)
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.383804 50.536137 147 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.385611 50.533524 145 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.385824 50.533228 145 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.385974 50.533038 145 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.386100 50.531940 147 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.386821 50.531917 147 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.386635 50.531727 147.5 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.387019 50.531576 147.5 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.394640 50.539321 137 0
-OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.394901 50.539216 136.5 0
+OBJECT_SHARED Models/metal_baril_red.ac 4.37980741 50.54351388 154.2889 127.2
+OBJECT_SHARED Models/metal_baril_red.ac 4.37979173 50.54353509 154.2889 55.2
+OBJECT_SHARED Models/metal_baril_red.ac 4.38013075 50.54348249 154.5199 103.2
+OBJECT_SHARED Models/metal_baril_blue.ac 4.37991388 50.54364073 154.4035 103.2
+OBJECT_SHARED Models/metal_baril_blue.ac 4.37975424 50.54359653 154.4035 103.2
+OBJECT_SHARED Models/metal_baril_blue.ac 4.38008452 50.54356954 154.2585 199.2
+OBJECT_SHARED Models/metal_baril_blue.ac 4.38005030 50.54356084 154.4035 199.2
+OBJECT_SHARED Models/metal_baril_red.ac 4.37993365 50.54364680 154.4035 55.2
 
 # A bunch of trees in the airfield boundary
 OBJECT_SHARED Models/Trees/buk3.xml 4.38020909 50.54376541 154.5033 0.0
@@ -198,6 +210,36 @@ OBJECT_SHARED Models/Trees/deciduous-tree3.xml 4.37964390 50.54344169 154.6280 1
 OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.37966013 50.54340117 154.6129 113.2
 OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.38031151 50.54348390 154.6774 113.2
 OBJECT_SHARED Models/Trees/deciduous-tree2.xml 4.37997716 50.54368223 154.5610 113.2
+
+# New plantation 2016-2018
+OBJECT_SHARED Models/Trees/laurier.xml 4.38089926 50.54295239 153.8392 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml 4.38090892 50.54292116 153.7708 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml 4.38091953 50.54289690 153.7154 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml 4.38093362 50.54286712 153.6467 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml 4.38094893 50.54283848 153.5796 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml 4.38096436 50.54280404 153.5008 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml 4.38097252 50.54277538 153.4377 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml 4.38079175 50.54308207 154.1188 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml 4.38077230 50.54311008 154.1675 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml 4.38075460 50.54313495 154.2100 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml 4.38074033 50.54315485 154.2440 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml 4.38080942 50.54310398 154.1470 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml 4.38078910 50.54313679 154.2026 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml 4.38078276 50.54316115 154.2410 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml 4.38082080 50.54312678 154.1783 0.0 0.0 -0.0
+OBJECT_SHARED Models/Trees/laurier.xml 4.38082459 50.54315561 154.2205 0.0 0.0 -0.0
+
+# A few important farm houses where we aren't allowed to fly over (see chart)
+OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.383804 50.536137 147 0
+OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.385611 50.533524 145 0
+OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.385824 50.533228 145 0
+OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.385974 50.533038 145 0
+OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.386100 50.531940 147 0
+OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.386821 50.531917 147 0
+OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.386635 50.531727 147.5 0
+OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.387019 50.531576 147.5 0
+OBJECT_SHARED Models/Agriculture/farmhouse1.ac 4.394640 50.539321 137 0
+OBJECT_SHARED Models/Agriculture/ChickenBarn_140x15m.ac 4.394901 50.539216 136.5 0
 
 # Windturbine West of EBBZ
 OBJECT_SHARED Models/Power/windturbine.xml 4.345065 50.536569 150 0
