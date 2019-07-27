@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+    <path>ebfs_building_ref_048.ac</path>
+
+    <animation>
+        <type>range</type>
+        <min-m>0</min-m>
+        <max-m>20000</max-m>
+    </animation>
+
+    <model>
+        <path>Models/Effects/strobe10000.xml</path> 
+        <offsets> 
+            <x-m>16.5</x-m>
+            <y-m>2.31769</y-m>
+            <z-m>25.5385</z-m>
+            <heading-deg>0</heading-deg>
+        </offsets>
+    </model>
+
+    <model>
+        <path>Models/Effects/RedLight10000.xml</path> 
+        <offsets> 
+            <x-m>16.5</x-m>
+            <y-m>2.31769</y-m>
+            <z-m>25.5385</z-m>
+            <heading-deg>0</heading-deg>
+        </offsets>
+    </model>
+
+</PropertyList>
+
