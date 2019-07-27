@@ -2,7 +2,7 @@
 #submitter: David Van Mosselbeen
 # EBZW (Genk CIV.) airport buildings
 OBJECT_STATIC ebzw_building_ref_001.ac 5.522871 51.013579 83.7576 147
-OBJECT_STATIC ebzw_building_ref_002.ac 5.523636 51.014242 85.0592 147
+OBJECT_STATIC ebzw_building_ref_002.xml 5.523636 51.014242 85.0592 147
 OBJECT_STATIC ebzw_building_ref_003.ac 5.523035 51.015370 87.1617 147
 OBJECT_STATIC ebzw_building_ref_004.ac 5.524688 51.015509 86.5890 147
 OBJECT_STATIC ebzw_building_ref_005.ac 5.525339 51.016167 87.2872 147
