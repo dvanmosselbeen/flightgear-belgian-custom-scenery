@@ -10,4 +10,71 @@
         <max-m>15000</max-m>
     </animation>
 
+    <model>
+        <path>Models/Effects/strobe10000.xml</path> 
+        <offsets> 
+            <x-m>-99.9087</x-m>
+            <y-m>34.6824</y-m>
+            <z-m>22.0391</z-m>
+            <heading-deg>0</heading-deg>
+        </offsets>
+    </model>
+
+	<!-- Red lights at night -->
+    <model>
+        <path>Models/Effects/RedLight10000.xml</path> 
+        <offsets> 
+            <x-m>-104.733</x-m>
+            <y-m>33.4505</y-m>
+            <z-m>22.0391</z-m>
+            <heading-deg>0</heading-deg>
+        </offsets>
+    </model>
+    <model>
+        <path>Models/Effects/RedLight10000.xml</path> 
+        <offsets> 
+            <x-m>-103.388</x-m>
+            <y-m>38.2443</y-m>
+            <z-m>22.0391</z-m>
+            <heading-deg>0</heading-deg>
+        </offsets>
+    </model>
+    <model>
+        <path>Models/Effects/RedLight10000.xml</path> 
+        <offsets> 
+            <x-m>-98.5636</x-m>
+            <y-m>39.4763</y-m>
+            <z-m>22.0391</z-m>
+            <heading-deg>0</heading-deg>
+        </offsets>
+    </model>	
+    <model>
+        <path>Models/Effects/RedLight10000.xml</path> 
+        <offsets> 
+            <x-m>-95.0846</x-m>
+            <y-m>35.9144</y-m>
+            <z-m>22.0391</z-m>
+            <heading-deg>0</heading-deg>
+        </offsets>
+    </model>
+    <model>
+        <path>Models/Effects/RedLight10000.xml</path> 
+        <offsets> 
+            <x-m>-96.4298</x-m>
+            <y-m>31.1205</y-m>
+            <z-m>22.0391</z-m>
+            <heading-deg>0</heading-deg>
+        </offsets>
+    </model>
+    <model>
+        <path>Models/Effects/RedLight10000.xml</path> 
+        <offsets> 
+            <x-m>-101.254</x-m>
+            <y-m>29.8886</y-m>
+            <z-m>22.0391</z-m>
+            <heading-deg>0</heading-deg>
+        </offsets>
+    </model>
+	
+	
 </PropertyList>
