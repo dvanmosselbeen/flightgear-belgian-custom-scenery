@@ -5,7 +5,7 @@
     <path>ebgb_control_tower.ac</path>
 
     <model>
-        <path>Models/Effects/strobe10000.xml</path> 
+        <path>Models/Effects/flashlight_white10000.xml</path> 
         <offsets> 
             <x-m>0</x-m>
             <y-m>-9.7420</y-m>
