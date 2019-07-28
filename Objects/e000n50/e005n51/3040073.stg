@@ -190,14 +190,13 @@ OBJECT_SHARED Models/Military/army_trailer_01.ac 5.46377943 51.17320706 54.2623 
 OBJECT_SHARED Models/Military/army_trailer_01.ac 5.46377998 51.17323109 54.2598 359.2
 OBJECT_SHARED Models/Military/army_trailer_01.ac 5.46377875 51.17325574 54.2569 359.2
 
-
 # Checkpoint doors
-#OBJECT_STATIC controle_point_door.ac 5.48298005 51.17650988 52.4178 349.6
-#OBJECT_STATIC controle_point_door.ac 5.48241034 51.17664827 52.6689 314.0
-#OBJECT_STATIC controle_point_door.ac 5.47695857 51.17727709 54.3809 298.4
-#OBJECT_STATIC controle_point_door.ac 5.47153239 51.17274931 54.9605 328.0
-#OBJECT_STATIC controle_point_door.ac 5.45875212 51.16492965 55.7844 312.4
-#OBJECT_STATIC controle_point_door.ac 5.45608978 51.16222478 57.3811 48.0
+OBJECT_STATIC ebbl_controle_point_door_closed.ac 5.48298005 51.17650988 52.3183 349.6 0.0 -0.0
+OBJECT_STATIC ebbl_controle_point_door_closed.ac 5.48241034 51.17664827 52.5648 314.0 0.0 -0.0
+OBJECT_STATIC ebbl_controle_point_door_open.ac 5.47695857 51.17727709 54.3532 298.4 0.0 -0.0
+OBJECT_STATIC ebbl_controle_point_door_open.ac 5.47153239 51.17274931 54.7276 328.0 0.0 -0.0
+OBJECT_STATIC ebbl_controle_point_door_open.ac 5.45875212 51.16492965 55.8213 312.4 0.0 -0.0
+OBJECT_STATIC ebbl_controle_point_door_open.ac 5.45608978 51.16222478 57.4696 48.0 0.0 -0.0
 
 # Runway signs
 OBJECT_STATIC ebbl_runway_sign_23.ac 5.47399866 51.17536112 55.0116 144.8
