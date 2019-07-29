@@ -17,6 +17,24 @@
         <max-m>3500</max-m>
     </animation>
 
+	<!--  night emission  -->
+	<animation>
+		<type>material</type>
+		<object-name>Building</object-name>
+		<object-name>LightCones</object-name>
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.49</value>
+			</greater-than>
+		</condition>
+		<emission>
+			<red>0.1</red>
+			<green>0.1</green>
+			<blue>0.1</blue>
+		</emission>
+	</animation>
+
     <animation>
         <type>range</type>
         <min-m>0</min-m>
@@ -29,7 +47,7 @@
         <condition>
             <greater-than>
                 <property>/sim/time/sun-angle-rad</property>
-                <value>1.57</value>
+                <value>1.49</value>
             </greater-than>
         </condition>
     </animation>

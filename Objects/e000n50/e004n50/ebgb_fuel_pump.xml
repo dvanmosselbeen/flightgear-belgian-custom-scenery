@@ -10,6 +10,27 @@ FIXME: Trow an error when there's no second thank, but no harm.
 -->
 <PropertyList>
     <path>ebgb_fuel_pump.ac</path>
+	
+	<!--  night emission  -->
+	<animation>
+		<type>material</type>
+		<object-name>FloorAndPilars</object-name>
+		<object-name>FuelPump</object-name>
+		<object-name>Circle.005</object-name>
+		<object-name>Guns</object-name>
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.49</value>
+			</greater-than>
+		</condition>
+		<emission>
+			<red>0.1</red>
+			<green>0.1</green>
+			<blue>0.1</blue>
+		</emission>
+	</animation>
+	
     <animation>
         <type>pick</type>
         <object-name>FuelPump</object-name>

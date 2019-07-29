@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 
 <PropertyList>
-    <path>ebgb_building_ref_011.ac</path>
+    <path>ebgb_4rijhuizen.ac</path>
 
 	<!--  night emission  -->
 	<animation>
 		<type>material</type>
-		<object-name>BuildingStructure</object-name>
+		<object-name>Cube.003</object-name>
 		<condition>
 			<greater-than>
 				<property>/sim/time/sun-angle-rad</property>
@@ -23,8 +23,7 @@
     <animation>
         <type>range</type>
         <min-m>0</min-m>
-        <max-m>7000</max-m>
+        <max-m>10000</max-m>
     </animation>
 
 </PropertyList>
-

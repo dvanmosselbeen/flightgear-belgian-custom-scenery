@@ -473,7 +473,7 @@ OBJECT_STATIC ebgb_total_reserve.xml 4.405266 50.905030 23 0
 ## Landmarks and decor around EBGB (Grimbergen)
 #desc: Sint-Servaas Basiliek te Grimbergen
 OBJECT_STATIC sint-servaasbasiliek_van_grimbergen.ac 4.371329 50.933457 32 0
-OBJECT_STATIC ebgb_4rijhuizen.ac 4.396213 50.947574 16.091 180
+OBJECT_STATIC ebgb_4rijhuizen.xml 4.396213 50.947574 16.091 180
 #desc: Water tower at Grimbergen
 OBJECT_SHARED Models/Industrial/water-tower.ac 4.374900 50.934206 26 0
 # A few generic farms around EBGB
