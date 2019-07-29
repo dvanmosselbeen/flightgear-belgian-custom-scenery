@@ -4,6 +4,24 @@
     
     <path>ebaw_building_ref_002.ac</path>
 
+	<!--  night emission  -->
+	<animation>
+		<type>material</type>
+		<object-name>Building</object-name>
+		<object-name>RoofDetails</object-name>
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.49</value>
+			</greater-than>
+		</condition>
+		<emission>
+			<red>0.1</red>
+			<green>0.1</green>
+			<blue>0.1</blue>
+		</emission>
+	</animation>
+
     <animation>
         <type>range</type>
         <object-name>Spots</object-name>
