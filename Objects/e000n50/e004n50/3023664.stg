@@ -6,8 +6,8 @@ OBJECT_STATIC vrt_tower.ac 4.224296 50.767724 48.2922 0
 ##############################################################################
 # Heliport (EBSW) at Sint-Pieters-Leeuw
 OBJECT_STATIC ebsw_building_ref_001.xml 4.219421 50.762927 58.9463 23.5 -1.0 0.0
-OBJECT_STATIC ebsw_building_ref_002.ac 4.220481 50.762251 60.8707 20
-OBJECT_STATIC ebsw_building_ref_003.ac 4.219428 50.761915 62.1044 20
+OBJECT_STATIC ebsw_building_ref_002.xml 4.220481 50.762251 60.8707 20
+OBJECT_STATIC ebsw_building_ref_003.xml 4.219428 50.761915 62.1044 20
 OBJECT_STATIC ebsw_building_ref_004.xml 4.218677 50.761400 62.7512 20
 
 # Fences arround the heliport boundary
