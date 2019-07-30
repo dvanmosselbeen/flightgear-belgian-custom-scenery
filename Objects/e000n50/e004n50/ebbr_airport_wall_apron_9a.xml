@@ -2,6 +2,25 @@
 
 <PropertyList>
 	<path>ebbr_airport_wall_apron_9a.ac</path>
+	
+	<!--  night emission  -->
+	<animation>
+		<type>material</type>
+        <object-name>Wall1</object-name>
+		<object-name>Wall2</object-name>
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.49</value>
+			</greater-than>
+		</condition>
+		<emission>
+			<red>0.1</red>
+			<green>0.1</green>
+			<blue>0.1</blue>
+		</emission>
+	</animation>
+	
 	<animation>
 		<type>range</type>
 		<min-m>0</min-m>

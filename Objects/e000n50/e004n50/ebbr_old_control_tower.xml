@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+    <path>ebbr_old_control_tower.ac</path>
+
+	<!--  night emission  -->
+	<animation>
+		<type>material</type>
+        <object-name>Building</object-name>
+		<object-name>Windows1</object-name>
+		<object-name>Windows2</object-name>
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.49</value>
+			</greater-than>
+		</condition>
+		<emission>
+			<red>0.1</red>
+			<green>0.1</green>
+			<blue>0.1</blue>
+		</emission>
+	</animation>
+	
+    <animation>
+        <type>range</type>
+        <object-name>RoofDetails</object-name>
+        <min-m>0</min-m>
+        <max-m>4000</max-m>
+    </animation>
+
+    <animation>
+        <type>range</type>
+        <min-m>0</min-m>
+        <max-m>10000</max-m>
+    </animation>
+
+</PropertyList>

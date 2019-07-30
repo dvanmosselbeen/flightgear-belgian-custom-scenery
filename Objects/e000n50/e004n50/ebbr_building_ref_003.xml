@@ -6,7 +6,7 @@
 
     <animation>
         <type>material</type>
-        <object-name>Cube</object-name>
+        <object-name>Building</object-name>
         <condition>
             <greater-than>
                 <property>/sim/time/sun-angle-rad</property>

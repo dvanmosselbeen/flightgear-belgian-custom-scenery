@@ -4,9 +4,10 @@
 
     <path>ebbr_building_ref_002.ac</path>
 
+	<!--  night emission  -->
     <animation>
         <type>material</type>
-        <object-name>Cube</object-name>
+        <object-name>Building</object-name>
         <condition>
             <greater-than>
                 <property>/sim/time/sun-angle-rad</property>

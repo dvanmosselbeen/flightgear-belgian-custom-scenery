@@ -1,8 +1,44 @@
 <?xml version="1.0"?>
 
 <PropertyList>
-    
     <path>ebbr_building_ref_059.ac</path>
+
+	<!--  night emission  -->
+	<animation>
+		<type>material</type>
+        <object-name>Cube</object-name>
+		<object-name>Cube.001</object-name>
+		<object-name>Cube.002</object-name>
+		<object-name>Cube.003</object-name>
+		<object-name>Cube.004</object-name>
+		<object-name>Cube.005</object-name>
+		<object-name>Cube.006</object-name>
+		<object-name>Cube.007</object-name>
+		<object-name>Cube.008</object-name>
+		<object-name>Cube.009</object-name>
+		<object-name>Cube.010</object-name>
+		<object-name>Cube.011</object-name>
+		<object-name>Cube.012</object-name>
+		<object-name>Cube.013</object-name>
+		<object-name>Cube.014</object-name>
+		<object-name>Cube.015</object-name>
+		<object-name>Cube.016</object-name>
+		<object-name>Cube.017</object-name>
+		<object-name>Cube.018</object-name>
+		<object-name>Cube.019</object-name>
+		<object-name>Cube.020</object-name>
+		<condition>
+			<greater-than>
+				<property>/sim/time/sun-angle-rad</property>
+				<value>1.49</value>
+			</greater-than>
+		</condition>
+		<emission>
+			<red>0.1</red>
+			<green>0.1</green>
+			<blue>0.1</blue>
+		</emission>
+	</animation>
 
     <animation>
         <type>range</type>
