@@ -3,7 +3,7 @@
 
 ### EBBY (Baisy-Thy) ###
 #EBBY airfield related buildings
-OBJECT_STATIC ebby_building_ref_001.ac 4.43432431 50.56977300 158 224.8 1.8 0.0
+OBJECT_STATIC ebby_building_ref_001.xml 4.43432431 50.56977300 158 224.8 1.8 0.0
 OBJECT_STATIC ebbz_signalssquare.xml 4.43463135 50.56945556 159.3010 225.2
 
 # Static aircraft's
