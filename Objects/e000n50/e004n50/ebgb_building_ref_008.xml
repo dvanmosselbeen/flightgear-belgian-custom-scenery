@@ -6,7 +6,7 @@
 	<!--  night emission  -->
 	<animation>
 		<type>material</type>
-		<object-name>BuildingStructure</object-name>
+		<object-name>Building</object-name>
 		<condition>
 			<greater-than>
 				<property>/sim/time/sun-angle-rad</property>
