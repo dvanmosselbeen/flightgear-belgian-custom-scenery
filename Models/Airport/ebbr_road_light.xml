@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+    <path>ebbr_road_light.ac</path>
+
+    <animation>
+        <type>range</type>
+        <object-name>PilarHR</object-name>
+        <object-name>LightBulbHR</object-name>
+        <object-name>Light</object-name>
+        <min-m>0</min-m>
+        <max-m>300</max-m>
+    </animation>
+
+    <animation>
+        <type>range</type>
+        <object-name>LightCone</object-name>
+        <min-m>0</min-m>
+        <max-m>1500</max-m>
+    </animation>
+
+    <animation>
+        <type>range</type>
+        <object-name>PilarLR</object-name>
+        <object-name>LightBulbLR</object-name>
+        <min-m>300</min-m>
+        <max-m>4000</max-m>
+    </animation>
+
+    <animation>
+        <object-name>LightCone</object-name>
+        <type>select</type>
+        <condition>
+            <greater-than>
+                <property>/sim/time/sun-angle-rad</property>
+                <value>1.57</value>
+            </greater-than>
+        </condition>
+    </animation>
+
+    <animation>
+        <object-name>LightCone</object-name>
+        <enable-hot type="bool">false</enable-hot>
+    </animation>
+
+</PropertyList>
