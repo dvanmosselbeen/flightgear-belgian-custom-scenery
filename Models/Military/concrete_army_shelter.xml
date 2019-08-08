@@ -3,23 +3,6 @@
 <PropertyList>
     <path>concrete_army_shelter.ac</path>
 
-    <animation>
-        <type>range</type>
-        <min-m>0</min-m>
-        <max-m>20000</max-m>
-    </animation>
-
-	<model>
-	<path>Models/Effects/lightCone1000w.xml</path>
-		<offsets>
-			<x-m>-15.3107</x-m>
-			<y-m>0</y-m>
-			<z-m>10.441</z-m>
-			<pitch-deg>45.00</pitch-deg>
-			<heading-deg>0</heading-deg>
-		</offsets>
-	</model>
-
   <!--  night emission  -->
   <animation>
     <type>material</type>
