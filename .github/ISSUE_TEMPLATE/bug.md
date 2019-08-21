@@ -1,5 +1,5 @@
 ---
-name: Bug
+name: Bug Report
 about: Use this template for reporting a bug.
 title: ''
 labels: bug
@@ -9,7 +9,8 @@ assignees: ''
 
 **System Information**
   
-* OS & Version: [e.g. Windows 10]
+* OS & Version: [e.g. Windows 10, Debian (testing)]
+* Video card: [e.g. Nvidia GeForce GTX 1060]
 * Belgian scenery version: [e.g. 0.1 or Branch:master]
 * FlightGear version: [e.g. 2019.2 or Branch:next]
 * FlightGear FGData version: [e.g. 2019.2 or Branch:next]
