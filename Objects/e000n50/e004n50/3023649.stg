@@ -138,10 +138,12 @@ OBJECT_SHARED Models/Aircraft/pa181.ac 4.38009855 50.54318980 154.2455 0.0 0.0 -
 OBJECT_STATIC ebbz_helipad_concrete.xml 4.380643 50.543490 154.5267 203.6 0.0 -0.0
 OBJECT_STATIC ebbz_helipad_concrete.xml 4.380533 50.543640 154.6559 203.6 0.0 -0.0
 
-# The static immovable Fouga
+# The static immovable Fouga but none in FG so using a PC_9M
 OBJECT_SHARED Models/Aircraft/PC_9M_Slovenia.ac 4.380643 50.543490 154.6515 45.0 0.0 -0.0
 # The helipad
 #OBJECT_SHARED Models/Aircraft/r44-white.ac 4.380533 50.543640 154.4843 300.0 0.0 -0.0
+# R44 Helicopter parked on the new concrete helipad (should be removed or used for screenshot purpose only)
+#OBJECT_SHARED Models/Aircraft/r44-yellow.ac 4.38056045 50.54364352 154.7807 108.0 0.0 -0.0
 
 # New runway lenghts (markers). Should be removed when new apt runway is ok
 OBJECT_SHARED Models/Airport/Band.xml 4.384024 50.540662 144.6638 300.0 0.0 -0.0
