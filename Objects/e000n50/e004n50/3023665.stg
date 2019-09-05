@@ -134,8 +134,8 @@ OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.362431 50
 OBJECT_STATIC view_building.xml 4.369930 50.842903 71 0
 #desc: Residence Rue des Goujons 5 (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.322573 50.834324 32.1806 108.0
-#desc: Berlaymont (Generic)
-OBJECT_STATIC berlaymont.ac 4.382526 50.843628 56.83 0
+#desc: Berlaymont
+OBJECT_STATIC berlaymont.xml 4.382526 50.843628 68.5276 0
 #desc: Residence de la Cambre (Generic)
 OBJECT_SHARED Models/Commercial/generic_building_135x65x35m_grey.xml 4.377987 50.817284 32.1806 108.0
 #desc: Saint Jean Tower (Generic)
@@ -255,11 +255,12 @@ OBJECT_STATIC residence_avenue_des_anciens_combattants.xml 4.409165 50.863564 64
 #desc: Council of the European Union Justus Lipsius Building
 OBJECT_STATIC cinquantenaire.ac 4.392895 50.840451 71.5 70
 #desc: Council of the European Union Justus Lipsius Building
-OBJECT_STATIC council_of_the_european_union_justus_lipsius_building.xml 4.382216 50.841796 55 90
+OBJECT_STATIC council_of_the_european_union_justus_lipsius_building.xml 4.382216 50.841796 76.7739 90
 #desc: Crane
-OBJECT_STATIC crane.xml 4.381741 50.840750 55 0
+OBJECT_STATIC crane.xml 4.38156403 50.84056052 62.4235 0.0 0.0 -0.0
+OBJECT_STATIC crane.xml 4.38295558 50.84060695 70.8787 0.0 0.0 -0.0
 #desc: European Parlement
-OBJECT_STATIC european_parlement.ac 4.375066 50.838694 58 180
+OBJECT_STATIC european_parlement.ac 4.375066 50.838694 79.2628 180
 #desc: Crane at Tour & Taxi
 OBJECT_STATIC crane.xml 4.340899 50.865298 24.8842 0
 #desc: Law Courts of Brussels
